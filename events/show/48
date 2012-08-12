@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>実践まるごとrhaco勉強会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/48">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::実践まるごとrhaco勉強会</h2>
+<dl>
+<dt>イベント内容</dt><dd><h3>開催概要</h3><br />
+<br />
+PHPのライブラリ <a href="http://rhaco.org/">rhaco</a> の勉強会です<br />
+アプリを作成していきながらrhacoの特徴をつかめれば成功<br />
+rhaco を使ってみたい方や、rhaco について知りたいことがある方は是非ご参加ください。<br />
+<br />
+<strong style="color:red"><br />
+当日はハンズオン形式での勉強会になりますので、可能であればノートPC を持参してください。無い人は持っている人とペアプロになります。<br />
+</strong><br />
+<br />
+<dl><br />
+<dt>参加費用</dt><dd>0円</dd><br />
+<dt>場所</dt><dd>ウノウ株式会社 <a href="http://www.unoh.net/about.html">地図</a> ※当日はビルの入り口は鍵しまっているので、インターホンの"803"で呼び出してください</dd><br />
+</dl><br />
+<br />
+<br />
+<a href="http://tokushimakazutaka.com/marugoto_rhaco_2">http://tokushimakazutaka.com/marugoto_rhaco_2</a><br />
+<br />
+<br />
+<h4>懇親会について</h4><br />
+<p>勉強会後に懇親会を予定してます。</p><br />
+<p style="color:red">参加希望のかたはコメント欄にその旨を記述お願いします。</p></dd>
+<dt>イベント開催時間</dt><dd>2008-07-19 15:00 〜 19:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2008-07-14 19:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2008-07-19 14:00:00</dd>
+</dl>
+</div>
+
+<div>
+<h3>予定</h3>
+<h4> rhaco の説明（riaf）</h4>
+<p>rhaco について簡単に説明します</p>
+
+<h4> 実践</h4>
+<p>実際に rhaco をつかってアプリケーションを作成してみます。
+ノートPC があると良いです。（無い人は持ってる人とペアプロ）</p>
+
+<h3>みなさんに質問</h3>
+<p>聞きたいことありますか？</p></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:20</li>
+<li>現在の参加人数:20</li>
+<li>懇親会参加人数:0</li>
+<li>残り:0</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>riaf</td>
+    <td>わーいわーい</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-14 19:00:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>観音寺</td>
+    <td>参加！</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-14 19:00:24</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hisaboh</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-14 19:00:28</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ogi</td>
+    <td>参加</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-14 19:14:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>風沙</td>
+    <td>参加させてください！</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-14 20:57:32</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>cocoiti</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-07-15 02:52:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>谷井</td>
+    <td>参加したいです。</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-15 07:11:35</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>jigelog</td>
+    <td>参加しまっす！</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-15 09:00:28</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>jnick-ito</td>
+    <td>参加したいです。</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-15 18:44:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>tokushima</td>
+    <td>参加</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-16 00:50:09</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tohae</td>
+    <td>参加させてくだしあ</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-16 07:34:15</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nazo</td>
+    <td>参加します！懇親会も！</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-16 12:37:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>fumix</td>
+    <td>参加お願いします</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-16 23:48:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>oooooooo</td>
+    <td>参加しまーす</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-17 00:24:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>NEKOGET</td>
+    <td>参加します。超初心者ですが、予習は何をすれば（滝汗）</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-17 11:55:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>goungoun</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-18 00:16:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>lovalotta</td>
+    <td>参加したいたいですです！</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-18 02:57:08</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>真樹</td>
+    <td>参加したいです！</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-18 14:09:24</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>naoto is</td>
+    <td>せっかくだから参加させてください</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-18 14:23:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>tenkoma</td>
+    <td>参加させてください(すべり込み的な雰囲気で)</td>
+    <td style="text-align:center"></td>
+    <td>2008-07-19 07:27:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; tokushima</h4>
+  <p>
+懇親会参加  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; riaf</h4>
+  <p>
+懇親会参加  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; cocoiti</h4>
+  <p>
+懇親会出たい  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; oooooooo</h4>
+  <p>
+懇親会参加したいです  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; 観音寺</h4>
+  <p>
+懇親会参加でお願いします  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; jigelog</h4>
+  <p>
+懇親会も参加したいでっす  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; sotaro</h4>
+  <p>
+ペアプロってなんかちがくね？ｗ  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; 風沙</h4>
+  <p>
+懇親会も参加希望  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; 真樹</h4>
+  <p>
+すみません。間違えてキャンセルしてしまいました。参加します！って大丈夫でしょうかこれ  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; 真樹</h4>
+  <p>
+あぁ、名前が変わって…。真樹=m4i です。すみません。懇親会も参加します  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; naoto is</h4>
+  <p>
+すみません、把握しました。キャンセルします。条件反射的につい押してしまったのです。  </p>
+</div>
+<div class="section">
+<h4>
+11 &nbsp; riaf</h4>
+  <p>
+とりあえず真樹さんのキャンセル解除しておきました  </p>
+</div>
+<div class="section">
+<h4>
+12 &nbsp; 真樹</h4>
+  <p>
+ありがとうございます。お手数かけてすみません。naoto is さん申し訳ないです…  </p>
+</div>
+<div class="section">
+<h4>
+13 &nbsp; riaf</h4>
+  <p>
+中の人に許可を貰ったので、定員を20にしました。もしいしださん不参加であればお手数ですがもう一度キャンセルしていただくことになりますが＞＜  </p>
+</div>
+<div class="section">
+<h4>
+14 &nbsp; naoto is</h4>
+  <p>
+ご配慮ありがとうございました。あらためてよろしくお願いします。懇親会も参加します。  </p>
+</div>
+<div class="section">
+<h4>
+15 &nbsp; ogi</h4>
+  <p>
+懇親会参加きぼうです  </p>
+</div>
+<div class="section">
+<h4>
+16 &nbsp; tenkoma</h4>
+  <p>
+懇親会も参加希望です  </p>
+</div>
+<div class="section">
+<h4>
+17 &nbsp; NEKOGET</h4>
+  <p>
+懇親会参加希望です。よろしくおねがいします～  </p>
+</div>
+<div class="section">
+<h4>
+18 &nbsp; 風沙</h4>
+  <p>
+遅れました。入れないようなので残念！次回参加させてください  </p>
+</div>
+<div class="section">
+<h4>
+19 &nbsp; 風沙</h4>
+  <p>
+会場近くでひとり勉強会中。。ところで連絡方法はこのコメント欄だけなのでしょうか？  </p>
+</div>
+<div class="section">
+<h4>
+20 &nbsp; tokushima</h4>
+  <p>
+あれ？　入り口に人いませんでした？？　まだ始まってませんよー  </p>
+</div>
+<div class="section">
+<h4>
+21 &nbsp; cocoiti</h4>
+  <p>
+まだ勉強会始まっていないです～。入り口に人がいるはずですが、もし入れなかったら803で呼び出してください～  </p>
+</div>
+<div class="section">
+<h4>
+22 &nbsp; 風沙</h4>
+  <p>
+803を呼び出ししたのですが返事がなかったので。。。今からでも大丈夫でしょうか...行ってみます  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form964330824" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/48"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form964330824', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/48', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form964330824'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/48', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_48)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/48"
+  trackback:ping="/trackbacks/receive/48"
+  dc:title=""
+  dc:identifier="/events/show/48" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20080714/1216043618">Do You PHP はてな</a> - 2008-07-14 22:53:40</dt>
+<dd><p> ついにrhaco勉強会開催！2008/07/19(土)の15時開始です。 PHPのライブラリ rhaco の勉強会です アプリを作成していきながらrhacoの特徴をつかめれば成功 rhaco を使ってみたい方や、rhaco について知りたいことがある方は是非ご参加ください。 参加費用:0円 場所:ウノウ株式</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/riaf/20080714/1216033027">WebProgを極めて居酒屋を開発する</a> - 2008-07-15 14:56:09</dt>
+<dd><p> 実践まるごとrhaco勉強会 - events.php.gr.jp </p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/riaf/20080720/1216480099">WebProgを極めて居酒屋を開発する</a> - 2008-07-20 00:09:18</dt>
+<dd><p> 実践まるごとrhaco勉強会 - events.php.gr.jp 発表に使った資料をアップしました。 実践まるごとrhacoview presentation (tags: rhaco php) </p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/gounx2/20080720/1216531348">gounx2の日記</a> - 2008-07-22 18:28:43</dt>
+<dd><p> 実践まるごとrhaco勉強会 - events.php.gr.jp 行ってきました。 主催の@riafさん、@rhacoさん、会場提供頂いた@cocoitibanさん ありがとうございました&amp;#60;(_ _)&amp;#62; 勉強会とか初参加だったのですが、楽しめました。 思ったこととか、メモしておきます。 rhacoが良いなぁ</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/48" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第54回PHP勉強会@関東 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/99">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第54回PHP勉強会@関東</h2>
+<dl>
+<dt>イベント内容</dt><dd>第54回PHP勉強会@関東を行います。<br />
+今回は、PHPアプリケーションフレームワーク"<a href="http://www.agavi.org/">agavi</a>"のリードコミッタであるdzuelkeさんを海外からゲストに迎えての勉強会となります。<br />
+agaviの話やRESTfulなURLの構築に関する内容をdzuelkeさんにして頂くとともに、日本コミュニティからも旬なPHP関連の発表をする予定です。<br />
+興味のある方は、是非ご参加ください！<br />
+<br />
+日時：2010年7月31日 14時～17時<br />
+場所：マイクロソフト新宿オフィス（OST）6FセミナールームC<br />
+151-8583 東京都 渋谷区代々木 2-1-1小田急サザンタワー<br />
+費用: なし（懇親会については、実費が発生しますのでご注意下さい）<br />
+<br />
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.jp/maps?oe=utf-8&amp;hl=ja&amp;client=firefox-a&amp;ie=UTF8&amp;q=%E6%9D%B1%E4%BA%AC%E9%83%BD+%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8+2-1-1%E5%B0%8F%E7%94%B0%E6%80%A5%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%BF%E3%83%AF%E3%83%BC&amp;fb=1&amp;gl=jp&amp;hq=%E5%B0%8F%E7%94%B0%E6%80%A5%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%BF%E3%83%AF%E3%83%BC&amp;hnear=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%E2%88%92%EF%BC%91&amp;cid=0,0,14431332047679942614&amp;ei=YX0QTPDHL8yHkAWgqe3iAQ&amp;ved=0CBUQnwIwAA&amp;ll=35.686574,139.700833&amp;spn=0.006295,0.006295&amp;iwloc=A&amp;brcurrent=3,0x60188cce3725eb45:0xffea9852992d810e,0&amp;output=embed"></iframe><br /><small><a href="http://maps.google.co.jp/maps?oe=utf-8&amp;hl=ja&amp;client=firefox-a&amp;ie=UTF8&amp;q=%E6%9D%B1%E4%BA%AC%E9%83%BD+%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8+2-1-1%E5%B0%8F%E7%94%B0%E6%80%A5%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%BF%E3%83%AF%E3%83%BC&amp;fb=1&amp;gl=jp&amp;hq=%E5%B0%8F%E7%94%B0%E6%80%A5%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%BF%E3%83%AF%E3%83%BC&amp;hnear=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%E2%88%92%EF%BC%91&amp;cid=0,0,14431332047679942614&amp;ei=YX0QTPDHL8yHkAWgqe3iAQ&amp;ved=0CBUQnwIwAA&amp;ll=35.686574,139.700833&amp;spn=0.006295,0.006295&amp;iwloc=A&amp;brcurrent=3,0x60188cce3725eb45:0xffea9852992d810e,0&amp;source=embed" style="color:#0000FF;text-align:left">大きな地図で見る</a></small><br />
+<br />
+13:50　開場<br />
+14:00　オープニング・自己紹介<br />
+14:20　セッション開始<br />
+　　　 4～5セッション程行います。（詳細は下記参照）<br />
+17:00　終了・会場クローズ<br />
+<br />
+17:30　懇親会（希望者のみ、近くの居酒屋予定)<br />
+<br />
+終了後、近くの店で懇親会を行います。<br />
+予算は4～5,000円前後を予定しています。<br />
+<br />
+開催者名:gusagi<br />
+</dd>
+<dt>イベント開催時間</dt><dd>2010-07-31 14:00 〜 17:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2010-07-18 14:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2010-07-31 14:00:00</dd>
+</dl>
+</div>
+
+<div>
+<h3>会場について</h3>
+<pre><code>当日はエレベーターにて直接6FセミナールームCまでお越しください。
+</code></pre>
+<h3>発表者募集中</h3>
+<pre><code>今回はdzuelkeさんのセッションで1.5時間、日本コミュニティから1～1.5時間のセッションを予定しています。
+発表を希望する方がいらっしゃる場合は、twitterで連絡ください (twitter:gusagi)
+（今回は、発表自体は日本語で問題ありませんが、発表資料は英語でお願いします。）
+</code></pre>
+<h3>詳細</h3>
+<table>
+<tr>  <td>発表者</td>
+  <td>タイトル・内容等</td></tr>
+<tr>  <td>dzuelkeさん</td>
+  <td>agaviに関するセッション（仮）</td></tr>
+<tr>  <td>dzuelkeさん</td>
+  <td>RESTfulなURL構築のセッション（仮）</td></tr>
+<tr>  <td>yandoさん</td>
+  <td>Lithiumのセッション</td></tr>
+<tr>  <td>cakephperさん</td>
+  <td>MongoDBかCakePHPのセッション</td></tr>
+</table></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:36</li>
+<li>現在の参加人数:14</li>
+<li>懇親会参加人数:12</li>
+<li>残り:22</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>gusagi</td>
+    <td>今回は司会進行をやらせて頂きます</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-17 14:20:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>cakephper.ichikaway</td>
+    <td>MongoDBかCakephp関係の発表します！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-21 00:25:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>MugeSo</td>
+    <td>よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-21 12:54:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nekoget</td>
+    <td>よろしくお願いします～</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-21 13:16:09</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tadashi</td>
+    <td>よろしくおねがいします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-07-22 15:24:48</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>EG</td>
+    <td>よろしくお願いします！</td>
+    <td style="text-align:center"></td>
+    <td>2010-07-22 19:47:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yohei</td>
+    <td>よろしくでーす！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-24 13:08:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>mb_substr</td>
+    <td>はじめて参加します　よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-24 23:06:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ooharabucyou</td>
+    <td>よろしくお願いします！！！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-26 18:12:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>junumk</td>
+    <td>初参加です。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-28 00:44:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Hamaco</td>
+    <td>よろしくお願いしまっす</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-28 11:16:28</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>keisuke</td>
+    <td>よろしくお願いいたします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-07-28 13:03:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>flyfront</td>
+    <td>よろしくですー</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-28 19:10:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>taka0024</td>
+    <td>行けそうなので、よろしくです。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-29 14:32:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>k-kishida</td>
+    <td>やっと参加できる目途が！！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-07-30 23:06:49</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; EG</h4>
+  <p>
+直前で申し訳ないです・・、ちょっと予定がかぶってしまったためキャンセルします。  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form905019660" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/99"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form905019660', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/99', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form905019660'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/99', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_99)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/99"
+  trackback:ping="/trackbacks/receive/99"
+  dc:title=""
+  dc:identifier="/events/show/99" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/gusagi/20100718/1279448121">gusagiの日記</a> - 2010-07-18 19:15:23</dt>
+<dd><p> 掲題の通り、7/31(土)に開催予定の第54回PHP勉強会@関東の募集が始まっています。 第54回PHP勉強会@関東を行います。 今回は、PHPアプリケーションフレームワーク”agavi”のリードコミッタであるdzuelkeさんをゲストに迎えての勉強会となります。 agaviの話やRESTfulなURLの</p></dd>
+<dt>
+<a href="http://pneskin2.nekoget.com/press/?p=436">ねこげっとぷれす</a> - 2010-08-05 09:44:22</dt>
+<dd><p>http://events.php.gr.jp/events/show/99<br />
+第54回PHP勉強会@関東に参加してきました。<br />
+今回はyoutubeにUP分と、Quicktimeのファイル(mov)をDLできるようにしています。<br />
+（随時UPしています）<br />
+勉強会の動画（随...</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/99" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

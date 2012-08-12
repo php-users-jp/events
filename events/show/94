@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第2回 symfony1.4勉強会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/94">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第2回 symfony1.4勉強会</h2>
+<dl>
+<dt>イベント内容</dt><dd>ファーストロジック社員が話し手となりセミナーの形式で進行させていただきます。<br />
+（講師を他からもう一人位募集できればと思って居ります。）<br />
+内容は、仮想環境で動くsymfonyを使い、フレームワークにおけるアプリケーション作成の快適さを説明します。<br />
+普段、実装し難いログインログアウトの処理を簡単に実装する方法も説明します。<br />
+セミナー後に簡単な交流会を開きたいと思います。<br />
+最後にsymfonyが動く状態の仮想マシンを配る予定です。<br />
+<br />
+ぜひ、お気軽にご参加ください。<br />
+<br />
+対象は<br />
+PHPを学習し終えた人達（「とりあえずアプリケーションを作れる」レベルになっているはず。次はフレームワークだ！な人）<br />
+フレームワークに挫折した人達（動かすまでの処理が多すぎ、覚える事が多すぎ、なかなか見える所まで行かないような人）<br />
+会場は、株式会社ファーストロジック（JR浜松町駅前）<br />
+<a href="http://www.firstlogic.co.jp/about/index.html#map">http://www.firstlogic.co.jp/about/index.html#map</a><br />
+です。</dd>
+<dt>イベント開催時間</dt><dd>2010-04-28 19:00 〜 20:30</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2010-04-21 00:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2010-04-27 23:59:59</dd>
+</dl>
+</div>
+
+<div>
+</div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:20</li>
+<li>現在の参加人数:18</li>
+<li>懇親会参加人数:8</li>
+<li>残り:2</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>Mochi2</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-04-21 00:00:15</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>kami256</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2010-04-21 00:00:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>urt</td>
+    <td>よろしくお願いしま</td>
+    <td style="text-align:center"></td>
+    <td>2010-04-21 00:09:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>eMegane</td>
+    <td>はじめて参加させていただきます。よろしくお願いいたします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-04-21 10:34:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>pkatin</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-04-21 12:04:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>micky22</td>
+    <td>初めて参加させていただきます。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-04-21 12:14:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>crabi</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-04-21 13:00:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>EG</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-04-21 13:38:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>wakaba</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2010-04-21 14:02:26</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>にゃがはら</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2010-04-21 15:29:27</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yanchi</td>
+    <td>初参加ですがよろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-04-21 17:18:15</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>k_st</td>
+    <td>初めて参加させていただきます。よろしくお願い致します。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-04-21 17:43:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kana</td>
+    <td>初めて参加させていただきます。よろしくお願い致します！</td>
+    <td style="text-align:center"></td>
+    <td>2010-04-21 17:53:21</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>saku</td>
+    <td>初参加ですがよろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-04-21 18:43:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>とろ</td>
+    <td>symfony未経験です。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-04-22 09:06:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>suzuki-s</td>
+    <td>初参加です。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-04-22 10:42:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>はるさめ。</td>
+    <td>初めて参加させていただきます。よろしくお願い致します。</td>
+    <td style="text-align:center"></td>
+    <td>2010-04-22 19:29:05</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>mitaro329</td>
+    <td>初参加！よろしくお願いいたします！</td>
+    <td style="text-align:center"></td>
+    <td>2010-04-23 00:33:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>mazkeng</td>
+    <td>楽しみです！初めての参加ですがよろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-04-23 11:05:21</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>さっかもと</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-04-23 13:40:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ねもと</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-04-23 20:48:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>mizukitty02</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-04-26 19:28:35</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; deniyung</h4>
+  <p>
+定員オーバーでしょうか？参加希望です。よろしくお願い致します。  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; kuma2gou</h4>
+  <p>
+大丈夫ですよ！御出でください。  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; さっかもと</h4>
+  <p>
+ごめんなさい、イケなくなりました。  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; EG</h4>
+  <p>
+すいません参加はできますが遅れそうです・・（おそらく30分ほど）  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; kuma2gou</h4>
+  <p>
+さっかもとさん、残念ですが、またの機会にお待ちしてます  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; kuma2gou</h4>
+  <p>
+EGさん了解いたしました。  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; saku</h4>
+  <p>
+直前になってしまい、大変申し訳ありません。緊急の障害対応のため参加できなくなってしまいました。  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form1422724266" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/94"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form1422724266', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/94', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form1422724266'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/94', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_94)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/94"
+  trackback:ping="/trackbacks/receive/94"
+  dc:title=""
+  dc:identifier="/events/show/94" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20100419/1271640075">Do You PHP はてな</a> - 2010-04-19 10:21:45</dt>
+<dd><p> events.php.gr.jpでアナウンス出ました。第2回symfony1.4勉強会が開催されるようです。会場は前回と同じく、浜松町にある株式会社ファーストロジックさん。 内容は、仮想環境で動くsymfonyを使い、フレームワークにおけるアプリケーション作成の快適さを説明します。 普段、</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/94" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

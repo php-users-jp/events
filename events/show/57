@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>CakePHPカンファレンス東京 非公式後夜祭 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/57">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::CakePHPカンファレンス東京 非公式後夜祭</h2>
+<dl>
+<dt>イベント内容</dt><dd>10/25のCakePHPカンファレンス東京終了後に、近所の旅館に集まる会です。<br />
+そこで何をするかは参加者の自由。<br />
+<br />
+ - ただひたすら朝まで眠る<br />
+ - CakePHPについて夜通し熱く語る<br />
+ - 突発的ライトニングトーク大会<br />
+ - もくもくとハックする<br />
+ - 宴会:-)<br />
+<br />
+などなど、まわりに迷惑をかけない範囲でなんでもありということで。<br />
+<br />
+日時:     2008年10月25日(土) 18:00頃～2008年10月26日(日) 10:00頃<br />
+会場:     春日旅館(〒105-0014 東京都港区芝3-43-18)<br />
+　　      http://travel.rakuten.co.jp/HOTEL/13560/13560.html<br />
+　　      最寄り駅は田町/三田/赤羽橋<br />
+参加費用: 宿泊費(1泊6,000円: 当日現地徴収)＋飲食費等<br />
+<br />
+宿泊施設について<br />
+- いわゆる昔ながらの旅館。風呂、トイレは共同です。<br />
+- 基本的に和室大部屋を共用する方向で行きます。個室のほうが落ち着くという方は、面倒ですがご自分で別途個室を確保していただきます。その場合は参加申込時のコメントで「個室を自分で確保する」ことを教えてください。<br />
+- 旅館にはインターネット接続環境はありません。イーモバイル接続の共有などで対応する予定です。<br />
+- 夕食・朝食はついていません。その場のノリで適当に調達することになります(飲食物の持ち込みはOKです)。<br />
+<br />
+<h3>連絡先について</h3><br />
+参加者向けの連絡は、主にphp-hackathonグループで行う予定です。<br />
+ <a href="http://groups.google.com/group/php-hackathon/">http://groups.google.com/group/php-hackathon/</a><br />
+このイベントに参加される方は、ぜひこちらのグループにもご参加ください。<br />
+<br />
+(注) このイベントは、CakePHPカンファレンス東京およびCakePHPカンファレンス準備委員会との直接の関係はありません。あくまで有志が自主的に開催するものです。このイベントについてCakePHPカンファレンス準備委員会に問い合わせることはお控えください。<br />
+</dd>
+<dt>イベント開催時間</dt><dd>2008-10-25 18:00 〜 10-26 10:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2008-10-15 21:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2008-10-23 17:00:00</dd>
+</dl>
+</div>
+
+<div>
+<h3> 備考</h3>
+<ul>
+<li> カンファレンスに参加しない人の参加も歓迎です。</li>
+<li> <a href="http://web.travel.rakuten.co.jp/portal/my/toukou.iken?f_hotel_no=13560&amp;f_kaiin_no=&amp;f_tel=">お客様の声</a></li>
+<li> 参加申し込みの際の「懇親会」の欄は、特にチェックしていただかなくてもけっこうです。</li>
+<li> 「大部屋はちょっといやなので個室を自分で確保する」という場合は参加申し込みの際にコメントでお知らせください。</li>
+<li> 都合が悪くなった場合などのキャンセルは、旅館のキャンセル料の都合上できる限り10/21までにお願いします。</li>
+</ul>
+
+<h3> その他</h3>
+<p>この部分は、参加登録をされた方なら誰でも編集できます。「Wikiページを編集する」ボタンでどんどん書き換えてやってください。</p></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:15</li>
+<li>現在の参加人数:5</li>
+<li>懇親会参加人数:0</li>
+<li>残り:10</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>m-takagi</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-15 21:27:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>lllnorikolll</td>
+    <td>参加します！</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-15 22:03:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>maki</td>
+    <td>宿ゲットで一石二鳥!?</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-15 22:23:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>NEKOGET</td>
+    <td>参加しますー</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-16 02:19:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>k-tanaka</td>
+    <td>参加致します。宜しくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-16 12:32:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Siena.</td>
+    <td>夜中になるかもだけど紛れ込む</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-23 12:18:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>slywalker</td>
+    <td>日帰りもきついので、泊まって帰ります</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-23 16:17:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; k-tanaka</h4>
+  <p>
+急用が出来てしまったので、申し訳ありませんがキャンセル致します。  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; NEKOGET</h4>
+  <p>
+急用の為、申し訳ありませんがキャンセル致します。  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form688377905" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/57"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form688377905', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/57', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form688377905'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/57', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_57)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/57"
+  trackback:ping="/trackbacks/receive/57"
+  dc:title=""
+  dc:identifier="/events/show/57" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://pneskin2.nekoget.com/press/?p=150">ねこげっとぷれす</a> - 2008-10-16 02:55:16</dt>
+<dd><p><br />
+<br />
+<br />
+あれ？いつのまにか毎月の行事になってない？（笑）<br />
+ということで、今月もphp-hackathonです。<br />
+今回は10/25のCakePHPカンファレンス東京終了後に、近所の旅館に集まる会です。<br />
+参加申し込...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/takagimasahiro/20081016/1224104287">m-takagiの日記</a> - 2008-10-16 06:01:12</dt>
+<dd><p> というわけでphp-hackathonシリーズ第４弾。毎月開催どころか月２回ってどんなペースやねん。 10/25のCakePHPカンファレンス東京終了後に、近所の旅館に集まる会です。 そこで何をするかは参加者の自由。 ただひたすら朝まで眠る CakePHPについて夜通し熱く語る 突発的ライ</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/lllnorikolll/20081016">php-hackathon参加日記</a> - 2008-10-16 11:18:59</dt>
+<dd><p> 次回php-hackathonは大分と思いきや！ なんと！ 「CakePHPカンファレンス東京 非公式後夜祭」開催決定！ http://events.php.gr.jp/events/show/57 場所は春日旅館（三度目）です。 旅館はちょっとーと思っている方も、ぜひ一度行ってみるといいと思います。 お座敷飲み会・</p></dd>
+<dt>
+<a href="http://www.gloriouslife.sakura.ne.jp/blog/?p=436">Glorious Life</a> - 2008-10-16 12:56:17</dt>
+<dd><p>10月25日の土曜日<br />
+CakePHPカンファレンス東京が開催される。<br />
+URL：http://events.php.gr.jp/events/show/55<br />
+CakePHPのイベントは毎回大盛況で参加募集開始数分でいっぱいになる程・・・！<br />
+ずっと参加した...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/slywalker/20081026/1225015383">忍び歩く男 - SLYWALKER</a> - 2008-10-26 20:34:29</dt>
+<dd><p> CakePHPカンファレンス events.php.gr.jp - CakePHPカンファレンス東京 CakePHPカンファレンス 個人的に興味をもったとこ Garrett J Woodworth氏 招待講演 BugTicketがゼロになるまでStableはださないよ！ CakePHP2.0からはPHP4のサポートはなくなる！ CakePHP3.0まで考えて</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/takagimasahiro/20081028/1225141073">m-takagiの日記</a> - 2008-10-28 06:01:43</dt>
+<dd><p> 10/25に行われたCakePHPカンファレンス東京に参加してきました。 期待通りの本編 CakePHPを本格的に使ったことがない状態で参加させていただきました。内容についてはばっさり省略(え？)しますが、これだけの規模のイベントをスタッフのまとまりに関心させられました*1。 会</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/57" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

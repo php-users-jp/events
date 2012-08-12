@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第40回PHP勉強会@関東 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/68">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第40回PHP勉強会@関東</h2>
+<dl>
+<dt>イベント内容</dt><dd>第40回PHP勉強会@関東を開催します。<br />
+今回は、PHPの開発ツール『Delphi for PHP』(以下、D4P)の開発者であるJose Leon (ほせれおん)さんが来日されるので、いつもと少し変わった形での開催となります。<br />
+<br />
+前半はJoseさんのお話（スペインやヨーロッパのコミュニティ事情とか、D4Pを作ろうと思ったきっかけなど）を聞くセッション、後半は日本の独自文化に関連した発表や「日本のコミュニティってこんな事やってるよ！」といった発表のセッションとなります。<br />
+<br />
+※今回は、上記テーマに合わせた発表を一部の方にお願いしています。<br />
+※Joseさんのセッションは、英語でのお話となりますが、通訳の方を手配しているので、質疑応答などは日本語でも大丈夫だと思います。<br />
+<br />
+一風変わったPHP開発ツールであるD4Pの話を聞いてみたい方や、海外のコミュニティ話に興味のある方は、宜しければご参加下さい。<br />
+<br />
+また、勉強会終了後には参加者同士で交流を深めるために懇親会を行います。<br />
+参加される方は申込み時に合わせて参加表明をお願いします。<br />
+<br />
+なお、今回はD4Pの開発元であるエンバカデロ・テクノロジーズさんのご厚意で、勉強会・懇親会の会場手配を行って頂きました。<br />
+<br />
+■概要 <font color="#ff0000">2009/02/12 13:00追記</font><br />
+ギリギリになって申し訳ありません。<br />
+概要ですが、下記に決定いたしました！<br />
+---------------------------------------------------------------<br />
+【14日　PHP勉強会】<br />
+時間：13:00-17:00<br />
+定員：35名<br />
+参加費：無料<br />
+場所：東京都新宿区 <br />
+※詳細は、参加申し込み後に表示されます<br />
+-----------------------------------------------------------------<br />
+【14日　懇親会】<br />
+時間：18:00-<br />
+定員：20名まで<br />
+会費：4000円<br />
+締切：13日（金）14時まで<br />
+<br />
+※詳細は、参加申し込み後に表示されます<br />
+-----------------------------------------------------------------<br />
+【14日-15日　宿泊】<br />
+定員：6名まで<br />
+費用：5000円（朝食別）<br />
+締切：14日（土）13時まで（勉強会会場で最終確認）<br />
+<br />
+※詳細は、参加申し込み後に表示されます<br />
+-------------------------------------------------------------------<br />
+【15日　ハンズオン勉強会】<br />
+時間：9:00-12:00<br />
+定員：10名（泊まりの人はそのまま参加）<br />
+参加費：無料（Delphi for PHP トライアル版をインストールしたPCを持参のこと）<br />
+締切：当日まで<br />
+<br />
+※詳細は、参加申し込み後に表示されます<br />
+----------------------------------------------------------------------<br />
+<font color="#ff0000">宿泊・ハンズオン勉強会に参加される方は、Wikiを編集して自分のハンドルネームを記入願います</font><br />
+<font color="#ff0000">2009/02/13 16:20追記</font><br />
+宿泊・ハンズオンについて、調整がつきましたので締め切りを延長いたします。<br />
+勉強会開始時刻までで、人数が埋まった時点で申し込み締め切りと致します。<br />
+<br />
+<h4>■■■ Hackathonについて ■■■</h4><br />
+懇親会の後に、Joseさんを交えてHackathonを行います。<br />
+<br />
+費用：素泊まり 5,000円<br />
+会場：勉強会会場のホテル<br />
+主な内容：<br />
+　2/14夜間：ざっくばらんに楽しんで頂く予定です<br />
+　2/15午前：Joseさん自身によるハンズオンを企画しています<br />
+<br />
+<h4>D4Pについて</h4><br />
+D4Pについては、下記のURLが参考になると思います。<br />
+トライアル版もありますので、是非おためし下さい！<br />
+<br />
+<dl><dt>トライアル版</dt><dd><a href="http://www.codegear.com/jp/downloads/free/delphiphp">http://www.codegear.com/jp/downloads/free/delphiphp</a></dd><dt>サンプル：</dt><dd>Delphi for PHPのサンプルプログラムオンライン<br />
+<a href="http://dn.codegear.com/jp/article/38224">http://dn.codegear.com/jp/article/38224</a></dd><dt>CodeZineの記事</dt><dd>Delphi for PHP はじめの3歩<br />
+<a href="http://codezine.jp/article/corner/2">http://codezine.jp/article/corner/2</a></dd><dd>Delphi for PHPでコンポーネントを作成する(Joseさんの記事の邦訳)<br />
+<a href="http://codezine.jp/article/corner/4">http://codezine.jp/article/corner/4</a></dd><dt>動画</dt><dd>Delphi for PHP 2.0の概要（英語）<br />
+<a href="http://dn.codegear.com/jp/article/37897">http://dn.codegear.com/jp/article/37897</a></dd><dd>Delphi for PHP 2.0の新機能（英語）<br />
+<a href="http://dn.codegear.com/jp/article/37891">http://dn.codegear.com/jp/article/37891</a></dd><dd>YouTubeのDelphi for PHPのビデオ<br />
+<a href="http://dn.codegear.com/jp/article/38208">http://dn.codegear.com/jp/article/38208</a></dd></dl><br />
+<br />
+■Ustream配信中！<br />
+http://www.ustream.tv/channel/phpstudy</dd>
+<dt>イベント開催時間</dt><dd>2009-02-14 13:00 〜 17:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2009-02-04 13:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2009-02-14 11:00:00</dd>
+</dl>
+</div>
+
+<div>
+<h3> タイムスケジュール（仮）</h3>
+<hr />
+<ul>
+<li> 13:00 開始挨拶</li>
+<li> 13:05 Joseさんの紹介</li>
+<li> 13:10 Joseさんによるセッション（間に休憩の可能性あり）</li>
+<li> 14:40 休憩</li>
+<li> 15:00 発表（yandod/ 5 stories of Japanese PHP Community）</li>
+<li> 15:35 発表（sotarok/openpearについて）</li>
+<li> 16:10 発表（kunit/TDDLive(仮)）</li>
+<li> 16:45 クロージング</li>
+</ul>
+
+<h4> 発表（yandod/ 5 stories of Japanese PHP Community）</h4>
+<ul>
+<li> 発表資料</li>
+<ul>
+<li> <a href="http://www.slideshare.net/yandod/20090214-phpstudy">slideshare</a></li>
+</ul>
+</li>
+</ul>
+
+<h4> 発表（sotarok/openpearについて）</h4>
+<ul>
+<li> <a href="http://d.hatena.ne.jp/sotarok/20090214/php_study_40_openpear">発表資料など</a></li>
+</ul>
+
+<h4> 発表（kunit/TDDLive(仮)）</h4>
+
+<h3> 宿泊・ハンズオンの参加者一覧</h3>
+<table>
+<tr>  <td>ハンドル</td>
+  <td>宿泊希望</td>
+  <td>ハンズオン</td></tr>
+<tr>  <td>m-takagi</td>
+  <td>○</td>
+  <td>○</td></tr>
+<tr>  <td>個々一番</td>
+  <td>○</td>
+  <td>○</td></tr>
+</table></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:35</li>
+<li>現在の参加人数:26</li>
+<li>懇親会参加人数:12</li>
+<li>残り:9</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>gusagi</td>
+    <td>今回も進行と幹事をやらせて頂きます</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-04 00:17:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>m-takagi</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-04 13:04:15</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>haitekuya</td>
+    <td>よろしくお願いいたします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-04 14:02:55</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>個々一番</td>
+    <td>お嫁さん募集中</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-04 14:17:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yando</td>
+    <td>さんか</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-04 14:22:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>akky</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-04 15:15:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>naoto is</td>
+    <td>よろしく</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-04 21:34:28</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>inudog</td>
+    <td>よろしくお願いいたします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-04 21:50:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>maru_cc</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-04 21:53:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>fivestar</td>
+    <td>よろしくおねがいします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-04 22:45:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ねもと</td>
+    <td>さんか</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-04 23:51:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>風沙</td>
+    <td>久々の参加です。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-05 01:27:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kunit</td>
+    <td>よろしくお願いします。こりずに今回も発表します。</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-05 12:26:09</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sotaro</td>
+    <td>さんかんか</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-06 17:41:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>japansea</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-07 01:00:48</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>けせら２</td>
+    <td>2度目ですがよろしくお願いいたします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-09 12:06:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>jiska</td>
+    <td>よろしくお願いします。Hackathonは都合が合わないので欠席します…</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-09 14:54:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>miu0212</td>
+    <td>初めて参加しますがよろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-09 22:17:21</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sasezaki</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-09 23:02:22</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>shiotty</td>
+    <td>よろしくお願いいたします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-10 11:45:24</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ogi</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-10 16:07:24</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>twk</td>
+    <td>途中で抜けてしまいますがよろしくです</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-12 12:22:00</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>speace</td>
+    <td>はじめて参加します。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-12 17:57:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>etc</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2009-02-13 08:49:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tail</td>
+    <td>英語という事で先輩に誘われたので参加してみます</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-13 13:13:09</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>komura</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-13 21:25:48</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kato</td>
+    <td>ホセさんの部分のみ参加させていただければと思います。宜しくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-14 00:59:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sakaik0</td>
+    <td>ダブルヘッダにつき懇親会から合流します</td>
+    <td style="text-align:center">○</td>
+    <td>2009-02-14 01:32:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>matsuu</td>
+    <td>初参加です。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-02-14 10:57:48</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; twk</h4>
+  <p>
+興味あるけど夕方用事があるのでJoseさんのセッションしか出られません。なのでしばらく申し込みを自重します。  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; yando</h4>
+  <p>
+日本のPHPer文化についての発表をしようかな  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; akky</h4>
+  <p>
+そういえば、フランスで使った英語プレゼンがある。PHPer文化まで踏み込んでない気はするけど  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; m-takagi</h4>
+  <p>
+hackathonも参加しますー  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; maru_cc</h4>
+  <p>
+日曜日は予定があるので、hackathonは欠席です。。  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; 個々一番</h4>
+  <p>
+はっかそん申し込みわすれてましたがもしまだ間に合えば参加したいです。  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; gusagi</h4>
+  <p>
+m-takagiさんと個々一番さんの分、はっかそんの参加人数として連絡しておきました  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form797521484" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/68"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form797521484', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/68', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form797521484'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/68', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_68)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/68"
+  trackback:ping="/trackbacks/receive/68"
+  dc:title=""
+  dc:identifier="/events/show/68" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20090204/1233744263">Do You PHP はてな</a> - 2009-02-04 19:45:02</dt>
+<dd><p> アナウンス出ました。今回は『Delphi for PHP』の開発者であるJose Leon氏を招いての勉強会だそうです。 前半はJoseさんのお話（スペインやヨーロッパのコミュニティ事情とか、D4Pを作ろうと思ったきっかけなど）を聞くセッション、後半は日本の独自文化に関連した発表や「</p></dd>
+<dt>
+<a href="http://nequal.jp/blog/2009/02/35/">nequal blog</a> - 2009-02-05 13:43:45</dt>
+<dd><p>第40回PHP勉強会でopenpearについての発表をします。<br />
+<br />
+第40回PHP勉強会@関東<br />
+<br />
+今回は、ヨーロッパから Jose Leon さんがいらっしゃるということなので、英語での発表になったりしそうです。<br />
+open...</p></dd>
+<dt>
+<a href="http://kashioka.net/2009/02/40php.html">Love Tokyo</a> - 2009-02-05 17:54:52</dt>
+<dd><p>知り合いいっぱいいるのに一回も参加してないPHP勉強会ｗはじめの頃、乗り遅れたま...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/cocoiti/20090207">個々一番の.....</a> - 2009-02-07 22:44:27</dt>
+<dd><p> 今回は運営にはかかわっておらず、現場で何かあればお手伝い程度をできればなーとおもっています。 http://events.php.gr.jp/events/show/68 個人的には、もともと4年間Delphi仕事をやった経緯があり非常に興味深いです。 たぶんここのBlog読んでる人は、Delphiの名前を知っ</p></dd>
+<dt>
+<a href="http://www.gusagi.com/modules/blog/details.php?bid=154">ぐさぎ どっと こむ - blog</a> - 2009-02-08 22:41:26</dt>
+<dd><p>今週末〜来週末に掛けて、OSS関連のイベントが幾つかあります  一つは、2/12〜2/13に開催されるDevelopers Summit 2009。2月13日(金)の午後に、XOOPS Cubeプロジェクトのブースにいると思います。このイベントは、開発者なら聞いておきたいセッションセッションが幾つかあ...</p></dd>
+<dt>
+<a href="http://blogs.itmedia.co.jp/barbaro/2009/02/jose-3cc0.html">Allegro Barbaro</a> - 2009-02-13 00:27:53</dt>
+<dd><p>本日、スペインよりはるばる、Delphi for PHPのチーフアーキテクトJo</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yandod/20090214/1234596712">yandodの日記</a> - 2009-02-14 16:31:59</dt>
+<dd><p> events.php.gr.jp - 第40回PHP勉強会@関東 今回はスペインからやってきたJoseさん向けに日本のコミュニティについての紹介の発表をしてきました。 全部で英語で喋るというのもやりたいとは思っていましたが、今回は挨拶のみ英語でやる形に妥協しました。 独断と偏見で日本の</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/sotarok/20090214/php_study_40_openpear">GRANADA Hatena @ sotarok</a> - 2009-02-14 16:55:44</dt>
+<dd><p> 今回は，スペインからスペシャルゲストがきていたので，スペシャルな勉強会となり，なかなか楽しめました． 開催にあたっては色々ご尽力くださったエンバカデロ・テクノロジーズさんの皆様ありがとうございます． events.php.gr.jp - 第40回PHP勉強会@関東 Allegro Barbaro </p></dd>
+<dt>
+<a href="http://labs.cybozu.co.jp/blog/akky/archives/2009/02/40th-php-study-meeting-kanto.html">秋元@サイボウズラボ・プログラマー・ブログ</a> - 2009-02-14 22:25:50</dt>
+<dd><p>第40回PHP勉強会@関東 Jose Leon(ホセレオン)さんによる、Delp...</p></dd>
+<dt>
+<a href="http://blogs.itmedia.co.jp/barbaro/2009/02/2phpjose-e87e.html">Allegro Barbaro</a> - 2009-02-15 12:07:53</dt>
+<dd><p>この週末は、第40回PHP勉強会@関東に出席。木曜日にスペインから来日したDel</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/Fivestar/20090215">ゆっくり*ゆっくり</a> - 2009-02-16 00:20:55</dt>
+<dd><p> events.php.gr.jp - 第40回PHP勉強会@関東 今回はスペインからDelphi for PHPの開発者のJose Leonさんにいらしていただいたわけですが。。。 すいません寝坊しました。丁度Joseさんのセッションが終わるころに到着し、楽しみにしていたもののほとんどを聞き逃してしまいまし</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/i_ogi/20090215/1234714387">おぎろぐはてな</a> - 2009-02-16 01:13:16</dt>
+<dd><p> ということで参加して撮影してきました。 events.php.gr.jp - 第40回PHP勉強会@関東 今回の勉強会はいつもと違う感じ。スペシャルゲストとして、 Chief Architect for Delphi for PHP の Jose Leon さんがフランスから来られており、Delphi for PHPの話をしていただいたのと</p></dd>
+<dt>
+<a href="http://www.gusagi.com/modules/blog/details.php?bid=155">ぐさぎ どっと こむ - blog</a> - 2009-02-16 23:05:35</dt>
+<dd><p>2/14に行われた第40回PHP勉強会@関東に参加&amp;進行役をしてきました。今回は、PHPの開発ツール『Delphi for PHP』(以下、D4P)の開発者であるJose Leon (ほせれおん)さんが来日されていたので、前半はD4Pに関するプレゼンなどを行って頂き、後半は日本のコミュニティの勉強会...</p></dd>
+<dt>
+<a href="http://nequal.jp/blog/2009/02/38/">nequal blog</a> - 2009-02-17 01:07:07</dt>
+<dd><p>第40回PHP勉強会は，今回はスペインからDelphi for PHPの開発者であるJose Leonさんがいらっしゃっていたので，英語エディションです．<br />
+Introduction of openpear<br />
+View more presentations from sotarok. (tags: php pe...</p></dd>
+<dt>
+<a href="http://nonn-et-twk.net/twk/node/286">twk @ ふらっと</a> - 2009-02-17 15:11:08</dt>
+<dd><p>先週末、第40回PHP勉強会と最新ベンチャー企業のビジネスモデル研究会に参加してきました。</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/takagimasahiro/20090219/1234989339">m-takagiの日記</a> - 2009-02-19 05:39:11</dt>
+<dd><p> 第40回PHP勉強会@関東に参加してきました。来日中のJos&amp;#x00e9; Le&amp;#x00f3;n氏を迎えた特別編。忘れないうちに簡単にまとめておきます。 勉強会本編 前半はJos&amp;#x00e9;さんによるDelphi for PHPの紹介。 RADビジュアルPHP開発環境 - Delphi for PHP 発表は英語でしたが、ス</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/sakaik/20090214/p1">sakaikの日々雑感〜(C)編 </a> - 2009-02-22 18:57:16</dt>
+<dd><p> 　今月のPHP勉強会は、Delphi for PHP 開発者の Jose Leon氏を招いて。　なのですが私は日中は別件のデータベース関連勉強会があったのでそちらが終わってから懇親会のみ参加。20人弱ですでに盛り上がっていました。素敵なお部屋のお店でしたね。　最近なかなか直接顔を合わ</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/68" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

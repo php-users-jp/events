@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第46回PHP勉強会@関東 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/84">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第46回PHP勉強会@関東</h2>
+<dl>
+<dt>イベント内容</dt><dd>第46回PHP勉強会@関東を開催します。<br />
+今回は、35名（開催者・会場責任者を除く）の募集となりますが、宜しければご参加下さい。<br />
+<br />
+勉強会終了後には参加者同士で交流を深めるために懇親会を行います。<br />
+参加される方は申込み時に合わせて参加表明をお願いします。<br />
+<br />
+■概要<br />
+日時: 2009年09月30日(水) 19:30～21：30<br />
+会場: <a href="http://www.gree.co.jp/corporate/location/">グリー株式会社 <span style="font-weight: bold; font-size:large;">3Fセミナールーム</span></a><br />
+　　　東京都港区六本木4-1-4 黒崎ビル 3F<br />
+費用: なし（懇親会については、実費が発生しますのでご注意下さい）<br />
+<ul><li>まちがっても<span style="font-weight: bold; font-size:large; color: #ff0000;">5F受付には行かないでください</span></li><li>裏口のエレベータから<span style="font-weight: bold; font-size:large; color: #ff0000;">3Fに</span>上がってください</li></ul><br />
+<br />
+■懇親会<br />
+<ul><li>費用: 1,500～2,000円前後<br />勉強会会場でそのまま懇親会となります</li></ul><br />
+<br />
+■発表者、募集します<br />
+「話したいことあるよ！」という方をお待ちしています。 <br />
+「こんなネタについて皆で話したいので時間下さい！」という方も大歓迎です。<br />
+<br />
+■手伝っていただける方、募集します<br />
+勉強会に参加される方で、勉強会当日の受付や会場準備を手伝って頂ける方がいらっしゃいましたら、登録時のコメントに書いて下さい。<br />
+※開始時刻の15分くらい前には会場入りして頂けると助かります。<br />
+<br />
+■その他<br />
+<ul><li>TypeKeyによる認証は動作が不安定なケースがありますので、はてな・mixiからの認証をお勧めします</li></ul><br />
+<br />
+<!-- <embed width="563" height="266" type="application/x-shockwave-flash" flashvars="channelId=303222&brandId=1&channel=#phpstudy&server=chat1.ustream.tv" pluginspage="http://www.adobe.com/go/getflashplayer" src="http://www.ustream.tv/IrcClient.swf" allowfullscreen="true" /><br />
+<br />
+Ustream による中継をしています。 http://www.ustream.tv/channel/phpstudy --></dd>
+<dt>イベント開催時間</dt><dd>2009-09-30 19:30 〜 21:30</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2009-09-17 20:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2009-09-30 19:30:00</dd>
+</dl>
+</div>
+
+<div>
+<h3> タイムスケジュール（仮）</h3>
+<hr />
+<ul>
+<li> 19:30 開始挨拶</li>
+<li> 19:35 自己紹介など（20分）</li>
+<li> 19:55 発表枠（途中に若干の休憩を入れます）</li>
+<li> 21:25 クロージング</li>
+</ul>
+
+<h3> 発表者募集中！</h3>
+<ul>
+<li> 「話したいことあるよ！」という方をお待ちしています。</li>
+<li> 「こんなネタについて皆で話したいので時間下さい！」という方も大歓迎です。</li>
+</ul>
+
+<p>■発表する方へのお願い
+発表の対象者（「PHP初心者」とか「CakePHPを使ったことがある人」とか「PHP使いまくっている人」とか）があれば書いて頂けると助かります。</p>
+
+<h5>CodeIgniterで階層化MVCのおはなし（NEKOGET/20分/CodeIgniterに興味がある人。）</h5>
+<p>CodeIgniterのHMVC modular extensionsの紹介等したいと思います。
+本体に組み込まれている、unit_testクラスの話も少しやります。</p>
+
+<h5> CakePHPのWebTestCaseでfixtureを使う（k-kishida/30分/CakePHPでTestを見たこと・書いたことがあるor興味がある人）</h5>
+<p>CakePHPのWebTestCaseは、そのままではfixture（テストデータの自動投入）が使えないので、使えるようにしてみたよ！というお話。最近ネタ系ばかりだったので、マジメにやります。</p>
+
+<h5> PHPで作る超カンタンPHPソース検索エンジン (sotarok/20分/検索エンジンとか技術的なことに興味がある人)</h5>
+
+<p>検索システムは，なにも難しいソフトを入れなくても，ポイントをおさえればPHPでもお気軽に作れます．
+割と簡単なつくりの検索エンジンの作り方と，PHPでそれを実装する方法をカンタンに紹介して，実際にソース検索をデモります．</p>
+
+<p>アジェンダ：</p>
+<ul>
+<li>検索エンジンに必要なこと</li>
+<ul>
+<li>転置インデックス</li>
+<li>クロールとキーワード抽出</li>
+<li>スコアリングと並びかえ</li>
+</ul>
+</li>
+<li>30分スクリプトHyper Puddingの紹介とデモ</li>
+<li>技術的課題</li>
+</ul>
+
+<h5> limonadeを飲んだ（sanemat/5分/つらくないコードを書きたいPHP初級者）</h5>
+<p>PHP初心者は脱したけれど中級・上級にはまだ遠い、そんなPHP初級者向けに薄いフレームワークのLTをしたいです。という自分もPHP初級者です。limonadeを題材につらくないコードを書きましょう。
+懇親会でそのまま会場＆プロジェクタが使えるなら本編でなく懇親会でやろうかと思います</p>
+
+<h4> テンプレート</h4>
+<pre><code>*** タイトル（発表者/時間/対象者）
+内容の簡単な説明
+</code></pre>
+<h4> サンプル</h4>
+<pre><code>*** PHP勉強会でやりたいこととか（gusagi/20分/PHP勉強会に意見とかある人）
+もっと「参加して良かった」と思える勉強会にしたいと思っています。
+アンケートもやってみたんですが、ディスカッション形式でも色々聞きたいので、
+「こういう方法もありじゃない？」というアイデアを聞かせて下さい。</code></pre>
+<ul>
+<ul>
+<li></li>
+</ul>
+</li>
+</ul>
+<pre><code>*** XOOPS Cubeで携帯対応（gusagi/10分/XOOPSとか携帯とか興味ある人）
+携帯対応させるためにやったこととか、使っているライブラリとかを話したいと思います。
+他のCMSとかにも応用できる部分もあると思います。</code></pre></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:36</li>
+<li>現在の参加人数:34</li>
+<li>懇親会参加人数:29</li>
+<li>残り:2</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>gusagi</td>
+    <td>今回も司会・進行をやらせていただきますー</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-17 00:08:34</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>inudog</td>
+    <td>ひさしぶりに参加しますー</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-17 20:52:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sasezaki</td>
+    <td>よろしくお願いします!</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-17 22:00:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>kazupyong</td>
+    <td>久しぶりに参加します！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-17 22:07:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>invent</td>
+    <td>よろしくお願いします!</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-17 22:31:22</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>yager</td>
+    <td>久しぶりに参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-17 22:37:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>萩原崇之</td>
+    <td>参加します。よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-17 22:59:57</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>yuchimiri</td>
+    <td>よろしくお願いします！受付とか準備とかお手伝いさせてくださいー＾＾</td>
+    <td style="text-align:center"></td>
+    <td>2009-09-17 23:22:48</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sotaro</td>
+    <td>発表する確率70%くらいです！</td>
+    <td style="text-align:center"></td>
+    <td>2009-09-17 23:46:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>teilnehmen</td>
+    <td>参加しますー</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-17 23:47:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ogi</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-17 23:49:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nekoget</td>
+    <td>よろしくお願いします～</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-17 23:51:00</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hidezoh</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-18 10:03:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sanemat</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-18 10:15:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>syoshida</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2009-09-18 10:49:12</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>taka0024</td>
+    <td>宜しくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-18 11:07:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tarokichi</td>
+    <td>furumoto1064</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-18 12:31:15</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>tsukamoto</td>
+    <td>よろしくおねがいします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-18 15:57:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>putan</td>
+    <td>初参加&amp;初勉強会なのですが、よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-18 16:29:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>monoko</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2009-09-18 17:22:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yokkuns</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-18 23:23:39</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>mutty</td>
+    <td>よろしくおねがいします</td>
+    <td style="text-align:center"></td>
+    <td>2009-09-19 20:12:15</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kamisiro_memo</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-20 11:26:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>doublenegative</td>
+    <td>初参加です。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-21 16:48:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>kunit</td>
+    <td>どうも発表者があまりいなさそうなので、参加。</td>
+    <td style="text-align:center"></td>
+    <td>2009-09-21 19:23:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>yando</td>
+    <td>ウィキ</td>
+    <td style="text-align:center"></td>
+    <td>2009-09-23 12:59:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>たつさん</td>
+    <td>よろしくお願いします!</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-24 09:49:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>gleemitsu</td>
+    <td>初参加&amp;初勉強会2人目です。頑張ります。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-25 00:29:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Siya</td>
+    <td>よろしくお願いします～。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-25 13:21:09</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>miyaware</td>
+    <td>初参加です。よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-25 14:17:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>nagai</td>
+    <td>初参加です。よろしくお願いします！</td>
+    <td style="text-align:center"></td>
+    <td>2009-09-25 15:54:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>k-kishida</td>
+    <td>発表します。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-25 18:34:35</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>luckyisland</td>
+    <td>初めてですが、宜しくお願い致します。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-25 19:17:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>にっく</td>
+    <td>初めてですが参加させていただきます。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-25 19:27:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>海老原昂輔</td>
+    <td>参加します。今日、明日の資料の進行次第では発表もします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-26 22:14:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ichikawa</td>
+    <td>宜しくお願いしますー</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-27 22:15:04</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kou</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-09-28 09:54:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ちんぴら</td>
+    <td>懇親会は出席が難しいです。。。</td>
+    <td style="text-align:center"></td>
+    <td>2009-09-28 10:12:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kaz_29</td>
+    <td>お！まだ空いてる。久々に参加。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-28 10:39:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ayanofu</td>
+    <td>初参加です。どうぞよろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-28 13:10:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>bennylee</td>
+    <td>初めまして。初参加ですが、どうぞよろしくお願い致します。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-28 19:50:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>bannyan</td>
+    <td>初めてですが参加させていただきます。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-30 00:45:51</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Hamaco</td>
+    <td>ずさー</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-30 09:20:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td></td>
+    <td>いしだなおとです</td>
+    <td style="text-align:center">○</td>
+    <td>2009-09-30 18:09:00</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; 萩原崇之</h4>
+  <p>
+公式タグとかはありますか？  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; sotaro</h4>
+  <p>
+そういやPHP勉強会って公式タグないですよね． #phpstudy あたりが無難？  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; gusagi</h4>
+  <p>
+#phpstudyとか分かり易くて良さそうですね～  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; syoshida</h4>
+  <p>
+IBM i5/OSプラットホーム上でのPHPやRuby事情に関心のあるかたがいらっしゃればお話してみようかしら  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; sotaro</h4>
+  <p>
+やぱ懇親会きびしそうなのでキャンセルしますです  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; satoruyoshida</h4>
+  <p>
+nick変更しました。以降はこちらにてお願いしますm(__)m  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; kunit</h4>
+  <p>
+微妙に過激な発言をしていたかもしれないので、一旦削除  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; kunit</h4>
+  <p>
+自分が普段困っていることを発表するとかでもいいと思うので、是非名乗りを。  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; nekoget</h4>
+  <p>
+今回もcodeIgniterの話題で発表したいと思います。よろしくお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; gusagi</h4>
+  <p>
+発表して頂ける方は、wikiの編集をお願いしますー  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; yando</h4>
+  <p>
+早起きできて、なおかつ通信相手が居れば発表します。「symfonyでlimeとPHPUnitを同時に使う」  </p>
+</div>
+<div class="section">
+<h4>
+11 &nbsp; yando</h4>
+  <p>
+5Fにも3Fにも行くことはないでしょう。っていうここtwitter貼りたいですね。  </p>
+</div>
+<div class="section">
+<h4>
+12 &nbsp; kunit</h4>
+  <p>
+たしかにコメントは参加しなくてもできてもいいかもしれないっすね。  </p>
+</div>
+<div class="section">
+<h4>
+13 &nbsp; kunit</h4>
+  <p>
+CakePHPいじれるようになったから、eventの仕組みを変える提案をしてみようかな  </p>
+</div>
+<div class="section">
+<h4>
+14 &nbsp; sotaro</h4>
+  <p>
+kunitさん＞ あまりに猟奇的な変更じゃなければ，提案も適当にCodeReposにコミットして「これ実装したから反映どうでしょ」で言いと思いますー  </p>
+</div>
+<div class="section">
+<h4>
+15 &nbsp; syoshida</h4>
+  <p>
+済みません。時間が取れなさそうなのでキャンセルします。＃あれ？、nickが元に戻ってる  </p>
+</div>
+<div class="section">
+<h4>
+16 &nbsp; gusagi</h4>
+  <p>
+発表者がいっぱい！　ありがとうございます＞＜  </p>
+</div>
+<div class="section">
+<h4>
+17 &nbsp; yager</h4>
+  <p>
+スミマセン、別件と日時がかぶってしまったのでキャンセルします。空き待ちの方いたらどうぞ。  </p>
+</div>
+<div class="section">
+<h4>
+18 &nbsp; yager</h4>
+  <p>
+ust とか #phpstudy とかの中継期待してますw  </p>
+</div>
+<div class="section">
+<h4>
+19 &nbsp; kunit</h4>
+  <p>
+すみません、体調不良のため参加を見合わせます  </p>
+</div>
+<div class="section">
+<h4>
+20 &nbsp; kunit</h4>
+  <p>
+ご迷惑をおかけしてすみません  </p>
+</div>
+<div class="section">
+<h4>
+21 &nbsp; nagai</h4>
+  <p>
+体調が悪いため不参加とさせてください。申し訳ありません。  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form778259156" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/84"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form778259156', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/84', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form778259156'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/84', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_84)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/84"
+  trackback:ping="/trackbacks/receive/84"
+  dc:title=""
+  dc:identifier="/events/show/84" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20090917/1253195664">Do You PHP はてな</a> - 2009-09-17 22:54:33</dt>
+<dd><p> アナウンス出て募集始まってました。。。今回はグリーさんのセミナールームでやるようです。 第46回PHP勉強会@関東を開催します。 今回は、35名（開催者・会場責任者を除く）の募集となりますが、宜しければご参加下さい。 勉強会終了後には参加者同士で交流を深めるために</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yokkuns/20090918/1253223923">yokkunsの日記</a> - 2009-09-18 06:45:29</dt>
+<dd><p> 第46回PHP勉強会@関東の募集が始まってました。 events.php.gr.jp - 第46回PHP勉強会@関東 ■概要 日時: 2009年09月30日(水) 19:30〜21：30 会場: グリー株式会社 3Fセミナールーム 　　　東京都港区六本木4-1-4 黒崎ビル 3F 費用: なし（懇親会については、実費が発生しま</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/sasezaki/20090930/p1">例えば、PHPを使う</a> - 2009-10-01 01:25:29</dt>
+<dd><p> http://events.php.gr.jp/events/show/84 帰りの電車で初めてケータイでGREEを見てる人を見かけました。偶然すぎる。懇親会の時にPHP5.3の利用者がゼロということで、PHP5.3の話をしました。その時のコード↓ &amp;#60;?php class Template { const TABLE = &amp;#60;&amp;#60;&amp;#60;EOF </p></dd>
+<dt>
+<a href="http://pneskin2.nekoget.com/press/?p=370">ねこげっとぷれす</a> - 2009-10-01 01:47:38</dt>
+<dd><p>本日（日付が変わってしまったので正しくは昨日ですね）、株式会社グリー様に会場をお借りしての、第46回PHP勉強会@関東に参加をさせていただきました。<br />
+今回はCodeIgniterのHMVC構造をテ...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/gusagi/20090930/1254331119">gusagiの日記</a> - 2009-10-01 02:18:39</dt>
+<dd><p> 掲題のとおり、第46回PHP勉強会@関東に参加してきました。 今回は、id:ichii386 さんにお願いして、グリー株式会社さんのセミナールームをお借りしての勉強会&amp;amp;懇親会でした。 ありがとうございますm(_ _)m また、初めて参加された方が複数名いたのですが、少しでも楽しんで</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/sotarok/20090930/php_study_46">肉とご飯と甘いもの @ sotarok</a> - 2009-10-01 02:25:13</dt>
+<dd><p> events.php.gr.jp - 第46回PHP勉強会@関東 内容は，「PHPでPHPソースコード検索エンジンを実装する」って話で，主に以下のような話の流れ 一般的な検索エンジンのつくりと それをPHPにあてはめて考えたときにどう実装するか で，まあ，最近PFIでインターンさせてもらってる</p></dd>
+<dt>
+<a href="http://my.opera.com/sizuhiko/blog/2009/10/01/cakephp-webtestcase-fixture">Technote</a> - 2009-10-01 20:52:44</dt>
+<dd><p>９／３０に行われた第46回PHP勉強会で発表した内容ですが、そのままブログで読めるように展開します。</p></dd>
+<dt>
+<a href="http://sane.justblog.jp/blog/2009/10/php46-5a7d.html">實松アウトプット</a> - 2009-10-03 03:41:14</dt>
+<dd><p>「つらくないコードを書こう」という題でlimonadeの話をしてきた。資料・コードへのリンクとうまくできなかったデモの文字起こし。</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/puutan_htn/20091003">puutan_htnの日記</a> - 2009-10-03 12:51:15</dt>
+<dd><p> 行ってきました。勉強会。 たまたま自分のTLで話題になっていたので。つい、ぽちっと。。。 ちなみにお邪魔したのはこちら。第46回PHP勉強会＠関東。 http://events.php.gr.jp/events/show/84 ちなみにこれ、公式タグ#phpstudyのつぶやきを@yokkunsがまとめてくれたものです</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yuchimiri/20091003/1254541941">notfound::</a> - 2009-10-03 12:57:45</dt>
+<dd><p> 09/30(水)に開催された第46回PHP勉強会に参加してきました♪ 今回はグリー株式会社さんに会場をお借りしての開催。 全部で３０人近いメンバーが集まりました★ 受付しながらだったので量は少ないですが、簡単にメモしたものを載せておきます。。 CakePHPのWebTestCaseでfixt</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yokkuns/20091008/1254950983">yokkunsの日記</a> - 2009-10-08 06:33:43</dt>
+<dd><p> 大分遅くなりましたが、第46回PHP勉強会@関東に参加してきました。 events.php.gr.jp - 第46回PHP勉強会@関東 今回の会場は、グリー株式会社さんのセミナールームでした。（id:ichii386さんありがとうございました！） 以下、簡単なメモと感想。 CakePHPのWebTestCaseでfixt</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/84" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

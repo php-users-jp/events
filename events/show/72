@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>ZendFramework勉強会@Tokyo - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/72">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::ZendFramework勉強会@Tokyo</h2>
+<dl>
+<dt>イベント内容</dt><dd>ZendFrameworkの勉強会を行います。<br />
+<br />
+20人ほどの会場で、カジュアルな感じの勉強会になると思います<br />
+<br />
+勉強会終了後には参加者同士で交流を深めるために懇親会を行います。<br />
+参加される方は申込み時に合わせて参加表明をお願いします。<br />
+<br />
+<br />
+■概要<br />
+日時: 2009年04月04日(土) 14:00～18：00<br />
+会場: 東京都渋谷区<br />
+<br />
+<br />
+<br />
+<br />
+<h4>Ustream中継</h4><br />
+Ustreamで中継を行いました。<br />
+<br />
+<ul><li><a href="http://www.ustream.tv/channel/nekoget-show">http://www.ustream.tv/channel/nekoget-show</a></li></ul></dd>
+<dt>イベント開催時間</dt><dd>2009-04-04 14:00 〜 18:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2009-03-17 18:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2009-04-04 14:00:00</dd>
+</dl>
+</div>
+
+<div>
+<p>■懇親会</p>
+
+<p>費用: 3,500 + 飲み放題</p>
+
+<p>会場：モ〜モ〜パラダイス で しゃぶしゃぶ <a href="http://r.gnavi.co.jp/a068813/">http://r.gnavi.co.jp/a068813/</a></p>
+
+<h3> 当日の発表内容</h3>
+<h4> 発表1-1 20分（junichiro/思い立ったらZF 〜 今日の目次 〜）</h4>
+<h4> 発表1-2 20分（bayside/ZFではじめる携帯サイト）</h4>
+<ul>
+<li><a href="http://bayside.upper.jp/upload/ktai_zf_2009.pdf">資料DL</a></li>
+</ul>
+<h4> 休憩  10分</h4>
+<h4> 発表2 30分（twk/はじめてのZend_Form）</h4>
+<h4> 休憩  10分</h4>
+<h4> 発表3 40分 (heavenshell/Phwittrについて(仮))</h4>
+<h4> ディスカッション 40分</h4>
+<h4> 休憩  10分</h4>
+<h4> LT 質問あり 5分 + 5分 (wads/自作のZFコンポーネントなど (仮))</h4>
+<h4> LT 質問あり 5分 + 5分（noopable/たとえばZend_Cacheとか）</h4>
+<h4> LT 質問あり 5分 + 5分（m-takagi/ZFにまつわる何か）</h4></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:21</li>
+<li>現在の参加人数:20</li>
+<li>懇親会参加人数:16</li>
+<li>残り:1</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>個々一番</td>
+    <td>運営用</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-13 00:45:35</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>lllnorikolll</td>
+    <td>参加します。よろしくおねがいします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:00:28</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>m-takagi</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:00:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>heavenshell</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:01:26</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>wozozo</td>
+    <td>1getとられた（ ﾟдﾟ）</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:01:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>wads</td>
+    <td>sannk</td>
+    <td style="text-align:center"></td>
+    <td>2009-03-17 18:03:42</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sonkm3</td>
+    <td>最近ZF使い始めました。よろしくおねがいします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:04:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>さっかもと</td>
+    <td>讃歌～</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:04:34</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>syoshida</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:07:24</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>twk</td>
+    <td>楽しみにしています。懇親会は検討中..</td>
+    <td style="text-align:center"></td>
+    <td>2009-03-17 18:09:35</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>bayside</td>
+    <td>ケータイ関係で発表するかも</td>
+    <td style="text-align:center"></td>
+    <td>2009-03-17 18:10:04</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>hirokoku</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:12:12</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>maru_cc</td>
+    <td>ケータイ関係の発表wktk</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:15:25</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>takkjoga</td>
+    <td>是非参加させてください</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:16:49</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sasezaki</td>
+    <td>昔は1000番目のキリ番を目指すなどあったが、今では2を取ることに彼らは必死だ。その理由には次のようなことが考えられ…2get</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:18:17</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Tomoaki Kosugi</td>
+    <td>参加させてください。よろしくです。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:35:27</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>junichiro</td>
+    <td>このメンツ相手にしゃべることなどないッ！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 18:47:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>nazo</td>
+    <td>ZFと聞いて</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 19:10:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>uni51</td>
+    <td>お願い</td>
+    <td style="text-align:center"></td>
+    <td>2009-03-17 19:34:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>akkun_choi</td>
+    <td>行きます！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 19:43:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yuiti</td>
+    <td>間に合った、</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-17 20:20:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>t-issi-</td>
+    <td>よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-26 23:41:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>萩原崇之</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-31 16:07:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nekoget</td>
+    <td>よろしくおねがいします！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-03-31 21:42:35</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; wads</h4>
+  <p>
+コメントのところ失敗しました。。。参加します。  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; uni51</h4>
+  <p>
+私もコメント失敗しました。。。お願いします。  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; bayside</h4>
+  <p>
+40分枠を誰かshareしませんか？いないようでしたら、自分が40分話しまーす。  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; syoshida</h4>
+  <p>
+急用が入ってしまい申し訳ありません。  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; junichiro</h4>
+  <p>
+bayside : share しよう。僕が先でもいいですか？  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; bayside</h4>
+  <p>
+＞junichiro OKです。Wiki編集しました！  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; junichiro</h4>
+  <p>
+あざーっす。適当にタイトルも決めました  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; nazo</h4>
+  <p>
+ごめんなさい、行けなくなりました…  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; uni51</h4>
+  <p>
+ごめんなさい、仕事の関係で懇親会をキャンセルさせてください。直前で申し訳ありません。  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; t-issi-</h4>
+  <p>
+仕事の都合で行けなくなりました。直前にすみません。  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; yando</h4>
+  <p>
+ustなし？  </p>
+</div>
+<div class="section">
+<h4>
+11 &nbsp; nekoget</h4>
+  <p>
+ustしてみようと思っていますが、できるかどうかは会場に着いてから・・・ですm(_ _)m  </p>
+</div>
+<div class="section">
+<h4>
+12 &nbsp; junichiro</h4>
+  <p>
+なんで僕のTrackback だけ全文...  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form672626028" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/72"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form672626028', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/72', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form672626028'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/72', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_72)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/72"
+  trackback:ping="/trackbacks/receive/72"
+  dc:title=""
+  dc:identifier="/events/show/72" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20090316/1237196736">Do You PHP はてな</a> - 2009-03-16 18:45:39</dt>
+<dd><p> CakePHP、symfonyに続いて、ZendFramework勉強会が開催されます。 ZendFrameworkの勉強会を行います。 20人ほどの会場で、カジュアルな感じの勉強会になると思います 勉強会終了後には参加者同士で交流を深めるために懇親会を行います。 参加される方は申込み時に合わせて参</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/heavenshell/20090316/1237201123">Heavens hell</a> - 2009-03-16 20:29:11</dt>
+<dd><p> ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!! ZendFrameworkの勉強会を行います。 20人ほどの会場で、カジュアルな感じの勉強会になると思います 勉強会終了後には参加者同士で交流を深めるために懇親会を行います。 参加される方は申込み時に合わせて参加表明をお願いします。 ■概要 </p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/Bayside/20090317/p1">Devel::Bayside</a> - 2009-03-17 17:40:36</dt>
+<dd><p> http://events.php.gr.jp/events/show/72 ZendFrameworkの勉強会を行います。 20人ほどの会場で、カジュアルな感じの勉強会になると思います 勉強会終了後には参加者同士で交流を深めるために懇親会を行います。 参加される方は申込み時に合わせて参加表明をお願いします。 </p></dd>
+<dt>
+<a href="http://blog.lllnorikolll.com/archives/240">lllnorikolll@WordPress</a> - 2009-03-17 18:04:02</dt>
+<dd><p>ZendFramework勉強会@Tokyoが開催されます。<br />
+以下抜粋<br />
+イベント内容<br />
+ZendFrameworkの勉強会を行います。<br />
+20人ほどの会場で、カジュアルな感じの勉強会になると思います<br />
+勉強会終了後には参加者同...</p></dd>
+<dt>
+<a href="http://nonn-et-twk.net/twk/node/304">twk @ ふらっと</a> - 2009-03-23 15:52:26</dt>
+<dd><p>4/4に、ついにZend Framework勉強会が開催されます。誰が会員かわからないZend Frameworkユーザー会も発足しましたし、今年はZF飛躍の年になると良いですね。<br />
+<br />
+もう参加者は締め切られているよう</p></dd>
+<dt>
+<a href="http://blog.lllnorikolll.com/archives/251">lllnorikolll@WordPress</a> - 2009-04-04 17:55:52</dt>
+<dd><p>ZendFramework勉強会@Tokyoに参加してきました。<br />
+ZFではじめる携帯サイト - bayside<br />
+携帯サイトをZendFrameworkを利用して作る際に必要となる知識を、全般的にざっと紹介。<br />
+FirefoxのUserAgentSwitcherとい...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/sasezaki/20090405/p1">例えば、PHPを使う</a> - 2009-04-05 19:23:12</dt>
+<dd><p> CakePHPやsymfony、CI、rhacoは独自の勉強会が開催されていたにも関わらず、 一度も日本で行われおらず待望論があったZFの勉強会に参加してきました。会場提供のウノウは初潜入です。 http://events.php.gr.jp/events/show/72 発表のダイジェストはnorikoさんとこの記事を見</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/Bayside/20090404/p1">Devel::Bayside</a> - 2009-04-06 09:30:18</dt>
+<dd><p> 「ZendFramework勉強会@Tokyo」で「Zend Framework ではじめる携帯サイト」という題目で発表してきました。 資料を置いておきますので、よかったらお読みください。 ZFではじめる携帯サイト (PDF) 勉強会の URL はこちら http://events.php.gr.jp/events/show/72 </p></dd>
+<dt>
+<a href="http://en.yummy.stripper.jp/?eid=1199939">ブログが続かないわけ</a> - 2009-04-06 13:26:14</dt>
+<dd><p>思い立ったらZF<br />
+僕が話したのは、「思い立ったらZF」という題目で、つまり、もっと気軽にZendFramework を使おうよという内容のもの。最近、CakePHP を使ってみて、なぜCakePHP は人気があってZendFramework は人気がないのか、僕なりにわかった気がしたので、その辺りをまとめつつ、じゃあ、ZendFramework を使う気になるにはどうすればよいかというようなことをまとめてみた。<br />
+<br />
+スライドはこちら。<br />
+思い立ったらZF<br />
+<br />
+スライドだけ見てもあまり伝わらない内容なので、その辺はご容赦ください。要約すると、CakePHP のようにある程度規約で縛りをつけて、それにあわせたファイルレイアウトを、いつでもgithub から手に入れられるようにしておけばいいよ！というもの。<br />
+<br />
+そのgithub のURLはこちら。<br />
+junichiro\&#039;s zf-starter at master - GitHub<br />
+<br />
+自分なりの反省僕の発表を聞いているうちは、「ほぅ」と思う場面もあったかもしれないが、終わってみるとなにも身に残らなかったのではないかという、きわめて時間つぶし的な発表になってしまったこと。<br />
+<br />
+他の発表についても簡単にまとめておくbayside/ZFではじめる携帯サイト携帯開発の内容がぎっしり詰まったよい話。<br />
+ただ、全てをShift_JIS で書くというのにはとても抵抗感がある。<br />
+<br />
+また、「MySQL で文字化けしてしまうのでは？」という質問に対して、常に「SET NAMES sjis」をつけるようにしているとのことだったが、これもZend_Framework で使う場合少し疑問が残る。会場で質問しようと思ったが、なんだかいじわるな質問になりそうだったので自重した。<br />
+<br />
+なぜ、ZendFramework でこれが問題になるかということだが、それには少し確認が必要だ。ZF でどの場所でDBへの接続を行っているか？これはみなさん悩むところだが、おそらくイニシャライザか、アクションヘルパーでやっているだろう。そうすると、DB接続が不要なController やAction でも無駄にDB接続してしまうことになる。パフォーマンスが問題にならなければ、そうそう問題になることはないが、回避策は知っておきたいところだ。ところが、Zend_Db はそこそこできがよく、DBへの接続をどこに書いていようと、ちゃんと遅延評価してくれる。つまり、実際にDBへの接続が必要になったとき、要するに初めてのクエリの発行のタイミングでコネクトを張ってくれる。だから、いろいろなサンプルにあるようにイニシャライザなどでDB接続を行っても、まったく問題ないのだ。<br />
+<br />
+これを踏まえた上で、「SET NAMES sjis」をつけるということを考えたい。おそらく、DBへの接続を行うタイミングでこれを発行しているのだと思う。しかし、ここでいうDBへの接続のタイミングというのは、コード上のことで、実際に接続に行くタイミング(遅延評価された最初のクエリのタイミング)ではないと思う。つまり、イニシャライザにDBへの接続を書いているとしたら、そこに「SET NAMES sjis」を書いているのではなかろうか。こうすると、せっかく本来は遅延評価されるDB接続も、「SET NAMES sjis」というクエリを発行するために、そのタイミングでコネクトを張ることになってしまう。結局、DBを必要としないController やAction でもDBへの接続が行われてしまうことになる。<br />
+<br />
+ちなみに、Perl のDBIC などでは、「SET NAMES sjis」の発行そのものを、遅延評価に含めることができ、最初のクエリ(SELECT文など)が発行されるタイミングで、DB接続と「SET NAMES sjis」の発行を行うことができる。<br />
+<br />
+確かにそう考えると、毎回「SET NAMES sjis」を発行していることが問題なのではなく、その部分を遅延評価することができないZend_Db の問題とも言えるかもしれない。もし、この部分もちゃんと遅延評価できているとしたら、そのやり方と教えて頂きたいと思った次第。<br />
+<br />
+2009-04-04 - Devel::Bayside<br />
+<br />
+twk/はじめてのZend_Formこれもよい話。<br />
+Zend_Form を使いこなせると、開発効率は格段にアップする。<br />
+というのも、そもそものコード量を減らせるだけではなく、書き方が決まっているので、頭を悩ませる時間も大幅に削減できるからだ。また、Zend のよいところでもあるのだが、Zend_Form ひとつとってみても、使い方がいろいろとある。部分的に使ったり、フル機能を使ったり。その辺りも、順を追って説明してくれていて、とてもためになる。実用的で、僕の発表とはワケが違うと思った。コード中心の解説だったので、この発表の内容を紹介するのは大変かもしれないが、是非、ブログ等での公開を期待したい。<br />
+<br />
+twk @ ふらっとへようこそ | twk @ ふらっと<br />
+<br />
+heavenshell/Phwittrについて九州からの参加。<br />
+ZendFramework で総合的なサービス開発のソースコードが全部読めるのは、Phwittr くらいなので、これは非常に参考になる。ZendFramework の話というよりは、設計の話が多くなっていたが、僕にとってはそれがむしろありがたかった。みなさんも、ZendFramework を使ってなにかサービス開発するときは、Phwittr を参考にするとよいと思う。これが正解というわけではないとも思うが、ひとつの参考としてとても重宝している。コードはcoderepos にあるので、まとめてローカルにおいてあると、いざというとき手元に参考書があるような感じになるので、便利。おすすめ。<br />
+<br />
+Zend Framework 勉強会＠Tokyo に行ってきた - Heavens hell<br />
+<br />
+wads/自作のZFコンポーネントなどZend_Log にローテーションの機能をつけようという話。<br />
+僕の個人的な感想としては、疑問符がつくないようだったが、まわりの反応は上々だったようだ。Zend のsyoshida さんも「proposal にあげてみたら？」というくらい評価していた。<br />
+<br />
+僕が疑問に思った理由を簡単に書いておこう。そもそもの役割分担として、アプリケーションプログラマはログを吐く(もしくはそれを読む)ところまでが作業領分で、吐かれたログがたまるとか、定期的に掃除するとかは、サーバ管理者の作業領分だと思うからだ。wads さんは、ログに関する一切をZendFramework で完結させたいという考えがあったようだが、逆に僕は、ログのローテーションに関する一切はlogrotate で完結させたいと考えている。だから、仮にアプリケーションプログラマがログの定期的な掃除まで担当することになったとしても、僕はlogrotate に管理させる方がよいと思った。<br />
+<br />
+logrotate と比較して、ZendFramework で実装することのメリットを提示してもらえたら、より面白かったと思う。<br />
+<br />
+wadsのblog<br />
+<br />
+noopable/たとえばZend_Cache僕自身はZend_Cache をある程度使っていたので、そうでもなかったのだが、Zend_Cache をまだあまり使ったことのない方には非常によい発表だったと思う。そもそも、noopable さんはZend に対しての勉強量が多く、話している内容がわかりやすいのが非常によかった。<br />
+<br />
+noopな日々<br />
+<br />
+m-takagi/ZFにまつわる何か飛行機にまつわる何か<br />
+飛行機いいよ。今日は京都からだったから泣く泣く新幹線で来たけど<br />
+Zend のマニュアルをみんなで翻訳しようよ！という話。<br />
+m-takagi さんが話すと、とても説得力がある。<br />
+<br />
+最後にust 配信してくださった、nekoget さんありがとうございます。<br />
+会場を手配してくださった、ウノウ株式会社 Unoh Inc./coco1ban さんありがとうございます。<br />
+<br />
+【参考】<br />
+events.php.gr.jp - ZendFramework勉強会@Tokyo</p></dd>
+<dt>
+<a href="http://nonn-et-twk.net/twk/node/310">twk @ ふらっと</a> - 2009-04-09 20:38:09</dt>
+<dd><p>ZendFramework勉強会に参加してきました。<br />
+今回はZend_Formについて発表してきました。今回は資料は途中で終わり、サンプルプログラム多数の構成になっています。<br />
+<br />
+サンプルプログラムを含む</p></dd>
+<dt>
+<a href="http://wadslab.net/2009/04/zend-framework-stud/">wadsのblog</a> - 2009-04-13 20:01:51</dt>
+<dd><p>ちょっと遅くなってしまいましたが、4/4に開催されたZendFramework勉強会@TokyoのLTで話してきました。<br />
+<br />
+準備不足もさることながら、半分くらいで制限時間が来てしまうなど非常にグダグダで...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/maru_cc/20090414/zf_study">maru.cc@はてな</a> - 2009-04-14 15:12:29</dt>
+<dd><p> ちょっと遅くなってしまったが、4/4にZendFrameworkの勉強会に参加してきました。 events.php.gr.jp - ZendFramework勉強会@Tokyo ZendFrameworkはほとんど使ったことがないのですが、ライブラリとしても有用という声を聞くので、実際に使っている人たちの生の声が聞ければ</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/72" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

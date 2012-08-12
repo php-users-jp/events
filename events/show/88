@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第49回PHP勉強会@関東 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/88">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第49回PHP勉強会@関東</h2>
+<dl>
+<dt>イベント内容</dt><dd>第49回PHP勉強会@関東を開催します。<br />
+今回は、35名（開催者・会場責任者を除く）の募集となります。<br />
+今年最初のPHP勉強会@関東となります。<br />
+ぜひご参加下さい。<br />
+<br />
+勉強会終了後には参加者同士で交流を深めるために懇親会を行います。<br />
+参加される方は申込み時に合わせて参加表明をお願いします。<br />
+<br />
+■概要<br />
+日時: 2010年1月30日(土) 14:30～17:00<br />
+会場: <a href="http://www.contents-one.co.jp/">株式会社コンテンツワン</a> 1Fセミナールーム (<a href="http://www.contents-one.co.jp/company/map.php">地図</a>)<br />
+費用: なし（懇親会については、実費が発生しますのでご注意下さい）<br />
+<br />
+== 会場注意 ==<br />
+会場は、1Fのセミナールームですが、土曜日はビルの正面出入り口はシャッターがおりています。<br />
+側面にある<a href="http://bit.ly/4AOzFJ">通用口</a>にお回り下さい。<br />
+<br />
+■懇親会<br />
+<ul><li><a href="http://r.gnavi.co.jp/g243613/">神保町 個室居酒屋 五大陸</a>になりました</li><li>予算は4,000円(税込)です</li><!-- <li>参加する方は、席数確定の関係上、お早めに表明をお願いします</li><li><font color="#ff0000">キャンセルする場合は、出来る限り早めにキャンセルを申し出て下さい</font></li>--></ul><br />
+<br />
+■発表者、募集します<br />
+「話したいことあるよ！」という方をお待ちしています。 <br />
+「こんなネタについて皆で話したいので時間下さい！」という方も大歓迎です。<br />
+<br />
+■手伝っていただける方、募集します<br />
+<ul><li>勉強会に参加される方で、勉強会当日の受付や会場準備を手伝って頂ける方がいらっしゃいましたら、登録時のコメントに書いて下さい。<br />
+※開始時刻の20分くらい前には会場入りして頂けると助かります。</li><li>Ust配信をやっていただける方がいらっしゃいましたら、登録時のコメントに書いて下さい。</li></ul><br />
+<br />
+■その他<br />
+<ul><li>ネット環境（イー・モバイルなど）は、各自で持参をお願いします。また、電源タップについても持参してくれる方が若干いると助かります</li><li>TypeKeyによる認証は動作が不安定なケースがありますので、はてな・mixiからの認証をお勧めします</li></ul><br />
+<br />
+■Ustream<br />
+<br />
+Ustream による中継を予定しています。<br />
+<br />
+http://www.ustream.tv/channel/nekoget-show<br />
+<embed width="563" height="266" type="application/x-shockwave-flash" flashvars="channelId=303222&brandId=1&channel=#nekoget-show&server=chat1.ustream.tv" pluginspage="http://www.adobe.com/go/getflashplayer" src="http://www.ustream.tv/IrcClient.swf" allowfullscreen="true" /></dd>
+<dt>イベント開催時間</dt><dd>2010-01-30 14:30 〜 17:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2010-01-12 10:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2010-01-30 14:30:00</dd>
+</dl>
+</div>
+
+<div>
+<h3> タイムスケジュール（仮）</h3>
+<hr />
+<ul>
+<li> 14:30 開始挨拶</li>
+<li> 14:35 自己紹介など（20分）</li>
+<li> 14:55 発表枠（途中に若干の休憩を入れます）</li>
+<li> 16:55 クロージング</li>
+</ul>
+
+<h3> 発表者募集中！</h3>
+<ul>
+<li> 「話したいことあるよ！」という方をお待ちしています。</li>
+<li> 「こんなネタについて皆で話したいので時間下さい！」という方も大歓迎です。</li>
+</ul>
+
+<p>■発表する方へのお願い
+発表の対象者（「PHP初心者」とか「CakePHPを使ったことがある人」とか「PHP使いまくっている人」とか）があれば書いて頂けると助かります。</p>
+
+<h5> Lithiumラボ Phase1 (yandod/30分/フレームワークに関心がある人)</h5>
+<p>「PHP5.3以降の最も軽量かつ拡張性がある」フレームワーク、Lithiumの思想と特徴を紹介します。
+リモート発表なのでSkypeのデスクトップ共有を受けてくれる人がいればお願いします。</p>
+
+<h5> PHPでBrainF*ckとあと何か小ネタ（msakamoto-sf/10分/PHPで遊びたい人）</h5>
+<p><a href="http://homepage2.nifty.com/kujira_niku/okayu/misa.html">プログラミング言語Misa</a>に触発されてPHPでBrainF*ck処理系を作ってみました。ご賞味下さい。</p>
+
+<h5> NetBeansでAgavi使って携帯サイト開発してみた。（MugeSo/30分/NetBeans興味ある人・Agaviに興味ある人・携帯サイト開発に興味ある人）</h5>
+<p>基本的にはNetBeansの使用感の説明をします。
+公私ともにAgaviを用いた開発をしているため、たまに「Agaviでは～」という前置きで使用感を述べます。
+業務では携帯サイト開発をしているため、それにまつわる小ネタも飛び出すかもしれません。</p>
+
+<p><a href="http://prezi.com/sclbk8v8grfo/">発表資料</a></p>
+
+<h5> Datasourceをオススメします(kaz_29/20分/CakePHPに興味がある人)</h5>
+<p>CakePHPのいけてる機能「Datasource」。使いこなすととてもベンリな機能です。
+あまり知られていない（と思う）ので、概要の説明とサンプルの紹介しようと思います。</p>
+
+<h5> MongoDB + PHP + CakePHP（ichikaway/20分/NoSQLに興味ある人・CakePHPに興味がある人）</h5>
+<p>NoSQL(Memcache, CouchDB, Tokyo Tyrant)が最近ホットなので、その一つMongoDBについての紹介と、Pecl Mongoを使ってMongoDBをPHPから使う方法の紹介、時間があればCakePHPから簡単にMongoDBを操作できるようにした話もする予定。</p>
+
+<h4> テンプレート</h4>
+<pre><code>*** タイトル（発表者/時間/対象者）
+内容の簡単な説明
+</code></pre>
+<h4> サンプル</h4>
+<pre><code>*** PHP勉強会でやりたいこととか（gusagi/20分/PHP勉強会に意見とかある人）
+もっと「参加して良かった」と思える勉強会にしたいと思っています。
+アンケートもやってみたんですが、ディスカッション形式でも色々聞きたいので、
+「こういう方法もありじゃない？」というアイデアを聞かせて下さい。</code></pre>
+<ul>
+<ul>
+<li></li>
+</ul>
+</li>
+</ul>
+<pre><code>*** XOOPS Cubeで携帯対応（gusagi/10分/XOOPSとか携帯とか興味ある人）
+携帯対応させるためにやったこととか、使っているライブラリとかを話したいと思います。
+他のCMSとかにも応用できる部分もあると思います。</code></pre></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:36</li>
+<li>現在の参加人数:29</li>
+<li>懇親会参加人数:20</li>
+<li>残り:7</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>gusagi</td>
+    <td>司会進行・幹事をやらせていただきます</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-11 00:00:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>MugeSo</td>
+    <td>とりあえず参加します。会場準備程度ならお手伝いいたします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-12 11:43:55</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>skc</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-12 12:54:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>wildwell</td>
+    <td>参加します！よろしくお願いいたします！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-13 16:39:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>nekoget</td>
+    <td>よろしく願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-13 18:22:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>がる</td>
+    <td>よろしくお願いいたします ノ</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-14 09:42:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>msakamoto-sf</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-15 01:44:55</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ＴＯＭ</td>
+    <td>久々ながら参加。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-17 11:57:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sagawa</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-20 12:11:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>せっきー</td>
+    <td>こういった勉強会は初めてですが、よろしくお願いいたします！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-22 11:27:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>cakephper.ichikaway</td>
+    <td>よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-22 17:29:07</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>yashio</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-23 22:29:51</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hirohiro</td>
+    <td>参加します！宜しくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-25 01:15:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>miya_hiro</td>
+    <td>初参加になります！宜しくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-25 17:19:56</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>toyosawa</td>
+    <td>よろしくお願いします！！</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-25 18:03:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>szk</td>
+    <td>参加したいと思いますので、よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-25 18:54:42</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kaz_29</td>
+    <td>これは行かねば！軽めのネタを考え中です。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-25 20:04:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>yuchimiri</td>
+    <td>受付、会場設営などお手伝いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-25 20:42:21</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>mutty</td>
+    <td>よろしくおねがいします</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-25 21:37:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>morimotoj</td>
+    <td>はつさんか　よろしくおねがいします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-25 22:04:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>からあげ</td>
+    <td>初参加ですー</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-26 23:07:57</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>tenkoma</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-27 08:16:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>TenForward</td>
+    <td>初参加です．よろしくお願いいたします．</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-27 14:53:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>hiro1270</td>
+    <td>初参加です。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-27 19:59:28</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>komura</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-27 23:33:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>ao-kht</td>
+    <td>IRC集会楽しかったです。初参加ですがよろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-28 00:56:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>萩原崇之</td>
+    <td>久しぶりに参加。電源タップもって行きます</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-28 14:50:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>yando</td>
+    <td>リハビリ中だけど、リモート参加</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-29 01:07:17</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>fjmoto</td>
+    <td>参加します。48回の情報見逃してた。。。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-29 09:56:23</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>konnoy</td>
+    <td>よろしくお願いいたします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-29 11:59:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>しげる</td>
+    <td>初めてです。宜しくお願い致します。</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-29 21:46:15</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Hamaco</td>
+    <td>参加します。よろしくおねがいいたします。遅刻したらごめんなさい</td>
+    <td style="text-align:center">○</td>
+    <td>2010-01-29 23:47:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>parashoot2</td>
+    <td>空きがありましたので滑り込みで…初参加です。宜しくお願い致します。</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-30 05:05:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>hakase@lss.club.ne.jp</td>
+    <td>参加しまっす</td>
+    <td style="text-align:center"></td>
+    <td>2010-01-30 12:11:08</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; msakamoto-sf</h4>
+  <p>
+受付や開場準備手伝えます。電源タップも都合が付けば持ってきます。  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; gusagi</h4>
+  <p>
+ありがとうございます！＞msakamoto-sf  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; yashio</h4>
+  <p>
+参加させていただきます。初の参加でございます。  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; miya_hiro</h4>
+  <p>
+受付・会場準備お手伝いさせて下さい！  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; せっきー</h4>
+  <p>
+都合がつかなくなってしまったので、キャンセルさせて頂きます。大変申し訳御座いません；  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; ao-kht</h4>
+  <p>
+親戚の訃報が入ってしまいました・・・申し訳ありません。  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; msakamoto-sf</h4>
+  <p>
+すみません、都合により懇親会キャンセル致します。  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; mutty</h4>
+  <p>
+当日ですみませんが、都合により出席をキャンセルいたします。なぜか同じアカウントでログインしてもキャンセルできなかったので、ここに書きました。  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; gusagi</h4>
+  <p>
+了解です。こちらでキャンセル処理をしておきます  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form1318539298" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/88"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form1318539298', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/88', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form1318539298'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/88', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_88)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/88"
+  trackback:ping="/trackbacks/receive/88"
+  dc:title=""
+  dc:identifier="/events/show/88" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/gusagi/20100121/1264001961">gusagiの日記</a> - 2010-01-21 00:39:26</dt>
+<dd><p> タイトルの通り、PHP勉強会の募集が始まっています。 今回は、株式会社コンテンツワンさんに会場をお借りして、1/30(土)に開催されます。 まだ枠は空いているようなので、興味のある方はこちらをご覧下さい。 また、発表される方も絶賛募集中です！ 私も、何かネタがあれば</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/msakamoto-sf/20100124/1264259082">ぐらめぬ・ぜぷつぇんのはてダ</a> - 2010-01-24 00:06:32</dt>
+<dd><p> やる夫・やらない夫シリーズでお馴染みの、「でっていう」も”HelloWorld”する予定だよ！ 一足早めに楽しみたい人はopenpearから”Acme_BrainPhack”をインストールだ！ そんな一発ネタばかりというわけでもない、第49回PHP勉強会はこちらから。 http://events.php.gr.jp/event</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/cakephper/20100127/1264557347">cakephperの日記(cakePHP1.2ベース)</a> - 2010-01-27 11:06:42</dt>
+<dd><p> 今週末1/30(土）14:30〜17:00に東京都内でPHP勉強会、2月6日〜7日(土日・１泊２日)に箱根でCake温泉というイベントがあります。どちらも参加するのでここでも告知します。 PHP勉強会では、MongoDBがらみの発表をします。MongoDBについてと、PHPからMongoDBの使い方、Cakeか</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/msakamoto-sf/20100130/1264849568">ぐらめぬ・ぜぷつぇんのはてダ</a> - 2010-01-30 20:06:20</dt>
+<dd><p> 第49回PHP勉強会@関東 - events.php.gr.jpでの発表資料を公開します： http://www.glamenv-septzen.net/medias/php_studies/49th_acme_brainphack.pdf 隣の席のあの人などを吃驚させたい時などにどうぞ。 Lithiumは興味深かったですし、CakePHPのDatasourceも健闘してます。</p></dd>
+<dt>
+<a href="http://pneskin2.nekoget.com/press/?p=405">ねこげっとぷれす</a> - 2010-01-30 23:31:03</dt>
+<dd><p>第49回PHP勉強会@関東に参加をしてきました。<br />
+会場をご提供いただきました、株式会社コンテンツワン様<br />
+そしてオンライン、オンサイトで参加された皆様お疲れ様でした。<br />
+今回もUst中継を...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/MugeSo/20100130/1264864464">MugeSoの日記</a> - 2010-01-31 00:14:27</dt>
+<dd><p> 第49回PHP勉強会@関東に参加してきました。今回も遅刻しました。すみません。準備を終えて出発しようとノートパソコンをシャットダウンしようとしたらWindows Updateがあると言われてて「まぁ平気だろ」と軽いノリで実行したら32件も有って家を出られませんでした。gusagiさ</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yuchimiri/20100130/1264872041">notfound::</a> - 2010-01-31 02:27:22</dt>
+<dd><p> 01/30（土）に開催された、第49回PHP勉強会に参加してきました。 今回は株式会社コンテンツワンさんに会場をお借りしての開催。 発表された順で紹介して行きます。 Lithiumラボ #1　超先進的フレームワーク　　yandoさん Ceke3から派生したフレームワークLithiumの紹介です</p></dd>
+<dt>
+<a href="http://blog.candycane.jp/archives/261">candycane development blog</a> - 2010-01-31 07:43:03</dt>
+<dd><p>     第49回PHP勉強会にリモートから参加しました。<br />
+ニューヨークからは時差があるので金曜日の深夜１時頃からの発表になりました。<br />
+Skypeでの発表をケアしてくれたgusagiさん、cakephperさんのお陰でひとまず無事に終える事ができました。<br />
+ありがとうございます。<br />
+発表の内容<br />
+このブログでもたびたび、紹介しているLithiumの特徴をデモを交えて紹介しました。<br />
+CakePHPに良く似た記述量の少ないプログラミングとPHP5.3の機能を活用している部分を感じてもらえればと思います。<br />
+おそ...</p></dd>
+<dt>
+<a href="http://blog.candycane.jp/archives/261">candycane development blog</a> - 2010-01-31 07:44:15</dt>
+<dd><p>     第49回PHP勉強会にリモートから参加しました。<br />
+ニューヨークからは時差があるので金曜日の深夜１時頃からの発表になりました。<br />
+Skypeでの発表をケアしてくれたgusagiさん、cakephperさんのお陰でひとまず無事に終える事ができました。ありがとうございました。<br />
+発表の内容<br />
+このブログでもたびたび、紹介しているLithiumの特徴をデモを交えて紹介しました。<br />
+CakePHPに良く似た記述量の少ないプログラミングとPHP5.3の機能を活用している部分を感じてもらえればと思います。<br />
+おそ...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/gusagi/20100131/1264921379">gusagiの日記</a> - 2010-01-31 16:03:14</dt>
+<dd><p> タイトルのとおり、第49回PHP勉強会@関東に参加してきました。 今回は、株式会社コンテンツワンさんに会場をお借りしての勉強会でした。 会場提供、ありがとうございます！ 今回の勉強会ですが、yandoさんのSkypeでの発表を受ける予定だった私のPCが、外部ディスプレイを認</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-01-31 18:17:36</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/kaz_29/20100201/1264986673">kaz_29@はてな</a> - 2010-02-01 10:13:12</dt>
+<dd><p> 第49回PHP勉強会@関東で、久々の参加＆発表してきました。 第49回PHP勉強会@関東 http://events.php.gr.jp/events/show/88 発表資料 第49回Php勉強会@関東 DatasourceView more presentations from kaz29. サンプルコードはこちらから 発表は相変わらず...でしたが、なんと</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/cakephper/20100201/1265021480">cakephperの日記(cakePHP1.2ベース)</a> - 2010-02-01 19:52:58</dt>
+<dd><p> 第49回PHP勉強会@関東にて、「MongoDB + PHP + CakePHP」というタイトルで発表してきました。 MongoDBはRDB脳を持ったまま突入すると理解に苦しむケースがあり、僕も1週間ぐらい消化不良のまま色々な資料を見てました。 今回の発表では、その消化不良が起こらないように、ま</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-02-02 00:29:05</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-02-11 00:21:47</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-02-13 14:39:46</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-02-13 14:39:45</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-02-15 20:08:23</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-02-16 23:15:27</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-02-16 23:15:29</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-02-17 23:33:41</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-02-21 22:28:21</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-02-21 22:28:21</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-02-25 01:07:45</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-03-02 01:09:54</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-03-02 01:09:55</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-03-02 01:10:57</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-03-03 12:50:06</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-03-03 12:51:08</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-03-04 00:42:09</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-03-04 00:42:12</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-03-10 00:10:18</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-03-10 00:10:16</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-03-11 23:37:38</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-04-08 00:44:40</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-04-17 20:07:28</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-04-17 20:07:27</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-05-26 01:05:10</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-05-26 08:42:51</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-06-03 00:28:24</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-06-03 00:28:25</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-06-05 00:42:28</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-06-05 00:42:28</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-09-22 12:44:31</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-09-22 12:44:31</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-09-22 12:46:49</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-11-12 15:36:19</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-11-12 15:36:32</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-11-12 15:37:21</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-11-12 15:38:55</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-12-15 00:15:47</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-12-15 00:15:46</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2010-12-21 00:08:21</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2011-04-23 17:18:49</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2011-04-23 17:20:01</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2011-05-19 16:11:36</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2011-10-09 18:35:48</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2011-10-09 18:35:49</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2011-10-09 18:35:49</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2011-12-09 12:45:49</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2012-03-21 22:39:47</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+<dt>
+<a href="http://yashio.wordpress.com/2010/01/31/php%e5%8b%89%e5%bc%b7%e4%bc%9a/">Yashio&amp;amp;#039;s Blog</a> - 2012-03-21 22:39:50</dt>
+<dd><p>昨日、php勉強会にいってまいりました。いやー、ちゃんと地図で調べていかないせいで…神保町についてうろうろすることに。だめもとで@hampomにメールしたけど返信なんてくるわけがない。ってことで仕方なくi pod touchで探したらライブドアのポイントが；；やっとこ調べたら…！おい目の前じゃねえか！…。場所はコンテンツワンさん。いや、すんごいきれいなオフィスでした。無料で貸し出してくれるってすごいなあ。と思いつつ。ありがとうございます。 さて今回も色々な方のLTがあったのですが、今回もっとも気にな...</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/88" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

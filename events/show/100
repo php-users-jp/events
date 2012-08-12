@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第4回 symfony1.4勉強会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/100">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第4回 symfony1.4勉強会</h2>
+<dl>
+<dt>イベント内容</dt><dd>第4回 symfony1.4勉強会<br />
+<br />
+イベント内容<br />
+ファーストロジック社員が話し手となりセミナーの形式で進行させていただきます。<br />
+（講師を他からもう一人位募集できればと思っております。）<br />
+<br />
+今回は2本＋LTの予定です。<br />
+・symfonyの効果的な勉強方法について<br />
+・Limeを使ったテストの実装方法<br />
+を想定しています。<br />
+<br />
+今回は、前回までのアンケートを踏まえ、要望の多かったテストフレームワークについて話したいと思います。<br />
+もう一本は、初心者さんに教える立場にある人のお土産に成るような話になります。<br />
+<br />
+終了後の座談会も、（主に参加者の方々主導ですが）毎度盛り上がっております。<br />
+話し手も実務でぶつかった事例を元に、問題をどうやってシューティングしているか等々を話す予定です。<br />
+ぜひ、お気軽にご参加ください。<br />
+<br />
+対象は<br />
+・なんらかの形でsymfonyに関わる方々<br />
+・symfonyは知らないけど、PHPの単体テストってどうやるの？といった事に興味のある方々<br />
+です。<br />
+<br />
+会場は、株式会社ファーストロジック（JR浜松町駅前）<br />
+<a href="http://www.firstlogic.co.jp/about/index.html#map">http://www.firstlogic.co.jp/about/index.html#map</a><br />
+です。<br />
+<br />
+開催者名:中村慎吾<br />
+連絡先メールアドレス: nakamura.shingo [at] gmail.com</dd>
+<dt>イベント開催時間</dt><dd>2010-08-28 18:00 〜 20:30</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2010-08-18 00:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2010-08-28 00:00:00</dd>
+</dl>
+</div>
+
+<div>
+</div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:25</li>
+<li>現在の参加人数:13</li>
+<li>懇親会参加人数:6</li>
+<li>残り:12</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>野球小僧</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2010-08-18 08:12:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>ukee</td>
+    <td>宜しくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-08-18 10:10:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>せっきー２２</td>
+    <td>よろしくおねがいします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-08-18 10:18:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>hibinotatsuya</td>
+    <td>よろしくおねがいします</td>
+    <td style="text-align:center"></td>
+    <td>2010-08-18 20:23:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>doublemarket</td>
+    <td>初めて参加させていただきます。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-08-18 21:15:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ダッチ</td>
+    <td>初めてセミナーに参加させて頂きます。宜しくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-08-19 12:01:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kurosuke</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2010-08-19 15:18:34</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>hidenorigoto</td>
+    <td>DBモデリング・スキーマ定義ツールのORM Designerの紹介LT</td>
+    <td style="text-align:center"></td>
+    <td>2010-08-20 01:17:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>gilbite</td>
+    <td>てすと!てすと!</td>
+    <td style="text-align:center"></td>
+    <td>2010-08-20 10:42:39</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>kt001965</td>
+    <td>symfony 案件が一本とりあえずあがったところで、再度参加希望です。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-08-20 19:11:34</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>brtRiver</td>
+    <td>超ひさしぶりの参戦です。sfSimplePagePluginについてLT予定</td>
+    <td style="text-align:center">○</td>
+    <td>2010-08-21 00:32:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>tsubo</td>
+    <td>初めての参加させて頂きます。よろしくお願いいたします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-08-21 09:59:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yanchi</td>
+    <td>しばらくsymfony使ってないですが、よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-08-24 11:11:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>jiska</td>
+    <td>よろしくお願いします:)</td>
+    <td style="text-align:center">○</td>
+    <td>2010-08-24 23:15:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>mori</td>
+    <td>参加します。初参加です。</td>
+    <td style="text-align:center"></td>
+    <td>2010-08-27 22:14:21</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; hidenorigoto</h4>
+  <p>
+ORM Designer http://www.orm-designer.com/ の簡単な紹介をさせていただきます  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; brtRiver</h4>
+  <p>
+sfSimplePagePlugin(http://www.symfony-project.org/plugins/sfSimplePagePlugin)について紹介します。時間があれば他にも。  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; ukee</h4>
+  <p>
+残念！仕事確定です・・・。  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; hidenorigoto</h4>
+  <p>
+ORM Designerのフリーライセンスを1名の方にプレゼントします！  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; jiska</h4>
+  <p>
+山手線が止まってしまった関係で遅れてしまいます。  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form887122263" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/100"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form887122263', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/100', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form887122263'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/100', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_100)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/100"
+  trackback:ping="/trackbacks/receive/100"
+  dc:title=""
+  dc:identifier="/events/show/100" />
+</rdf:RDF>
+-->
+<dl>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/100" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

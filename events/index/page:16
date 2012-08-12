@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>Event - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<div>
+<h2>Recent Event</h2>
+
+<h3><a href="/events/show/34">PHP拡張勉強会</a></h3>
+<p>
+PHP拡張勉強会を開催します。詳細は以下を参照ください。http://d.hatena.ne.jp/i_ogi/20080115/ExtStudyVol1日時:2008年1月22日(火) 19:30～22:00会場: サイボウズ・ラボ株式会社(〒107-0052 東京都港区赤坂2-17-22 </p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td></td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-01-22 19:30 〜 22:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-01-22 19:30:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>25人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/34">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/33">第30回PHP勉強会</a></h3>
+<p>
+第30回PHP勉強会を開催します。日時:2008年01月29日(火)19:30 - 21:30会場:トライコーン株式会社地図参加費用無料（懇親会は希望者は実費※予約の都合があるので参加時のコメントに懇親会参加の</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td></td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-01-29 19:30 〜 1970-01-01 09:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-01-29 19:30:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>35人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/33">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/31">第29回PHP勉強会</a></h3>
+<p>
+第29回PHP勉強会を開催します。日時:2007年12月22日(土)14:00 - 17:30会場:トライコーン株式会社地図</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td></td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2007-12-22 14:00 〜 17:30</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2007-12-22 14:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>29人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/31">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/30">CakePHP勉強会</a></h3>
+<p>
+CakePHP勉強会を開催します。従来のPHP勉強会では一般化した内容しか取り扱えない面もある為、特化したイベントの開催を企画しました。CakePHPを実際に使っている人、CakePHPに興味がある人で</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td></td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2007-12-07 19:30 〜 21:30</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2007-12-07 19:30:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>30人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/30">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/29">PHP懇親会</a></h3>
+<p>
+ 候補日: 11/21日(水) 時間: 20時～23時  場所: 新宿 ファンデリ  URL: http://www.fun-deli.jp/  MAP: http://www.fun-deli.jp/map.html  会費: 4000円 料理+飲み放題  定員: 30名  環境: プロジェクタを用意し発表ができ</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td></td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2007-11-21 20:00 〜 21:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2007-11-21 20:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>30人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/29">このイベントに参加する/詳細を見る</a>
+
+<div class="pager">
+  
+<p id='pagination'>
+<a href="/events/index/page:15">&lt;&lt; previous</a> | 
+<span><a href="/events/index/page:12">12</a></span> | <span><a href="/events/index/page:13">13</a></span> | <span><a href="/events/index/page:14">14</a></span> | <span><a href="/events/index/page:15">15</a></span> | <span class="current">16</span> | <span><a href="/events/index/page:17">17</a></span> | <span><a href="/events/index/page:18">18</a></span> | <span><a href="/events/index/page:19">19</a></span> | <span><a href="/events/index/page:20">20</a></span> | <a href="/events/index/page:17" rel="next">next &gt;&gt;</a> 
+</p>
+
+</div>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

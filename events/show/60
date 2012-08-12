@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第17回高蔵寺SE勉強会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/60">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第17回高蔵寺SE勉強会</h2>
+<dl>
+<dt>イベント内容</dt><dd>愛知県春日井市高蔵寺で、CakePHPの勉強会を行います。<br />
+<br />
+今回は、CakePHPの初心者・入門者向けの勉強会です。<br />
+PHPがやったことない方でも、興味がある方は歓迎です。<br />
+<br />
+詳しい内容はこちらをご覧ください。<br />
+<ul><li><a href="http://se16.blog16.jp/index.php/2008/11/02/kouzouji_se_17">http://se16.blog16.jp/index.php/2008/11/02/kouzouji_se_17</a></li></ul><br />
+<br />
+宿題については、強制ではありませんので、やれる方はやってきてください。<br />
+また、発表者・LT発表者も募集しております。<br />
+発表してくださる方は、こちらよりご応募ください。<br />
+<ul><li><a href="http://se16.blog16.jp/?disp=msgform&recipient_id=1">http://se16.blog16.jp/?disp=msgform&recipient_id=1</a></li></ul><br />
+<br />
+※お昼を挟んでの勉強会となりますので、お弁当が付きます。</dd>
+<dt>イベント開催時間</dt><dd>2008-11-16 11:00 〜 15:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2008-11-03 01:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2008-11-13 20:00:00</dd>
+</dl>
+</div>
+
+<div>
+<p>※懇親会は行いませんので、懇親会への申込は不要です。</p></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:20</li>
+<li>現在の参加人数:12</li>
+<li>懇親会参加人数:0</li>
+<li>残り:8</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>あつ</td>
+    <td>主催者です。よろしくおねがいします</td>
+    <td style="text-align:center"></td>
+    <td>2008-11-03 06:57:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>mick0124</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-11-03 17:09:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>しんせん</td>
+    <td>初参加です。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-11-03 22:34:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>kuma</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-11-04 09:21:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hirose504</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-11-04 11:30:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>umecchi</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-11-04 14:09:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>omiu</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-11-05 21:59:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>shide</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-11-08 15:01:32</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>katsu2000x</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-11-09 16:34:00</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Hibi</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-11-10 08:03:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>dekachou</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-11-11 09:10:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>say_j</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-11-11 23:22:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>aki</td>
+    <td>ＰＨＰ初心者ですが、よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2008-11-12 12:45:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form1996125147" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/60"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form1996125147', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/60', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form1996125147'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/60', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_60)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/60"
+  trackback:ping="/trackbacks/receive/60"
+  dc:title=""
+  dc:identifier="/events/show/60" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://mick.blog16.jp/index.php/main/2008/11/04/cnn17a_c_ra_rel_e_mamosea_afmaf_a_mevent">メインブログ</a> - 2008-11-04 14:33:00</dt>
+<dd><p> <br />
+第17回高蔵寺SE勉強会ということで、events.php.gr.jpで募集が開始されました。今回の内容というかいつもですが、CakePHPに関する勉強会になってます。<br />
+<br />
+東海地区ではこういうCakePHPの勉強...</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/60" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

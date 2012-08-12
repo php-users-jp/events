@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第23回PHP勉強会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/18">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第23回PHP勉強会</h2>
+<dl>
+<dt>イベント内容</dt><dd>第23回PHP勉強会を開催します。<br />
+<br />
+日時:2007年4月22日(日)14:00 - 17:00<br />
+会場:株式会社ノッキングオン<br />
+<br />
+<a href="http://www.knocking.co.jp/company/map.html">http://www.knocking.co.jp/company/map.html</a><br />
+</dd>
+<dt>イベント開催時間</dt><dd>2007-04-22 14:00 〜 17:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd></dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2007-04-22 13:30:00</dd>
+<dt>地図</dt>
+<dd>
+<script type="text/javascript" src="http://slide.alpslab.jp/scrollmap.js"></script>
+<div class="alpslab-slide">
+35/39/15.079,139/44/29.278</div>
+<p>※会場までの地図です。<br />
+地図は<em>最寄の駅</em>を表示しており、<img src="{$BASE_URL}/../theme/phpgrjp/images/map-play.png" />をクリックすることにより、<em>会場までの順路が表示されます</em>。<br />
+また、地図をドラッグ＆ドロップにて動かすことができます。<br />
+<br />
+操作方法の詳細については<a href="http://www.alpslab.jp/slide_howto.html#4">貼り付けた地図の操作方法</a>を参照してください</p>
+</dd>
+</dl>
+</div>
+
+<div>
+</div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:20</li>
+<li>現在の参加人数:20</li>
+<li>懇親会参加人数:0</li>
+<li>残り:0</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>cocoiti</td>
+    <td>参加！</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-17 12:12:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Masato Bito</td>
+    <td>参!!</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-17 14:39:56</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yando</td>
+    <td>暫.</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-17 15:03:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>halt</td>
+    <td>このシステム操作性わるいな！！！</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-17 15:24:56</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ゆずほ</td>
+    <td>久しぶりだったのでイベント参加をどこからすればいいのか迷ってしまいました</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-17 15:40:26</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>shimooka</td>
+    <td>参加</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-17 18:50:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>LIND</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-17 20:14:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>shogo</td>
+    <td>PHPが好きです。</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-17 20:58:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>koyhoge</td>
+    <td>参加です</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-17 21:21:32</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>うえちょこ</td>
+    <td>初参加です。PHPに出会って1年でまだまだ知らないことだらけです。勉強させてください。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-18 00:30:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>nowel</td>
+    <td>今度こそ行くぞ！</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-18 00:41:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sasezaki</td>
+    <td>さんかします！</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-18 01:58:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ヴぇくたー</td>
+    <td>Ethnaのオサレver.初めて見ました。</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-18 09:04:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>qoutan</td>
+    <td>初参加です。宜しくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-18 15:00:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>mighty</td>
+    <td>参加です</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-18 15:42:35</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>hnw</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-18 16:02:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>noma</td>
+    <td>だいぶ久しぶりです。いつ以来でしょうか？</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-19 20:59:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Tetsujin</td>
+    <td>初の参加です。よろしくおねがいします！</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-19 22:54:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>BoBpp</td>
+    <td>参加させてください。</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-19 22:56:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nnno</td>
+    <td>久々に参加させていただきます。</td>
+    <td style="text-align:center"></td>
+    <td>2007-04-19 23:09:22</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; halt</h4>
+  <p>
+発表内容更新しました。  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; ゆどうふ</h4>
+  <p>
+あうぁぅ、この日は無理でした＞＜  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; shimooka</h4>
+  <p>
+なんかネタ考えます  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; LIND</h4>
+  <p>
+お忙しいようであれば宴会幹事立候補します。  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; halt</h4>
+  <p>
+&amp;gt;&amp;gt;LINDさん 是非是非おねがいします。  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; halt</h4>
+  <p>
+あれ、おかしいな。なんで二重にクォートしてるんだろう…  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; halt</h4>
+  <p>
+&gt;&gt;all 二重クォートのバグ修正しました。  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; Masato Bito</h4>
+  <p>
+PHPと全く関係ないんですが、興味ある方いればUNIXデーモンにやります http://labs.unoh.net/2007/04/unix.html  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; yando</h4>
+  <p>
+資料が間に合えばCake  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; halt</h4>
+  <p>
+あ。20人埋まりましたね。  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; yando</h4>
+  <p>
+やっぱりいけなくなりました。　でもキャンセルするとエラーになる？  </p>
+</div>
+<div class="section">
+<h4>
+11 &nbsp; lss</h4>
+  <p>
+鈴木＠ＬＳＳです。今頃だけど参加。事例紹介ネタあります。  </p>
+</div>
+<div class="section">
+<h4>
+12 &nbsp; halt</h4>
+  <p>
+Blogの追記してくれてありがとう！私もエントリかかねば  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form1992014463" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/18"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form1992014463', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/18', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form1992014463'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/18', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_18)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/18"
+  trackback:ping="/trackbacks/receive/18"
+  dc:title=""
+  dc:identifier="/events/show/18" />
+</rdf:RDF>
+-->
+<dl>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/18" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

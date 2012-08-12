@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>symfony勉強会/懇親会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/78">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::symfony勉強会/懇親会</h2>
+<dl>
+<dt>イベント内容</dt><dd>symfony勉強会/懇親会を開催します。<br />
+<br />
+参加費用: MAX2000円程度 (懇親会費用実費回収)<br />
+<br />
+日時: 2009年5月15日(金) 19:00～22:00<br />
+会場: 株式会社ディノ 9Fセミナールーム<br />
+(〒150-0002 東京都渋谷区渋谷3-13-11 渋谷TKビル9F)<br />
+<br />
+開催者名: 中井 啓紀<br />
+<br />
+</dd>
+<dt>イベント開催時間</dt><dd>2009-05-15 19:00 〜 22:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2009-05-09 15:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2009-05-15 19:00:00</dd>
+</dl>
+</div>
+
+<div>
+<h3> 注意</h3>
+<ul>
+<li> 参加者は会場(9F)へ直接お越しください。</li>
+<li> 20:00を過ぎると、1Fの扉にロックがかかります。扉右手にあるインターフォンから903を呼び出してください。</li>
+</ul>
+
+<h3> 発表内容</h3>
+<h3> はじめに(5分程度)</h3>
+<h4> 挨拶とか注意事項とか</h4>
+<ul>
+<li> 担当</li>
+<ul>
+<li> 月宮紀柳</li>
+</ul>
+</li>
+</ul>
+<h3> 自己紹介</h3>
+<h4> 一人1分程度で自己紹介をお願いします(所属・symfony歴等)</h4>
+<h3> 発表</h3>
+<h4> sfWebDebugToolbarを拡張してみる</h4>
+<ul>
+<li> 担当</li>
+<ul>
+<li> fivestar</li>
+</ul>
+</li>
+<li> 予定時間</li>
+<ul>
+<li> 19:30 ～ 19:50</li>
+</ul>
+</li>
+<li> 概要</li>
+<ul>
+<li> symfony1.2から簡単に拡張できるようになったsfWebDebugToolbarを実際に拡張してみます</li>
+</ul>
+</li>
+</ul>
+
+<h4> symfony1.2のイベントを使ってみた</h4>
+<ul>
+<li> 担当</li>
+<ul>
+<li> brtriver</li>
+</ul>
+</li>
+<li> 予定時間</li>
+<ul>
+<li> 19:55: ～ 20:20</li>
+</ul>
+</li>
+<li> 概要</li>
+<ul>
+<li> symfonyのコア部分を拡張する方法として提供されているイベント機能について</li>
+</ul>
+</li>
+</ul>
+
+<h4> ルーティングを使ってシンプルなアプリケーション開発を</h4>
+<ul>
+<li> 担当</li>
+<ul>
+<li> 海老原昂輔</li>
+</ul>
+</li>
+<li> 予定時間</li>
+<ul>
+<li> 20:25 ～ 20:50</li>
+</ul>
+</li>
+<li> 概要</li>
+<ul>
+<li> symfony 1.2 ではルーティングが大幅に強化されています。このルーティングを活用して複雑なアプリケーション開発をよりシンプルにしていく TIPS を紹介していきます</li>
+</ul>
+</li>
+</ul>
+
+<h3> LT(5分*3)</h3>
+<p>鋭意募集中です。
+発表したい方はこちらに追記をお願いします。
+発表者が多かったり、5分を超えるような発表は懇親会時にも発表出来るように考えます。</p>
+<ul>
+<li> 発表者</li>
+</ul>
+
+<ul>
+<li> bto</li>
+<ul>
+<li> sfMobileIPPlugin作った</li>
+</ul>
+</li>
+</ul>
+
+<h3> 懇親会</h3>
+<ul>
+<li> 概要</li>
+<ul>
+<li> ディノの高性能サーバが稼働予定</li>
+</ul>
+</li>
+<li> 予定時間</li>
+<ul>
+<li> 21:00-22:30くらいまで(発表次第で前後します)</li>
+</ul>
+</li>
+</ul></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:25</li>
+<li>現在の参加人数:21</li>
+<li>懇親会参加人数:17</li>
+<li>残り:4</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>quesera2</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-09 21:54:21</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>invent</td>
+    <td>宜しくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-10 02:07:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Tsukimiya</td>
+    <td>予定は後で書く</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-10 02:33:42</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>brtRiver</td>
+    <td>よろしくです。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-10 09:52:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>akky</td>
+    <td>さんかー</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-10 14:06:27</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>mukaken</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-05-10 17:04:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>shimooka</td>
+    <td>ずさ</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-10 23:08:51</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sumipan</td>
+    <td>よろしくおねがいします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-11 00:11:49</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>edy</td>
+    <td>よろしくお願いしますー</td>
+    <td style="text-align:center"></td>
+    <td>2009-05-11 00:15:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>fivestar</td>
+    <td>よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-11 01:54:48</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Kiske</td>
+    <td>さんかします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-11 09:54:57</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>たくしゅん</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2009-05-11 14:06:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>海老原昂輔</td>
+    <td>参加します！　発表もできればしたいです。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-11 16:06:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>urabe shinichi</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-11 16:09:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kunifree</td>
+    <td>参加します！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-11 16:19:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>さうす</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-11 18:02:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>juno</td>
+    <td>Poken持って参加しちゃいます</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-11 18:26:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sei</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-11 18:44:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>bto</td>
+    <td>よろしくお願いしますー</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-11 20:16:51</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>ELF</td>
+    <td>join!!</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-11 21:00:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yokkuns</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-12 00:03:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>tsuyoshikawa</td>
+    <td>仕事で携帯サイト作りましたー。参加で。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-12 01:45:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>scarletmoon0428</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2009-05-12 09:04:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>reien</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-05-12 09:06:34</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tetsutan</td>
+    <td>初参加になります。よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2009-05-12 09:26:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>fjkktkys</td>
+    <td>よろしくです</td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-12 14:01:04</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>uzura</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2009-05-12 14:20:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; Tsukimiya</h4>
+  <p>
+発表したい/発表できる人っていますかの  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; shimooka</h4>
+  <p>
+余裕があれば、何か考えるかのぉ  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; fivestar</h4>
+  <p>
+何かしら発表するつもりです＞＜  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; Tsukimiya</h4>
+  <p>
+おおお、お願いします＞＜　時間は調整しますのでー＞shimookaさん、fivestarさん  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; 海老原昂輔</h4>
+  <p>
+symfony1.2以降のルーティングとかについて発表させていただこうと思います！　20分くらいでしょうか……  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; shimooka</h4>
+  <p>
+予定入ってしまった。。。orz  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; uzura</h4>
+  <p>
+よろしくお願いします！  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; Tsukimiya</h4>
+  <p>
+是非是非お願いします－＞海老原さん、　残念です・・・＞しもおかさん  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; brtRiver</h4>
+  <p>
+何か発表しますです。って間に合うかな。。  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; ELF</h4>
+  <p>
+すみません．悪行のドタキャンです…  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; edy</h4>
+  <p>
+ごめんなさい体調良くないので不参加となってしまいました…  </p>
+</div>
+<div class="section">
+<h4>
+11 &nbsp; Tsukimiya</h4>
+  <p>
+ちこく、かっこわるい＞＜  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form473506668" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/78"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form473506668', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/78', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form473506668'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/78', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_78)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/78"
+  trackback:ping="/trackbacks/receive/78"
+  dc:title=""
+  dc:identifier="/events/show/78" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20090510/1241964875">Do You PHP はてな</a> - 2009-05-10 23:15:10</dt>
+<dd><p> Cakeが盛り上がってるなら、symfonyも！という事かどうか分かりませんが、symfony勉強会＆懇親会も開催されます。すでに募集開始してます！ イベント内容 symfony勉強会/懇親会を開催します。 参加費用: MAX2000円程度 (懇親会費用実費回収) 日時: 2009年5月15日(金) 19:00</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/Fivestar/20090510/1241975323">ゆっくり*ゆっくり</a> - 2009-05-11 12:21:41</dt>
+<dd><p> events.php.gr.jp - symfony勉強会/懇親会 今月の15日（金）にsymfony勉強会/懇親会が行われます。 一応今回も発表するつもりではあります。ネタは考えてませんが、symfonyで面白いのがなければDoctrineに逃げるのかな。。。 平日ですが、今回もディノ様のオフィスを貸して</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yokkuns/20090515/1242405477">yokkunsの日記</a> - 2009-05-16 01:51:07</dt>
+<dd><p> 本日、symfony勉強会／懇親会に参加してきました。 events.php.gr.jp - symfony勉強会/懇親会 ブログに書くまでが勉強会らしいので、お酒で頭が働かない中、頑張って更新します。 1. sfWebDebugToolBarを拡張してみる （id:Fivestarさん） sfWebDebugToolberの内部 sfWebDeb</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/brtRiver/20090516/1242465158">ぷぎがぽぎ</a> - 2009-05-16 18:14:32</dt>
+<dd><p> 5/18にsymfony勉強会があり、イベントという機能について発表してきました。 symfonyのイベント(sfEventDispatcher)はsymfony1.1以降から利用できるsymfonyのコア部分を拡張するための手段で、1.0のころに用意されていたMixinという機能に取って代わるものです。 コアクラス</p></dd>
+<dt>
+<a href="http://www.tejimaya.com/archives/1723">SNS構築の手嶋屋</a> - 2009-05-18 00:31:52</dt>
+<dd><p>				開発部の海老原です。みなさん今日も元気に symfony してますか？<br />
+				ということで、技術ネタです。<br />
+				5/15 (金) に開催されたsymfony勉強会/懇親会にて、<br />
+				『ルーティングを使ってシン...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/Kiske/20090518/1242624004">Absolute Playing!</a> - 2009-05-18 14:22:17</dt>
+<dd><p> 5/15に開催されたsymfony勉強会/懇親会に参加してきました。会場を提供してくださった株式会社ディノさんいつもありがとうございます。 勉強会中の主なトピックスは1.2で変更された部分の話がやっぱり多かったですね。自分は1.2はJobeetでいじりながら、適当に遊んでるレベ</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/78" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

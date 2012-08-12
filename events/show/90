@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第50回PHP勉強会@関東 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/90">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第50回PHP勉強会@関東</h2>
+<dl>
+<dt>イベント内容</dt><dd>第50回PHP勉強会@関東を開催します。<br />
+今回は、30名（開催者・会場責任者・発表者を除く）の募集となります。<br />
+今回は「オープンソーシャル」をテーマとし、流行の技術に関して3名の方に発表していただきます。<br />
+<br />
+2/15(月)12:00より、追加募集を行います。<br />
+追加募集の人数は15名分となります。<br />
+<br />
+<div style="color: #ff0000;">2/21(日)23:00追記<br />
+あと5名分ですが、枠を増やしました。</div><br />
+<br />
+勉強会終了後には参加者同士で交流を深めるために懇親会を行います。<br />
+今回は通算で50回目のPHP勉強会@関東ですので、懇親会でもちょっとした企画を用意しています。<br />
+<div style="color: #ff0000;">懇親会の会場でもプロジェクターを手配しました。<br />
+懇親会LTやりたい方がいましたら、参加申し込みの下にあるコメント用フォームから、LT参加の旨を書いて下さい。</div><br />
+<br />
+参加される方は申込み時に合わせて参加表明をお願いします。<br />
+<br />
+■概要<br />
+日時: 2010年2月22日(月) 19:50～21:30(開場は19:30から)<br />
+会場: <a href="http://www.contents-one.co.jp/">株式会社コンテンツワン</a> 1Fセミナールーム (<a href="http://www.contents-one.co.jp/company/map.php">地図</a>)<br />
+費用: なし（懇親会については、実費が発生しますのでご注意下さい）<br />
+<br />
+== 会場注意 ==<br />
+会場は、1Fのセミナールームですが、20時以降はビルの正面出入り口はシャッターがおりている可能性があります。<br />
+その場合は、側面にある<a href="http://bit.ly/4AOzFJ">通用口</a>にお回り下さい。<br />
+また、セミナールームに入るために、セミナールーム付近のゲートでgusagiを呼び出してもらう必要があります。<br />
+当日はgusagiの携帯電話番号を書いた張り紙を貼っておきますので、現地につきましたら呼び出しをお願いします。<br />
+<br />
+■懇親会<br />
+<ul><li>今回は、懇親会については当日のお楽しみとさせていただきます。</li><li><font color="#ff0000">5,000円(税込)</font>です</li><li>参加する方は、席数確定の関係上、お早めに表明をお願いします</li><li><font color="#ff0000">キャンセルする場合は、出来る限り早めにキャンセルを申し出て下さい</font></li><li><font color="#ff0000">懇親会LT、絶賛募集中です！</font></li></ul><br />
+<br />
+■手伝っていただける方、募集します<br />
+<ul><li>勉強会に参加される方で、勉強会当日の受付や会場準備を手伝って頂ける方がいらっしゃいましたら、登録時のコメントに書いて下さい。<br />
+※開始時刻の20分くらい前には会場入りして頂けると助かります。</li><li>Ust配信をやっていただける方がいらっしゃいましたら、登録時のコメントに書いて下さい。</li></ul><br />
+<br />
+■その他<br />
+<ul><li>ネット環境（イー・モバイルなど）は、各自で持参をお願いします。また、電源タップについても持参してくれる方が若干いると助かります</li><li>TypeKeyによる認証は動作が不安定なケースがありますので、はてな・mixiからの認証をお勧めします</li></ul><br />
+<br />
+<br />
+■Ustream<br />
+<br />
+Ustream による中継を予定しています。<br />
+<br />
+http://www.ustream.tv/channel/phpstudy<br />
+<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="500" id="utv37975"><param name="flashvars" value="autoplay=false&amp;brand=embed&amp;cid=303222"/><param name="allowfullscreen" value="true"/><param name="allowscriptaccess" value="always"/><param name="movie" value="http://www.ustream.tv/flash/live/1/303222"/><embed flashvars="autoplay=false&amp;brand=embed&amp;cid=303222" width="640" height="500" allowfullscreen="true" allowscriptaccess="always" id="utv37975" name="utv_n_860602" src="http://www.ustream.tv/flash/live/1/303222" type="application/x-shockwave-flash" /></object><a href="http://www.ustream.tv/" style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" target="_blank">Stream videos at Ustream</a><br />
+<embed width="365" height="500" type="application/x-shockwave-flash" flashvars="channelId=303222&brandId=1&channel=#phpstudy&server=chat1.ustream.tv" pluginspage="http://www.adobe.com/go/getflashplayer" src="http://www.ustream.tv/flash/irc.swf" allowfullscreen="true" /><iframe width="365" scrolling="no" height="500" frameborder="0" style="border: 0px none transparent;" src="http://www.ustream.tv/socialstream/303222"></iframe></dd>
+<dt>イベント開催時間</dt><dd>2010-02-22 19:50 〜 21:30</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2010-02-15 12:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2010-02-22 19:50:00</dd>
+</dl>
+</div>
+
+<div>
+<h3> タイムスケジュール（仮）</h3>
+<hr />
+<ul>
+<li> 19:50 開始挨拶</li>
+<li> 19:55 自己紹介など（10分）</li>
+<li> 20:05 発表枠（途中に若干の休憩を入れます）</li>
+<li> 21:25 クロージング</li>
+</ul>
+
+<h3> 発表内容</h3>
+<h5> mixiアプリについて（Weboo!） ※Ustream配信なし</h5>
+<p>オープンから数ヶ月が経過したmixiアプリの現状とその仕組み、開発方法について紹介します。</p>
+
+<h5> PHPでWEB開発を行うようにしてオープンソーシャルアプリを作る（KuniTsuji）</h5>
+<p>CIを例に、PHPでのヘルパーやライブラリを実例を交えて紹介します。</p>
+
+<h5> 運用した気になるモバイルオープンソーシャル (個々一番)</h5>
+<p>2009年10月から約4か月の間オープンソーシャル上にのっかったサイトを運用して発生した
+トラブル・経験・&#039;&#039;愚痴&#039;&#039;をPHPをからめてお届けします。</p>
+
+<h5> 懇親会LT</h5>
+<ul>
+<li> k-kishida</li>
+<li> yuppyi</li>
+<li> ooharabucyou</li>
+</ul></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:51</li>
+<li>現在の参加人数:51</li>
+<li>懇親会参加人数:40</li>
+<li>残り:0</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>gusagi</td>
+    <td>幹事役、やらせていただきます</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 00:01:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>dev0000</td>
+    <td>参加します。よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 12:07:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yuchimiri</td>
+    <td>今回は司会進行のお手伝いさせていただきます♪</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 12:54:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>uechoco</td>
+    <td>参加します。発表の方々すごい面子だｗ</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 13:37:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>bto</td>
+    <td>いいや！限界だ！登録するね！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 13:50:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Tsukimiya</td>
+    <td>参加しよー</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 16:43:05</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>nekoget</td>
+    <td>参加します。よろしくお願いします。他に居なければUst予定。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 16:43:27</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>fivestar</td>
+    <td>参加します！！！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 17:16:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>onk</td>
+    <td>よろしくお願いしまーす</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 18:16:39</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>k-kishida</td>
+    <td>参加ぁ</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 18:44:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>quesera2</td>
+    <td>お願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 20:11:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>puchiban</td>
+    <td>お願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-11 22:26:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Gakushi</td>
+    <td>よろしくお願いします！</td>
+    <td style="text-align:center"></td>
+    <td>2010-02-12 01:36:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>aoshinya</td>
+    <td>初参加です。よろしくお願い致します。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 08:21:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kuma2gou</td>
+    <td>同じく初参加です。よろしくです。</td>
+    <td style="text-align:center"></td>
+    <td>2010-02-12 10:01:00</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>tosh10</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2010-02-12 10:38:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ogi</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2010-02-12 11:20:32</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>Sanojimaru</td>
+    <td>よろしくです。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 11:36:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>morimotoj</td>
+    <td>もろ仕事で関わってるテーマだし参加しなくては・・・</td>
+    <td style="text-align:center"></td>
+    <td>2010-02-12 11:39:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Kazukichop</td>
+    <td>よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 11:52:48</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kururi</td>
+    <td>仕事に関わりそうだし、お会いしたいもチラチラいるので参加！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 11:54:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ooharabucyou</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 12:14:23</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>MugeSo</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 12:50:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ありひー</td>
+    <td>宜しくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 12:53:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>vector</td>
+    <td>ずざー</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 13:32:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>brtRiver</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 13:53:26</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kaz_29</td>
+    <td>参加しまっす！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 14:01:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ふじもと</td>
+    <td>すごいひさびさにさんかー</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 14:07:32</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hirota2</td>
+    <td>参加します。よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 14:07:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>うえだ</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 14:10:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>junichiro</td>
+    <td>おお、あいてるなら</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-12 15:28:49</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>mutty</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2010-02-15 12:00:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yuppyi</td>
+    <td>久々に参加できるので楽しみにしています。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-15 12:00:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ようさん</td>
+    <td>初めてです</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-15 12:00:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>萩原崇之</td>
+    <td>2日続けてオープンソーシャル祭りですね</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-15 12:00:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nnno</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-15 12:00:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>gleemitsu</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-15 12:01:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Hamaco</td>
+    <td>参加しまっす</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-15 12:04:42</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ELF</td>
+    <td>改めて</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-15 12:06:21</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>2no</td>
+    <td>初めまして。参加したいです</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-15 12:09:26</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>TamaC</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-15 12:10:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>tokushima</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2010-02-15 12:13:12</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>cloned</td>
+    <td>久しぶりに参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-15 12:16:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>kzmr</td>
+    <td>よろしくおねがいします！</td>
+    <td style="text-align:center"></td>
+    <td>2010-02-15 12:22:25</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>chobi_e</td>
+    <td>初参加です。よろしくおねがいします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-15 12:22:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ototo</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2010-02-15 12:37:32</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>k.k</td>
+    <td>久々に参加させていただきます！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-22 00:18:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>memokami</td>
+    <td>memokami</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-22 01:08:51</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kt001965</td>
+    <td>すべりこみ? 初参加です。会場準備の手伝いできます。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-22 09:06:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>dk</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-22 09:26:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>hiramatsu</td>
+    <td>参加</td>
+    <td style="text-align:center"></td>
+    <td>2010-02-22 10:08:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>deeeki</td>
+    <td>初参加です。よろしくおねがいします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-02-22 10:24:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>massat</td>
+    <td>およ。空きがある！</td>
+    <td style="text-align:center"></td>
+    <td>2010-02-22 10:54:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>seeherher</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-02-22 16:20:35</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Yukimi</td>
+    <td>直前ですみません。少し遅れる予定ですが、参加させてください。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-02-22 19:12:05</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; gusagi</h4>
+  <p>
+2/15の12:00から追加募集を行います  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; ELF</h4>
+  <p>
+「残り:15」ってオレの読み違いだよねと思ったらやっぱり15日開始分…  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; gusagi</h4>
+  <p>
+そうなんです。紛らわしかったですね^^; ＞ ELFさん  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; mutty</h4>
+  <p>
+すいませんコメントし忘れましたwよろしくお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; miya_hiro</h4>
+  <p>
+追加募集に間に合わなかった・・・・。  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; shujix</h4>
+  <p>
+追加募集気がついたの今orz。  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; EG</h4>
+  <p>
+残念、次回に期待します・・  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; taka0024</h4>
+  <p>
+地方なんでUst配信期待してるんですが、誰かやってほしい・・・。  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; gusagi</h4>
+  <p>
+ogiさんに配信をお願いしました＞taka0024さん  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; gusagi</h4>
+  <p>
+Weboo!さんの発表については、Ust配信無しとなります。ご了承下さいm(_ _)m  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; memokami</h4>
+  <p>
+キャンセル待ちー  </p>
+</div>
+<div class="section">
+<h4>
+11 &nbsp; k-kishida</h4>
+  <p>
+懇親会LTやるぞー  </p>
+</div>
+<div class="section">
+<h4>
+12 &nbsp; gusagi</h4>
+  <p>
+ありがとうございますー ＞k-kishidaさん  </p>
+</div>
+<div class="section">
+<h4>
+13 &nbsp; yuppyi</h4>
+  <p>
+懇親会LTの発表を希望します。PHP開発で気になったことについて5分程度で考えています。よろしくお願いいたします。  </p>
+</div>
+<div class="section">
+<h4>
+14 &nbsp; ooharabucyou</h4>
+  <p>
+懇親会LTやってみます！ギリギリですいません。OpenSocialネタです。  </p>
+</div>
+<div class="section">
+<h4>
+15 &nbsp; morimotoj</h4>
+  <p>
+業務都合つけられなかっためキャンセルしますーすません；；  </p>
+</div>
+<div class="section">
+<h4>
+16 &nbsp; gusagi</h4>
+  <p>
+ありがとうございます！ ＞yuppyiさん、ooharabucyouさん  </p>
+</div>
+<div class="section">
+<h4>
+17 &nbsp; gusagi</h4>
+  <p>
+了解です＞morimotojさん  </p>
+</div>
+<div class="section">
+<h4>
+18 &nbsp; memokami</h4>
+  <p>
+コメント欄にIDを書く大失態(&gt;_&lt;)  </p>
+</div>
+<div class="section">
+<h4>
+19 &nbsp; nekoget</h4>
+  <p>
+ドタキャン申し訳ありません。仕事都合でいけなくなりましたm(_ _)m  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form2117835243" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/90"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form2117835243', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/90', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form2117835243'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/90', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_90)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/90"
+  trackback:ping="/trackbacks/receive/90"
+  dc:title=""
+  dc:identifier="/events/show/90" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/gusagi/20100211/1265899424">gusagiの日記</a> - 2010-02-11 23:43:49</dt>
+<dd><p> 第50回PHP勉強会@関東の参加者募集が始まっています。 第50回PHP勉強会@関東を開催します。 今回は、30名（開催者・会場責任者・発表者を除く）の募集となります。 今回は「オープンソーシャル」をテーマとし、流行の技術に関して3名の方に発表していただきます。 勉強会終</p></dd>
+<dt>
+<a href="http://web-engineer.buyuden.net/blog/kawai/2010/02/50php.html">「川井健史の「元気の出る」ブログ」</a> - 2010-02-13 00:31:13</dt>
+<dd><p>記念すべき、第50回PHP勉強会＠関東に、前回の第49回に続き会場協賛させていた...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/kazumaryu/20100223/1266853607">Road To Nowhere</a> - 2010-02-23 00:46:49</dt>
+<dd><p> 第50回PHP勉強会@関東 - events.php.gr.jp こちらの勉強会に参加してきた。 以下、粗いにもほどがあるメモ。 mixiアプリについて スピーカー：weboo氏（@weboo）、mixiのなかの方 mixiはソーシャルグラフ（他はバーチャルグラフ） mixiアプリを使いにきたユーザーが他の機能</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/cloned/20100222">cloned.log</a> - 2010-02-23 01:46:21</dt>
+<dd><p> 第50回PHP勉強会@関東 - events.php.gr.jp（会場提供のコンテンツワンさま） オープンソーシャルがテーマで参加者にGREEの藤本さんのお名前もあったので参加してきた。 mixi、モバゲーのプラットフォームで動作するアプリを日々開発しているので知識的には知っていることだ</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/gusagi/20100223/1266859247">gusagiの日記</a> - 2010-02-23 02:20:47</dt>
+<dd><p> タイトルのとおり、第50回PHP勉強会@関東に参加してきました。 会場は、前回に引き続き株式会社コンテンツワンさん。今回もありがとうございましたm(_ _)m なお、今回は勉強会の司会・進行はid:yuchimiri さんに丸投げお願いして、裏方をやっていました。 今回は募集の段階</p></dd>
+<dt>
+<a href="http://web-engineer.buyuden.net/blog/kawai/2010/02/50php-1.html">「川井健史の「元気の出る」ブログ」</a> - 2010-02-23 03:59:58</dt>
+<dd><p>第50回PHP勉強会＠関東に会場提供という形で協賛し、本編～懇親会まで参加してき...</p></dd>
+<dt>
+<a href="http://blog.yuppyi.com/?p=199">yuppyi blog</a> - 2010-02-23 13:29:54</dt>
+<dd><p>昨日、平成22年2月22日 第50回PHP勉強会@関東に参加しました。 今回は、応募が多くすぐに埋まってしまったので、追加募集で申し込みました。 「オープンソーシャル」をテーマとして、３名の方のお話を聞きました。 mixiアプリを使ったAPI関連が話題を呼んでいますが、 普段の私は、自己完結型の開発（外部への連携なし）が多いので 新鮮な内容でした。 APIを使ったことがないので、調べてみて簡単なアプリが作れたら楽しいだろうなと思います。 そして、懇親会は 神保町のすずらん通りの日比谷BARさんにて行...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/ooharabucyou/20100222/1266856429">じゆうちょう - ooharabucyou</a> - 2010-02-23 13:35:22</dt>
+<dd><p> 放置ブログですが、記事を書く雰囲気なのでとりあえず記事を作るのである。 昨日、記念すべき第50回PHP勉強会@関東が開催されました！ 大学が春休み・興味のある話・完全なるノリってことで 勢いで参加して、ついでにLTなどやってみることにしました。 会場を用意してくださ</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/KuniTsuji/20100224/1266976466">KuniTsujiのPHP開発日記</a> - 2010-02-24 10:59:14</dt>
+<dd><p> 2月22日、第50回PHP勉強会(http://events.php.gr.jp/events/show/90)に参加してきました。オープンソーシャル関連の勉強会ということで、 50名以上の参加者がいる勉強会になりました。gusagiさん、お疲れ様でした。 http://d.hatena.ne.jp/gusagi/20100223/1266859247 gusag</p></dd>
+<dt>
+<a href="http://eblog.drecom.jp/entry/12">Figure out!! -ドリコムエンジニアブログ</a> - 2010-02-25 03:04:14</dt>
+<dd><p>こんにちは！onk です。  第50回PHP勉強会@関東 に参加してきました。会場は 株式会社コンテンツワン さん。50人超のメンバーを入れられる会場って限られてるのですごく助かります。ありがとうございました！  以下，当日のメモです。 mixiアプリについて @weboo  mixi アプリの概要説明。技術的な説明の部分はほぼ mixi Developer Center のままかな。  流行るアプリの例として弊社の ハッピーアクアリウム を紹介いただきました。ありがとうございます＾＾  mixi アプリの流行るポイント 4 つ      * 分かりやすさ     * ソーシャル性     * 巻き込み性     * 継続性  はすごく分かりやすい指標。合わせて mixi のソーシャルグラフ (他社と違いバーチャルグラフ化していないリアルな友達) の健全性を保つことに言及されていたのが印象に残りました。 PHPでWEB開発を行うようにしてオープンソーシャルアプリを作る @KuniTsuji  僕らは既に mixi / モバゲーに対してアプリを提供しているので，この辺は実装済みですね。開発時はほとんどソーシャルアプリという意識はないです。  PC と mobile で同じテンプレートを使うのを断念されてましたが，ちょこっと js で加工してあげれば HTML 断片返さなくても大丈夫じゃないかな。      * HTML のコンテンツ部分に div 1 個カマしておく     * リンクやフォームの onclick で gadgets.io.makeRequest する     * callback 内で，取ってきた HTML からコンテンツ部分を取得，wapper の innerHTML を置き換え  カヤックさんの mist.js が参考になると思う。  まぁ実際は PC と mobile では情報量も変わるしページ遷移も変えるしで，とりあえず PC でも操作可能にしておくか程度にしか使えないんだけど。 運用した気になるモバイルオープンソーシャル @cocoitiban  超共感した！！！！  さすがに LA 4 桁はまだお目にかかったことがないなぁｗ 画像生成怖いっす＞＜  「愛され系ゆるふわコーディング」の重要性はホントに声を大にして言いたいですね。  他サービスの API が落ちているときに      * 使わなくてもプレイに支障を来さないならそのまま進める     * でなければ適切なエラーページを返す  のいずれかはやっておきましょう，アプリとして想定しているエラーのはずなので。後でサービス落ちたりユーザの問い合わせが爆発したりと泣きを見ます。  もうホント正しく作るっていうそれだけなんだけどね……。甘えが残っているとそこがボトルネックとなるのを日々実感してます。 懇親会  LT しました！ 資料はこちら → ハッピーアクアリウム裏話 (2010/02/22＠第50回PHP勉強会)  懇親会ではだいたい @cloned と @cocoitiban，@weboo と話してました。DeNA や mixi との NDA 気にしなくて良いメンツだと話しやすくていっすねｗ  モバゲーの API についてとか，各コンテナに対して絵文字をどう返すかとか，OAuth 署名の signature についてとか。SAP や Container のエンジニア同士で情報交換出来るのはとても助かるなー。  EC2 どうよ？という話もしたんだけど，正直 200msec 程度の遅延はモバイルだとそもそも回線が不安定なため気にならないかな。サービス投入直後の「どんだけ人が来るか読めない」段階ではクラウドを選択肢に入れない理由がない。伸びが予想出来るようになったら自社サーバに移せば良いです。  というわけで普段からスケールアウト可能な作りにしておくのがソーシャルアプリでは必須。  でも数十万ユーザ＆初めの数ヶ月なら，数台でなんとかなります( 雑感  50 回も勉強会を続けるって強いなぁ。PHP 界隈元気ですねー。Symfony 2.0 の楽しげな話も聞こえてきました。  あと，OpenSocial への期待も大きいですね。  cloned さんの      過去のファミコンのような魅力的なプラットフォームなので、同じような感じのアプリがあるからとたじろぐのではなく「うちのはここが良い」というアプリをどんどん開発して公開するのがよろしいと思う。あれだけ素晴らしいドラゴンクエストとファイナルファンタジーがあったにも関わらずたくさんの後続のRPGがヒットして今でも愛されているように。      【第50回PHP勉強会に参加してオープンソーシャルに思うことなど - cloned.log】  という発言はとても共感。ホントに 10 年に 1 度の面白い時代なので，みんなで盛り上げていきたいと感じてます。</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-08-09 22:23:59</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-08-09 23:01:19</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-08-09 23:18:16</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-08-19 11:59:32</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-09-08 23:06:04</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-09-10 18:37:04</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-09-14 09:07:38</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-09-14 21:31:40</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-09-16 01:01:49</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-09-16 16:43:14</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-10-20 19:12:48</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-14 22:24:05</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-16 00:20:07</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-17 01:14:34</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-19 01:21:32</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-19 01:27:31</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-19 01:35:48</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-19 01:37:58</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-19 11:27:33</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-19 11:30:24</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-20 01:37:43</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-24 00:18:42</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-11-29 01:33:38</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-12-02 14:00:38</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-12-05 00:31:40</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-12-09 00:01:28</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-12-09 00:03:43</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-12-12 23:56:19</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-12-16 11:33:15</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2010-12-23 00:32:28</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-01-20 09:07:35</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-01-20 09:19:29</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-01-30 01:29:31</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-01-30 14:01:48</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-01-30 16:28:52</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-02-02 16:26:34</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-02-06 13:10:42</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-02-10 12:08:44</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-02-25 08:02:13</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-03-08 09:20:38</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-03-08 09:38:38</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-03-11 09:07:19</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-04-04 11:20:28</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-04-18 11:44:50</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-04-19 10:01:00</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-04-19 10:27:05</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-04-19 10:28:10</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-12 10:16:56</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-13 00:51:00</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-13 00:52:04</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-13 01:06:37</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-13 09:26:35</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-13 09:31:51</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-13 09:34:07</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-14 10:18:46</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-14 22:34:44</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-15 03:10:35</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-15 03:12:09</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-29 01:05:32</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-30 23:07:08</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-05-30 23:24:31</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-06-05 00:50:45</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-06-07 00:35:03</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-06-07 00:59:26</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-06-09 19:18:54</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-06-09 19:22:12</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-06-13 13:38:12</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-06-18 15:48:48</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-07-27 16:08:52</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-07-29 23:45:28</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-08-22 00:27:29</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-08-22 11:00:23</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-08-25 11:25:39</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-08-30 22:22:16</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-08-30 22:23:14</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-08-31 14:00:08</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-08-31 14:01:15</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-08-31 15:49:10</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-09-12 18:56:46</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-09-23 23:10:27</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-09-24 00:03:56</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-10-31 11:26:31</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-11-25 10:11:02</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-11-25 17:10:28</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-11-28 12:30:05</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-04 14:42:26</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-06 10:00:05</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-06 10:01:20</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-09 00:02:59</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-14 17:23:15</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-14 17:30:01</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-14 20:21:08</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-20 01:02:23</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-24 16:10:28</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-31 21:22:15</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-31 22:09:11</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-31 23:22:15</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-31 23:22:52</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-31 23:23:08</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-31 23:23:24</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2011-12-31 23:59:31</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-01-01 22:54:04</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-01-02 13:44:05</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-01-13 14:48:22</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-01-24 09:26:48</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-01-26 16:29:37</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-01-26 16:30:03</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-01-31 12:17:38</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-02-02 01:21:36</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-02-02 01:35:08</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-02-02 01:36:28</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-02-05 16:11:29</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+<dt>
+<a href="http://labs.uechoco.com/blog/2010/02/php-php-study-50th-at-kanto.html">うえちょこ＠ぼろぐ</a> - 2012-04-14 12:15:29</dt>
+<dd><p>第50回PHP勉強会@関東に参加してきました。 記念すべき50回目ということで、OpenSocialをテーマにした大人数の勉強会となりました。会場は株式会社コンテンツワンさんです。ありがとうございます。発表はmixiのWebooさん、エムズリンクのKuniTsujiさん、ウノウの個々一番さんでした。ちょっとだけオフレコな情報もありましたね。またUstはi-ogiさん、司会進行はyuchimiriさん、幹事はgusagiさんでした。いつもありがとうございます。 OpenSocialという今一番アツい市...</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/90" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

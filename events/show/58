@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第2回設計勉強会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/58">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第2回設計勉強会</h2>
+<dl>
+<dt>イベント内容</dt><dd>第2回設計勉強会を開催します。<br />
+<br />
+参加費用無料(懇親会参加希望者は実費)<br />
+<br />
+日時: 2008年11月5日(水) 19:00～21:00<br />
+会場: 株式会社ディノ 9Fセミナールーム<br />
+(〒150-0002 東京都渋谷区渋谷3-13-11 渋谷TKビル9F)<br />
+<br />
+はてなダイアリー[1]にも書きましたが、PHPのフレームワークを<br />
+使った実際のプロジェクトでどういう風に設計し、その結果、どこ<br />
+が良かったか/いまいちだったかを皆で持ち寄って議論できればと<br />
+思います。<br />
+<br />
+対象はsymfonyに限らず、フレームワークより外側をどうつくるか？<br />
+に焦点を置いたものであれば構いません。<br />
+<br />
+現在想定している内容については、[2]を参照してください。<br />
+第1回の様子については、[3]を参照してください。<br />
+<br />
+[1]<a href="http://d.hatena.ne.jp/shimooka/20080901/1220245667">http://d.hatena.ne.jp/shimooka/20080901/1220245667</a><br />
+[2]<a href="http://d.hatena.ne.jp/shimooka/20080829/1220019598">http://d.hatena.ne.jp/shimooka/20080829/1220019598</a><br />
+[3]<a href="http://events.php.gr.jp/events/show/52">http://events.php.gr.jp/events/show/52</a><br />
+<br />
+<br />
+<h3>募集について</h3><br />
+募集は次の3回に分けて順次開始します。<br />
+<br />
+(1)発表者募集<br />
+ 申込期間: 2008年10月22日(水) 19:00～<br />
+ 募集人数: 3人<br />
+<br />
+(2)初参加者募集<br />
+ 申込期間: 2008年10月25日(土) 19:00～<br />
+ 募集人数: 10人<br />
+<br />
+(3)一般募集<br />
+ 申込期間: 2008年10月29日(水) 19:00～<br />
+ 募集人数: 7人<br />
+<br />
+<h3>Ust中継やります</h3><br />
+http://www.ustream.tv/channel/design-study02にて中継します。<br />
+id:NEKOGETさんに感謝！<br />
+<br />
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="400" height="320" id="utv688556"><param name="flashvars" value="viewcount=false&amp;autoplay=false&amp;brand=embed"/><param name="allowfullscreen" value="true"/><param name="allowscriptaccess" value="always"/><param name="movie" value="http://www.ustream.tv/flash/live/342654"/><embed flashvars="viewcount=false&amp;autoplay=false&amp;brand=embed" width="400" height="320" allowfullscreen="true" allowscriptaccess="always" id="utv688556" name="utv_n_426428" src="http://www.ustream.tv/flash/live/342654" type="application/x-shockwave-flash" /></object><a href="http://www.ustream.tv/" style="padding:2px 0px 4px;width:400px;background:#FFFFFF;display:block;color:#000000;font-weight:normal;font-size:10px;text-decoration:underline;text-align:center;" target="_blank">Streaming .TV shows by Ustream</a></dd>
+<dt>イベント開催時間</dt><dd>2008-11-05 19:00 〜 21:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2008-10-29 19:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2008-11-05 19:00:00</dd>
+</dl>
+</div>
+
+<div>
+<h3>Agenda</h3>
+<ul>
+<li>19:00-19:20　ご挨拶＆一言自己紹介</li>
+<li>19:15-20:00　発表1～2つ</li>
+<li>20:00-20:15　休憩＆名刺交換とか</li>
+<li>20:10-20:50　発表1つ</li>
+<li>20:50-21:00　クロージング</li>
+<li>21:??-??:??　懇親会</li>
+</ul>
+
+<h3>その他</h3>
+<ul>
+<li>見るだけじゃなく、是非議論に参加してください</li>
+<li>ustは。。。</li>
+<li>時間に対して発表枠を絞りますので、議論中心で進められたらいいな、と思います。</li>
+</ul>
+
+<h3>発表枠(発表者募集中！)</h3>
+<ul>
+<li>10～15分目安でお願いします</li>
+<li>内容の「軸」をぶらしたくないので、以下の点に絞らせてもらいます。</li>
+<ul>
+<li>フレームワーク毎のコードレベルのtipsはあってもいいですが、「設計のポリシー」を中心に熱く語ってください</li>
+<li>その結果どうだったか(○○○すると×××が楽になった代わりに△△△が大変だったとか)も熱く語ってください</li>
+</ul>
+</li>
+<li>内容の例として、次のようなものを期待しています</li>
+<ul>
+<li>レイヤ構成の概要</li>
+<ul>
+<li>View-Controller-Logic-DAO-DBとか</li>
+<li>それぞれのレイヤで何を担当しているか</li>
+<li>フレームワーク依存にならないように1つレイヤを追加したとか</li>
+</ul>
+</li>
+<li>ActionクラスからDBまでのクラス構成の概要</li>
+<ul>
+<li>その設計になった具体的なポリシー(テストを意識して○○○をしたとか)</li>
+</ul>
+</li>
+<li>DB周り</li>
+<ul>
+<li>Propel/Creoleそのままとか、Doctrine使ったとか、漢は黙ってPDOとか</li>
+<li>テーブル設計時にORMを意識したとか、その辺は手書きSQLで吸収とか</li>
+</ul>
+</li>
+<li>Validator周り</li>
+<ul>
+<li>できる限りValidatorでチェックし、Actionに渡った時にはすべてチェックが済んでいる状態にしたとか</li>
+<li>どこまでValidatorでチェックし、どこからActionでチェックしてsfView::ERROR返すようにしたとか</li>
+</ul>
+</li>
+<li>ユニットテスト</li>
+<ul>
+<li>PHPUnitとか、limeとか、simpletestとか、モック使ったとか、</li>
+<li>自動生成したクラスはテストしてないとか、総合テストしかしてないとか</li>
+<li>できる限りValidatorでチェックさせて、テストはそいつ中心に行ったとか</li>
+</ul>
+</li>
+<li>DBを含むテスト</li>
+<ul>
+<li>テストデータは毎回セットアップするようにしたとか</li>
+<ul>
+<li>大量のテストデータがあるのでCSVで用意して流し込むようにしたとか</li>
+</ul>
+</li>
+<li>SQLの実行結果だけチェックしたとか</li>
+</ul>
+</li>
+<li>Webを含むテスト</li>
+<ul>
+<li>Seleniumとか、PHPUnitとか、limeとか、simpletestとか、派遣さん(人海戦術)とか</li>
+</ul>
+</li>
+<li>それぞれの作業量に対する工夫</li>
+<ul>
+<li>作業は人海戦術したとか、何らかのツール(IDEを含む)を使って楽したとか</li>
+<li>プラグイン作って楽したとか</li>
+<li>自動テスト環境を用意したとか</li>
+</ul>
+</li>
+<li>その結果、どうだったか</li>
+<ul>
+<li>開発とテストは大変だったけど、運用入ったら楽だったとか、その逆とか</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+<h4> 「クイズ研」開発上の設計判断とその結果(twk)</h4>
+
+<p>「クイズ研」<a href="http://quizken.jp/">http://quizken.jp/</a> は、Zend Frameworkを使って2008年に作ったサービスです。</p>
+
+<p>このサービス開発上の設計判断とその反省を、良かったところまずかったところ合わせてお話しようと思っています。</p>
+
+<p>Zend Frameworkで作った初めてのサイトだったので
+まずかったところも結構あるのですが、実際のプロジェクトってなかなか理想論のようには行きませんよね、という感じで。</p>
+
+<h4> レイヤー切り分けてる？(ハタ)</h4>
+
+<ul>
+<li> Service/Logic Layer を作って、データとロジックの分離をやってみたよーとか</li>
+<li> Layer を作ることで、フレームワークからの依存関係の解消ができてハッピーだけど、コネクション参照周りで困っちゃったーな話とか</li>
+<li> Service Layerにロジックが集中しすぎて、困っちゃうのでService は「あくまで操作APIだけ」とかすると単なるプロシージャだらけになっちゃって困ってるーとか</li>
+<li> Dao のコールを DBMS の procedureに任せるのが最適じゃね？とか</li>
+</ul>
+
+<p>そういったレイヤーパターン的なものを「どこまでやっているのかー」を話そうと思います。</p>
+
+<p>対象としては、Dao とかでデータと処理の分離とかを行っている範囲から、業務ロジックの分離をレイヤーで分離しようと考えている人向け</p>
+
+<p>この辺りを参照→[[<a href="http://capsctrl.que.jp/kdmsnr/wiki/PofEAA/?ServiceLayer">http://capsctrl.que.jp/kdmsnr/wiki/PofEAA/?ServiceLayer</a>]]</p>
+
+<h4> 結局Webのアーキテクチャーって？(kunit)</h4>
+
+<p>フレームワークに頼っているとついつい忘れがちだけど、そもそもWebのアーキテクチャーってどうあるべきなの？ということをさらっと話をしつつ、symfonyだとそれをどう扱っているかをなんとなく話したいと思います。(本当ならフレームワークを抜きにした話をしたいところだけど、メタな話をしても実感がわかないと思うので、ひとまずsymfonyを例に話します)</p>
+
+<h4>弊社サービスの場合の設計(id:shimooka)</h4>
+<p>現在、自社サービスのバージョンアップに向けて設計・実装・テストを繰り返している最中なんですが、どんな感じでやっているかを紹介したいと思います。</p>
+
+<p>キーワード：PHP5.2.X、symfony1.0.x、PHPUnit3.3.x</p>
+
+<p>※twkさんに発表して頂けるようなので、時間があればやります</p>
+
+<h3>懇親会(幹事さん絶賛募集中！)</h3>
+<p>懇親会もやりますよー。渋谷駅近辺の良い店知ってたら教えてください。
+あ。幹事さんやってくれる方、絶賛募集中ですｗ</p></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:20</li>
+<li>現在の参加人数:20</li>
+<li>懇親会参加人数:17</li>
+<li>残り:0</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>shimooka</td>
+    <td>発表します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-23 10:45:24</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nowel</td>
+    <td>僕も発表します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-23 19:15:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kunit</td>
+    <td>前回発表するといってドタキャンしたので今度こそ。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-24 11:18:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>shin1x1</td>
+    <td>初参加ですー</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-26 21:57:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>LIND</td>
+    <td>懇親会幹事やります</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-27 11:03:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>twk</td>
+    <td>設計勉強会は初参加です。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-27 11:16:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>wads</td>
+    <td>初参加です</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-27 12:06:00</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>kamisiro_memo</td>
+    <td>参加します！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-27 13:34:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Kiske</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-27 17:46:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>観音寺</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-29 19:01:08</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>shiotty</td>
+    <td>参加します！！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-29 19:01:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Nilfs</td>
+    <td>初参加よろしくです</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-29 19:55:42</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>maru_cc</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-29 20:52:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>komura</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-29 23:00:12</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yukitaka</td>
+    <td>参加します！よろしくです。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-30 01:30:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>taka0024</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-10-30 01:45:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>dev0000</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-30 01:45:56</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Siya</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-30 01:46:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sota</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-10-30 01:46:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ゆどうふ</td>
+    <td>すべりこみｽﾞｻｰc⌒っﾟДﾟ)っ</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-30 03:01:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; yando</h4>
+  <p>
+なんかお題を設定してはどうでしょう。「SNSサービスを設計する！」みたいな。  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; shimooka</h4>
+  <p>
+一応次回からを考えてます＞お題  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; LIND</h4>
+  <p>
+懇親会幹事。(^o^)／  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; nowel</h4>
+  <p>
+なんかこのメンバーだと浮いてしまう気がする…（発表者   </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; taka0024</h4>
+  <p>
+定刻になっても申し込めないのは気のせい？？？  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; taka0024</h4>
+  <p>
+気のせいかもしれませんが、こちらから申し込みたいと思います。  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; dev0000</h4>
+  <p>
+すみません、うまくいかないので、こちらから申し込ませて下さい。party○  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; Siya</h4>
+  <p>
+申し込みボタンがみれないので、こちらから申し込みできる様でしたらさせてください。 party○  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; sota</h4>
+  <p>
+初参加の者ですが、参加申し込みさせてください  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; LIND</h4>
+  <p>
+申し込みできるように変更いたしました。5～8の方は参加申し込み済という形にいたします。  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; Siya</h4>
+  <p>
+LINDさん、ありがとうございました！  </p>
+</div>
+<div class="section">
+<h4>
+11 &nbsp; yando</h4>
+  <p>
+コメント欄のユーザを参加者に加える機能を作ってみたよ。  </p>
+</div>
+<div class="section">
+<h4>
+12 &nbsp; kunit</h4>
+  <p>
+ディノ自慢のサーバを稼動させる懇親会をすれば発表は時間外もできますよ。どうします？ ＞ しもおかさん  </p>
+</div>
+<div class="section">
+<h4>
+13 &nbsp; shimooka</h4>
+  <p>
+yando++  </p>
+</div>
+<div class="section">
+<h4>
+14 &nbsp; shimooka</h4>
+  <p>
+kunitさん、それ良いですねー。どうでしょう？＞LINDさん  </p>
+</div>
+<div class="section">
+<h4>
+15 &nbsp; shimooka</h4>
+  <p>
+taka0024さん・dev0000さん・Siyaさん・sotaさんを参加者一覧に追加しました。halt++  </p>
+</div>
+<div class="section">
+<h4>
+16 &nbsp; dev0000</h4>
+  <p>
+対応ありがとうございます&gt;LINDさん、shimookaさん  </p>
+</div>
+<div class="section">
+<h4>
+17 &nbsp; LIND</h4>
+  <p>
+ディノご自慢のサーバをみんなで囲みながら懇親会も楽しそうなので、お願いします。&gt;kunitさん  </p>
+</div>
+<div class="section">
+<h4>
+18 &nbsp; kunit</h4>
+  <p>
+了解です。ビールサーバ発動準備しておきます。  </p>
+</div>
+<div class="section">
+<h4>
+19 &nbsp; taka0024</h4>
+  <p>
+懇親会の参加有無が変更できなさそうなので、ココで参加を申請しておきます。  </p>
+</div>
+<div class="section">
+<h4>
+20 &nbsp; NEKOGET</h4>
+  <p>
+本日Ust配信をさせていただきます。次のＵＲＬの予定です　http://www.ustream.tv/channel/design-study02  </p>
+</div>
+<div class="section">
+<h4>
+21 &nbsp; shimooka</h4>
+  <p>
+NEKOGET++!!  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form168749593" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/58"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form168749593', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/58', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form168749593'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/58', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_58)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/58"
+  trackback:ping="/trackbacks/receive/58"
+  dc:title=""
+  dc:identifier="/events/show/58" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20081017/1224222107">Do You PHP はてな</a> - 2008-10-17 14:41:53</dt>
+<dd><p> 遅くなりましたが、第2回設計勉強会を開催します。会場を提供して頂いた株式会社ディノさん、id:kunitさん、ありがとうございます。 第2回設計勉強会を開催します。 参加費用無料(懇親会参加希望者は実費) 日時: 2008年11月5日(水) 19:00〜21:00 会場: 株式会社ディノ 9Fセ</p></dd>
+<dt>
+<a href="http://nonn-et-twk.net/twk/node/249">twk @ ふらっと</a> - 2008-10-27 11:23:37</dt>
+<dd><p>THE NEW CONTEXT CONFERENCE 2008行ってきます。<br />
+<br />
+そうそうたる面子の様ですが、これってアイデア出しのためのカンファレンスだろうから<br />
+今手を動かすモードの私にはあんまり意味ないかな、と思</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20081106/1225903136">Do You PHP はてな</a> - 2008-11-06 01:38:58</dt>
+<dd><p> 無事、第2回設計勉強会が終了しました。会場を提供して頂いた株式会社ディノさん、id:kunitさん、ありがとうございました。また、勉強会に参加された方、お疲れ様でした。個人的には結構盛り上がったと思ってます。ホントにありがとうございました:-) id:NEKOGETさんのご協</p></dd>
+<dt>
+<a href="http://nonn-et-twk.net/twk/node/256">twk @ ふらっと</a> - 2008-11-06 11:08:06</dt>
+<dd><p>事前の通り第2回設計勉強会にて発表してきました。資料はFirefoxで閲覧できます。<br />
+<br />
+資料ダウンロード<br />
+<br />
+<br />
+さて、今回の反省てことですが、長くてほんとすみませんでした。<br />
+名刺交換楽しみに</p></dd>
+<dt>
+<a href="http://www.1x1.jp/blog/2008/11/event_php_study_design_2_report.html">Shin x blog</a> - 2008-11-06 13:07:01</dt>
+<dd><p>第２回設計勉強会に参加してきました。<br />
+設計やテスト、ドキュメンテーション（これの話は無かったですが）は最近の悩みどころだったので、かなり勉強になりました。<br />
+例によって詳細...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/Kiske/20081106/1225947217">Absolute Playing!</a> - 2008-11-06 13:54:12</dt>
+<dd><p> 第2回設計勉強会に参加してきました。 あんまりWebアプリケーションを構築するアーキテクチャ側の話がメインの勉強会に参加したことが無かったので新鮮に話が聞けました。普段、意識せずにフレームワークのルールに慣れすぎているとアーキテクチャ的には変だけどまぁいいか</p></dd>
+<dt>
+<a href="http://blog.xole.net/article.php?id=715">ハタさんのブログ</a> - 2008-11-06 23:34:32</dt>
+<dd><p><br />
+第2回設計勉強会に参加してきました。<br />
+まず、こういった機会を提供してくれた id:shimookaさん、ありがとうございます。株式会社ディノさんも会場の提供ありがとうございます。LINDさんも毎度...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/cos31/20081106/php_dev_design2">Affirmative Way</a> - 2008-11-07 02:46:24</dt>
+<dd><p> events.php.gr.jp - 第2回設計勉強会 先週に引き続き会場が自社だったのでひっそりと後ろから参加させてもらいました 主催のid:shimoookaさん、手際のいい幹事をなさってくれたid:lindさんありがとうございましたー。 詳細はshimookaさんの日記に詳しく書かれています。ので</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/maru_cc/20081107/program_design_study2">maru.cc@はてな</a> - 2008-11-07 10:23:10</dt>
+<dd><p> 「events.php.gr.jp - 第2回設計勉強会」 会社から走ってなんとか始まる前に着けました。 「クイズ研」開発上の設計判断とその結果 twkさん クイズ研というサービスを作ったときのはなし ZFをつかって作ったそうです。 その後に請負で作ったものもある　新規だけでなく レイ</p></dd>
+<dt>
+<a href="http://pneskin2.nekoget.com/press/?p=154">ねこげっとぷれす</a> - 2008-11-09 23:34:56</dt>
+<dd><p>第2回設計勉強会に参加してきました。<br />
+動画をニコニコ動画にUPしました。<br />
+ 「クイズ研」開発上の設計判断とその結果(twk)<br />
+【ニコニコ動画】第2回設計勉強会　(1)　「クイズ研」開発上の...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yuki_taka/20081110/1226320931">日々のこと</a> - 2008-11-10 21:43:23</dt>
+<dd><p> この前後ぐらいに色々ありすぎてぶっこわれ気味だったので超遅レポートです。 第2回設計勉強会 内容です。 「クイズ研」開発上の設計判断とその結果 by twkさん レイヤー切り分けてる？ by ハタさん 結局Webのアーキテクチャーって by kunitさん 弊社サービスの場合の設計 b</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20081111/1226365516">Do You PHP はてな</a> - 2008-11-11 10:06:22</dt>
+<dd><p> 第2回設計勉強会の動画がUPされました。id:NEKOGETさん、ありがとうございます！ ねこげっとぷれす &amp;#187; 11/5 第2回設計勉強会に参加してきました。 公開されているプレゼン資料は以下をどうぞ。 第2回設計勉強会で反省とかを発表した反省とか資料 | twk @ ふらっと ハタ</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/58" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

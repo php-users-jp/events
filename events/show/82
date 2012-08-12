@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第45回PHP勉強会@関東 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/82">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第45回PHP勉強会@関東</h2>
+<dl>
+<dt>イベント内容</dt><dd>第45回PHP勉強会@関東を開催します。<br />
+今回は、普段と趣向を変えて、懇親会ライクな勉強会を予定しています。<br />
+料理とお酒を囲んで、全員で和気あいあいとライトニングトークを楽しんでみたいと思います。<br />
+募集人数は、開催者を含め23名となります。<br />
+（後日、若干数の追加募集が発生する可能性があります）<br />
+<br />
+<b>7/25追記：「普段の勉強会みたいに発表するなんて、自分には出来ないよ～」という方へ</b><br />
+ライトニングトークといっても、自己紹介を交えた軽いノリで構いません。<br />
+お酒を交えつつ、みんなで発表を体験してしまおうよ、というのが今回の目的です。<br />
+<br />
+<del>現時点では、詳細は未定ですが、決まり次第情報を更新していきます。<br />
+日時と会場が決まった段階で、募集に関する情報も更新しますので、もう暫くお待ち下さい。</del><br />
+日時・会場・予算が決まりましたので、お知らせいたします。<br />
+今回は、お好み焼き屋さんを貸し切って、一人5分前後の全員LT大会＆懇親会となります。<br />
+鉄板付きのテーブルですので、PCへの熱や油はねが気になる方は、資料を事前に用意してインターネット上へ公開、または当日USBメモリなどで持参して頂けると助かります。<br />
+<br />
+会場の詳細などは、近日中に改めて追記します。<br />
+<br />
+■概要<br />
+日時: 2009年08月1日(土)  15:30～20:00<br />
+会場: <a href="http://r.tabelog.com/tokyo/A1307/A130701/13022296/">はてな</a><br />
+費用: 5,000円<br />
+<br />
+<!-- <embed width="563" height="266" type="application/x-shockwave-flash" flashvars="channelId=303222&brandId=1&channel=#phpstudy&server=chat1.ustream.tv" pluginspage="http://www.adobe.com/go/getflashplayer" src="http://www.ustream.tv/IrcClient.swf" allowfullscreen="true" /><br />
+<br />
+http://www.ustream.tv/channel/phpstudy<br />
+<br />
+Ustream による中継を予定しています。 http://www.ustream.tv/channel/phpstudy --></dd>
+<dt>イベント開催時間</dt><dd>2009-08-01 15:30 〜 20:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2009-07-18 00:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2009-08-01 14:00:00</dd>
+</dl>
+</div>
+
+<div>
+</div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:23</li>
+<li>現在の参加人数:18</li>
+<li>懇親会参加人数:18</li>
+<li>残り:5</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>gusagi</td>
+    <td>今回も、司会進行をやらせて頂きます。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-16 01:42:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>yokkuns</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-18 11:45:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>MugeSo</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-18 18:53:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>k-kishida</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-18 19:46:28</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sanemat</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-20 12:07:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>らいあ</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-25 18:29:12</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hakase@lss.club.ne.jp</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-26 18:14:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>yuiti</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-27 10:57:42</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>taka0024</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-27 12:20:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>koyhoge</td>
+    <td>はてなという店名に惹かれました。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-28 14:09:34</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>komura</td>
+    <td>資料が書けそうなので参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-29 07:46:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>hnw</td>
+    <td>資料はこれから書きます！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-30 08:54:23</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>nekoya</td>
+    <td>席余ってるじゃないか。行きます</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-30 16:21:00</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>kunitsuji</td>
+    <td>かなり久しぶりに参加ー</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-31 12:02:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>brtRiver</td>
+    <td>いきます！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-07-31 13:23:04</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Hamaco</td>
+    <td>参加~</td>
+    <td style="text-align:center">○</td>
+    <td>2009-08-01 00:06:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>ゆどうふ</td>
+    <td>いけることがわかったよ！資料間にあうかな!</td>
+    <td style="text-align:center">○</td>
+    <td>2009-08-01 02:19:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>eno</td>
+    <td>初めて参加します。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-08-01 10:36:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tohokuaiki</td>
+    <td>久しぶりに参加します。3年ぶりくらいです。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-08-01 12:15:57</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; gusagi</h4>
+  <p>
+Macユーザの方で、どなたか当日にPCをお借り出来ると助かります  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; gusagi</h4>
+  <p>
+また、プロジェクターを持ってこれそうな方がいましたら、どなたかお願い出来ますでしょうか？  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; k-kishida</h4>
+  <p>
+Mac持って行きます。  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; ゆどうふ</h4>
+  <p>
+当日前夜、いける！と思ったら別の用事があることに気付きました。人騒がせでごめんなさいorz  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; gusagi</h4>
+  <p>
+プロジェクター、Macともに手配出来ました！ ありがとうございます！  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; らいあ</h4>
+  <p>
+大変申し訳ありませんでした・・・スケジュール管理ができておりませんでした・・・  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form729242983" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/82"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form729242983', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/82', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form729242983'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/82', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_82)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/82"
+  trackback:ping="/trackbacks/receive/82"
+  dc:title=""
+  dc:identifier="/events/show/82" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20090716/1247721928">Do You PHP はてな</a> - 2009-07-16 14:25:43</dt>
+<dd><p> ”はてな”といっても、六本木にあるお好み焼き屋さんですが。「油散りそうだなぁ」と思ってたら、ちゃんと書いてましたね;-) 今回は、お好み焼き屋さんを貸し切って、一人5分前後の全員LT大会＆懇親会となります。 鉄板付きのテーブルですので、PCへの熱や油はねが気になる方</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/hnw/20090801">hnwの日記</a> - 2009-08-01 22:29:09</dt>
+<dd><p> 第45回PHP勉強会@関東に参加して、5分ほどLTをしました。勉強会の会場は、はてな＠六本木さんでした。店名がイカス。そして幹事のgusagiさん毎度ありがとうございます。 発表資料 : 「バグレポしようぜ！」(PDF) 以前の記事「PHPへのバグ報告の手順」の焼き直しのようなもの</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yokkuns/20090801/1249135844">yokkunsの日記</a> - 2009-08-01 23:11:23</dt>
+<dd><p> 先日家計簿ったー（α）というものを作ったんですが、これが知らぬうちに、goo検索のカテゴリに入ってました。 家計簿ったー - goo カテゴリー検索 ネットってすごい（笑） さて、それは良いとして、第45回PHP勉強会@関東のLTでこの家計簿ったーについて発表してきました。 </p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yokkuns/20090801/1249135844">yokkunsの日記</a> - 2009-08-01 23:11:36</dt>
+<dd><p> 先日家計簿ったー（α）というものを作ったんですが、これが知らぬうちに、goo検索のカテゴリに入ってました。 家計簿ったー - goo カテゴリー検索 ネットってすごい（笑） さて、それは良いとして、第45回PHP勉強会@関東のLTでこの家計簿ったーについて発表してきました。 </p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/brtRiver/20090802/1249181242">ぷぎがぽぎ</a> - 2009-08-02 11:48:12</dt>
+<dd><p> 久しぶりにPHP勉強会に参加してきました。events.php.gr.jp - 第45回PHP勉強会@関東 場所ははてなというおいしい鉄板焼きのお店でした。 また、gusagiさんのテンポよい司会進行でとても楽しい時間を過ごせました。ありがとうございました。 私自身は参加表明自体が遅く時間</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/t_komura/20090802/1249187935">t_komuraの日記</a> - 2009-08-02 13:39:18</dt>
+<dd><p> 8/1に開催された第45回PHP勉強会＠関東に参加してきました。 会場を提供してくださったはてな様(六本木のお好み焼き屋さん)、幹事の gusagi さん、どうもありがとうございました。 今回も楽しく過ごすことができました。 私が発表した資料を以下の場所にアップロードしまし</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/gusagi/20090802/1249205624">gusagiの日記</a> - 2009-08-02 18:40:34</dt>
+<dd><p> タイトルの通り、第45回PHP勉強会@関東に参加してきました。 今回は、六本木のお好み焼き屋「はてな」さんを数時間貸し切って、全員でライトニングトーク大会をやってみました。 はてなさん、美味しい料理と会場、ありがとうございました！ 普段の勉強会では発表し難い人も</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/MugeSo/20090803/1249313185">MugeSoの日記</a> - 2009-08-04 00:27:55</dt>
+<dd><p> ということで、表題どおり第45回PHP勉強会に参加してきました。 今回は六本木にあるお好み焼き屋「はてな」さんを3時間半貸し切って飲み食いしながらの大LT大会でした。長時間の貸切を安価で提供していただきありがとうございました。 僕の発表は自己紹介程度のLTだと書いて</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/studio-m/20090805/1249439943">Lism.in * blog - nekoya (id:studio-m)</a> - 2009-08-05 11:39:12</dt>
+<dd><p> events.php.gr.jp - 第45回PHP勉強会@関東 8/1の土曜日に六本木のお好み焼き屋さん「はてな」で開催されたPHP勉強会に参加してきました。 最近はあんまりPHPを使ってないこともあって、自分が行って一人分の枠を喰うのもよろしくないだろうと、積極的に参加していなかったの</p></dd>
+<dt>
+<a href="http://www.bshe.org/modules/xpress2/archives/200">Bshe作者のブログ</a> - 2009-08-05 22:09:35</dt>
+<dd><p>PHP勉強会は初参加でしたが、ビール片手に全員LTというかなり楽しい勉強会でした。<br />
+<br />
+http://events.php.gr.jp/events/show/82<br />
+<br />
+&amp;nbsp;次回も参加したいです。<br />
+<br />
+&amp;nbsp;<br />
+<br />
+お店か仕切りで長時間おかしいただ...</p></dd>
+<dt>
+<a href="http://sane.justblog.jp/blog/2009/08/phpltphp-the-go.html">實松アウトプット</a> - 2009-08-06 09:09:01</dt>
+<dd><p>PHP懇親会でLT「PHP: The Good Parts」してきた</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/82" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

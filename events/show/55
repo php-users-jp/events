@@ -1,0 +1,1945 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>CakePHPカンファレンス東京 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/55">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::CakePHPカンファレンス東京</h2>
+<dl>
+<dt>イベント内容</dt><dd>近年、注目の高まっているWEBアプリケーション開発フレームワーク『CakePHP』を題材とした国内初のカンファレンスを2008/10/25に東京にて開催致します。CakePHP開発マネージャ Garrett J. Woodworth氏をアメリカよりお招きし、最新の動向についてご講演頂きます。CakePHPによるWEBアプリケーション開発の最先端の動向を知るまたとない機会としてみなさんのご参加をお待ちしております。<br />
+<br />
+詳細については公式サイトにて随時お知らせ致します。<br />
+<a href="http://conference.cakephp.jp/">http://conference.cakephp.jp/</a><br />
+<br />
+【10/7 追記】<br />
+ライトニングトーク出場者の募集を開始しました。CakePHPについて語りたい方のご応募をお待ちしております。<br />
+<a href="http://conference.cakephp.jp/lt/">http://conference.cakephp.jp/lt/</a><br />
+<br />
+<br />
+CakePHPカンファレンス準備委員会 一同<br />
+<br />
+<dt>会場</dt><dd>デジタルハリウッド 東京本校 1Fセミナールーム</dd><dt>参加費用</dt><dd>カンファレンスのみの参加は無料です。(懇親会については下記)</dd><dt>懇親会</dt><dd>懇親会は会場近辺の飲食店を借りて行います。懇親会参加費用は1名につき5000円の予定です。<br/>懇親会への参加を希望する方は参加時に「懇親会に参加する」にチェックを入れてください。</dd><dt>募集について</dt><dd style="color:red">10/7 13:00～ 70名、10/8 19:00～ 追加70名の予定で募集を行います。</dd><br />
+<br />
+<br />
+</dd>
+<dt>イベント開催時間</dt><dd>2008-10-25 10:30 〜 15:30</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2008-10-08 19:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2008-10-25 13:00:00</dd>
+</dl>
+</div>
+
+<div>
+</div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:140</li>
+<li>現在の参加人数:137</li>
+<li>懇親会参加人数:61</li>
+<li>残り:3</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>よしたけ</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>bin</td>
+    <td>参加します！</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>wtr</td>
+    <td>イベントに参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>musi</td>
+    <td>参加します！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:00:22</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>macchaka</td>
+    <td>さんかしますーーー</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:28</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>hykw</td>
+    <td>参加しまーす。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>あつ</td>
+    <td>参加しますー</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:00:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>もみじ</td>
+    <td>参加する！</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>maki</td>
+    <td>さんかします</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:00:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>k-tanaka</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:00:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>akihiro</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:00:39</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nono_5</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>muro_ran</td>
+    <td>参加希望です。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:00:42</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sachy_n</td>
+    <td>参加希望です。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:42</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ogaworks</td>
+    <td>参加希望です。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ttsuruoka</td>
+    <td>参加します。よろしくお願いいたします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:00:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kou</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:48</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>m-takagi</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:00:49</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>nobuokick</td>
+    <td>参加希望です。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>Toc</td>
+    <td>参加します！</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>keison</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:00:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>cockok</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:55</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>takashi</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:55</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>satotech</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:00:56</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>mogura</td>
+    <td>!</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:00:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>ton004</td>
+    <td>参加です。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:01:05</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kazuta</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:01:05</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>greatcody</td>
+    <td>黄科と申します。ご参加させていただきます。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:01:08</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kony</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:01:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>jiska</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:01:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>pkatin</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:01:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>yogo</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:01:22</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>okugaku</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:01:25</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>katsuhiro</td>
+    <td>参加します！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:01:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>masanori.usui</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:01:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>CLA</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:01:55</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hiro</td>
+    <td>参加します。宜しくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:01:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>mick0124</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:01:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>rtanaka1ro</td>
+    <td>参加お願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:02:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>mick0124</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:02:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>opaken</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:02:04</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>fukatomo</td>
+    <td>参加します！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:02:05</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ake</td>
+    <td>よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:02:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sayjiro</td>
+    <td>参加します！よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:02:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>LIND</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:02:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>kaz_29</td>
+    <td>参加します〜！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:02:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>change</td>
+    <td>参加します！</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:02:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>halt</td>
+    <td>はっぴょうします!</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:03:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>toriaezunama</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:03:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>まさ+</td>
+    <td>参加します！</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:03:09</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>fukatomo</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:03:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>fjkktkys</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:03:22</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>dai</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:03:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>kuma</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:03:39</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td></td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:03:51</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>h_kishi</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:04:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>蝉</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:04:23</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>baki</td>
+    <td>参加しますー</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:04:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ikdk</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:04:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>knmd</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:04:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tokushima</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:05:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>stiq</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:05:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>takeru-c</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:07:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ようへい</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:07:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tosh10</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:08:12</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>blueload</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:08:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kobarn</td>
+    <td>参加希望です</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:09:25</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>NEKOGET</td>
+    <td>よろしくお願いしますー</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:10:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yoshi</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:10:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>taka0024</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-07 13:10:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>UK</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:10:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>cos31</td>
+    <td>参加しまーす</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-07 13:31:15</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>someya</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:04</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>masu</td>
+    <td>よろしくお願いしますー!!</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>け→ご</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:07</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>taka</td>
+    <td>参加希望です。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:07</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sandman</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:08</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>tomo</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:08</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>katsumic</td>
+    <td>参加します！</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:09</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>jatena</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>tanu</td>
+    <td>宜しくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Mikage</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:12</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Siya</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>slywalker</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>MED</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:15</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>S1100</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:15</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>imai</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ヨシ</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>MASA-P</td>
+    <td>さんかします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:22</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>won</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:22</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ヨシスタ</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:23</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>gunny</td>
+    <td>楽しみです</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:25</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ふかしいも</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:28</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>Mikage</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kamisiro_memo</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>lllnorikolll</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>minotan</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>cubeworks</td>
+    <td>お願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:34</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>craran</td>
+    <td>参加します！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>yager</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:39</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hoatata</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:39</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>naoto is</td>
+    <td>たのしみです</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>jasonm</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>いこい</td>
+    <td>宜しくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ichiichinini</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>wildwell</td>
+    <td>参加します！お願いします！</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:00:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Yosuke</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:56</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>abqar</td>
+    <td>お願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:00:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>connvoi_tyou</td>
+    <td>参加します！宜しくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:01:07</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ntake</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:01:26</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>龍司</td>
+    <td>よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:01:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>RyuheiAoki</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:01:52</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>偽一茶</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:02:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>munaryo</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:04:27</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>d4-1977</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:05:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>uryu</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:07:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hnw</td>
+    <td>よろしくおねがいします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:09:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>たくしゅん</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:09:57</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Chrno</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:11:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ねもと</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:11:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>dyzo</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:12:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>dhideaki</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:12:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Yoshinari Takaoka</td>
+    <td>参加します。宜しくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:12:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>koyhoge</td>
+    <td>おいしいケーキがいいです</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:14:25</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sp1rytus</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:15:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>siukaido</td>
+    <td>おねがいします</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:15:23</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>jj</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:16:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Tare</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:16:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>uncorrelated</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:18:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>yino</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:22:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>snoda</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:25:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>risintou</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:26:27</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tenkoma</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:27:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>minahito</td>
+    <td>よろしくおねがいしまーす m(__)m</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 19:28:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kajidai</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:31:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>brand51</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:31:12</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tsukamoto</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:35:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>hollyhock</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 19:54:04</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>watanabefg</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-08 20:07:07</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ELF</td>
+    <td>らすと4げっつ!!</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 20:29:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>monmon</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 20:36:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>gusagi</td>
+    <td>参加します！　懇親会は未定で。。。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 20:53:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>knoa.jp</td>
+    <td>参加！</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-08 21:22:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>k2ikeda</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-22 09:53:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ikasamah</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-22 12:04:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Takuo</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-23 03:23:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>萩原崇之</td>
+    <td>参加します。よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-23 11:32:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>maka00</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-23 18:25:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>mochi2</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-24 10:56:39</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>kazuchika</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-24 14:58:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>みず</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-24 15:39:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>mukaken</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-24 17:51:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yuki</td>
+    <td>参加します。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-24 19:48:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>otokogi</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-24 20:18:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>dedara</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-25 01:26:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>land</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-25 01:36:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Yukimi</td>
+    <td>直前にすみません。参加します。懇親会は顔を出す程度で</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-25 08:59:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>masa</td>
+    <td>直前ですが参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-25 09:45:00</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ゆどうふ</td>
+    <td>いまだ！</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-25 10:13:21</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; mick0124</h4>
+  <p>
+すみません。mick0124で二つ登録されてしまったの一つ目をキャンセルでお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; taka0024</h4>
+  <p>
+１０分程度で、枠がもう１つしか空いてないって･･･。汗  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; taka0024</h4>
+  <p>
+やべーもう埋まってる･･･。ｗ 10月7日13時12分  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; katsumic</h4>
+  <p>
+しまった、もう埋まってる。予想以上の人気ですね。。。  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; won</h4>
+  <p>
+早すぎです…  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; halt</h4>
+  <p>
+&gt;&gt;1 対応しました．  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; mick0124</h4>
+  <p>
+ありがとうございます！  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; wildwell</h4>
+  <p>
+しまった！仕事に集中して忘れてた（＞＜） 次回募集時に登録します。  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; yando</h4>
+  <p>
+ここからは未知の領域に・・・。  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; m-takagi</h4>
+  <p>
+今晩の募集はどれくらいで埋まるのだろう……  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; sandman</h4>
+  <p>
+ボタンを押すのに夢中でコメントを忘れてました。よろしくお願いいたします。  </p>
+</div>
+<div class="section">
+<h4>
+11 &nbsp; yager</h4>
+  <p>
+２次募集1分以内に登録したのが36人（！）  </p>
+</div>
+<div class="section">
+<h4>
+12 &nbsp; knoa.jp</h4>
+  <p>
+Ustream(ないし事後ニコニコ他)で配信はされるのでしょうか？  </p>
+</div>
+<div class="section">
+<h4>
+13 &nbsp; ゆどうふ</h4>
+  <p>
+色々忙しくてすっかり忘れてたｗにゃう＞＜  </p>
+</div>
+<div class="section">
+<h4>
+14 &nbsp; snb04</h4>
+  <p>
+残念。追加募集ないかな。。。  </p>
+</div>
+<div class="section">
+<h4>
+15 &nbsp; Takuo</h4>
+  <p>
+空きがあれば、参加しようと思ったのですが。残念です。  </p>
+</div>
+<div class="section">
+<h4>
+16 &nbsp; knoa.jp</h4>
+  <p>
+Ustream参加に切り替えます。  </p>
+</div>
+<div class="section">
+<h4>
+17 &nbsp; kaz_29</h4>
+  <p>
+とても残念ですが、子供たちが風邪をひいてしまい微妙な感じなので、ustで参加に変更します。申し訳ないです。  </p>
+</div>
+<div class="section">
+<h4>
+18 &nbsp; NEKOGET</h4>
+  <p>
+急用の為、申し訳ありませんがキャンセル致します。  </p>
+</div>
+<div class="section">
+<h4>
+19 &nbsp; muro_ran</h4>
+  <p>
+申し訳ありません。仕事が忙しく時間が空けられなくなりました。キャンセル致します。  </p>
+</div>
+<div class="section">
+<h4>
+20 &nbsp; tomo</h4>
+  <p>
+都合により出席できなくなってしまったため、キャンセル致します。申し訳ありません。  </p>
+</div>
+<div class="section">
+<h4>
+21 &nbsp; imai</h4>
+  <p>
+急用の為、キャンセル致します。申し訳御座いません。  </p>
+</div>
+<div class="section">
+<h4>
+22 &nbsp; stiq</h4>
+  <p>
+都合によりキャンセルします。申し訳ありません。  </p>
+</div>
+<div class="section">
+<h4>
+23 &nbsp; naoto is</h4>
+  <p>
+残念ながら体調が思わしくなくキャンセルとさせてください。当日券あと4名様どうぞ楽しんでください。  </p>
+</div>
+<div class="section">
+<h4>
+24 &nbsp; yogo</h4>
+  <p>
+都合によりUstream参加に変更します。申し訳ありません。  </p>
+</div>
+<div class="section">
+<h4>
+25 &nbsp; Yukimi</h4>
+  <p>
+TypeKey でログインしようとすると Invalid OpenID と言われてしまったのでユーザが二重登録になっているかも知れません。すみません。  </p>
+</div>
+<div class="section">
+<h4>
+26 &nbsp; halt</h4>
+  <p>
+tbいただいてないけどブログかいてくれてる http://as.blog16.jp/index.php/2008/10/26/p589  </p>
+</div>
+<div class="section">
+<h4>
+27 &nbsp; redgasuki</h4>
+  <p>
+公式タグ「cakecon」で、はてブすると、ここで捕捉されるので、関連エントリを見かけたらご協力お願いします　→http://b.hatena.ne.jp/t/cakecon?sort=eid  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form1952264753" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/55"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form1952264753', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/55', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form1952264753'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/55', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_55)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/55"
+  trackback:ping="/trackbacks/receive/55"
+  dc:title=""
+  dc:identifier="/events/show/55" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20081004/1223131620">Do You PHP はてな</a> - 2008-10-04 23:47:02</dt>
+<dd><p> eventsに出ました。10/7と10/8の2回に分けて募集するようです。 募集について 10/7 13:00〜 70名、10/8 19:00〜 追加70名の予定で募集を行います。 events.php.gr.jp - CakePHPカンファレンス東京 しかし、何という盛大な負荷テスt(ry </p></dd>
+<dt>
+<a href="http://www.syuhari.jp/blog/archives/745">Sun Limited Mt.</a> - 2008-10-05 20:37:51</dt>
+<dd><p>CakePHP カンファレンス東京の申し込み日程が決まったようです。<br />
+events.php.gr.jp - CakePHPカンファレンス東京<br />
+10/7 13:00～ 70名、10/8 19:00～ 追加70名の予定で募集を行います。<br />
+２回に分けての募集...</p></dd>
+<dt>
+<a href="http://www.akiyan.com/blog/archives/2008/10/cakephp1025107.html">akiyan.com</a> - 2008-10-06 17:20:32</dt>
+<dd><p> 突然ですがCakePHPカンファレンス東京の公式サイトオープンのお知らせと、申し込み開始日時のお知らせです！ 参加申し込み受付開始時刻は、明日の昼「10/7 13:00 から」と明後日の晩「10/8 19:00 から」です！それぞれ70名、計140名を先着で受け付けますので、絶対参加したい方はPCの前に張り付いてスタンバイをお願いいたします！ 参加申し込みは http://events.php.gr.jp/events/show/55 から、mixi, はてな, TypeKeyのいずれかのアカウントでログインして行いますので、よろしくお願いします！ (公式サイト内からも参加申し込みページへのリンクがあります) CakePHPカンファレンス東京 (conference.cakephp.jp) Event Entry::CakePHPカンファレンス東京 (events.php.gr.jp) ...</p></dd>
+<dt>
+<a href="http://mick.blog16.jp/index.php/main/2008/10/06/cakephp_10_25">メインブログ</a> - 2008-10-06 20:04:16</dt>
+<dd><p> <br />
+10月25日に開催されるCakePHPカンファレンス。<br />
+明日10/7、明後日10/8に70名づつ計140名募集される・・・。<br />
+<br />
+はりきって申込をするぞ！！</p></dd>
+<dt>
+<a href="http://www.sj6.org/cakephp_conference_tokyo/">適当な日々</a> - 2008-10-06 20:14:00</dt>
+<dd><p>				10/25にcakephpカンファレンス東京が開催されるようです。<br />
+				なんとスピーカーにcakephpの生みの親であるGarrett J. Woodworth氏を招いてのビッグイベントということで、興味深いです。<br />
+				http...</p></dd>
+<dt>
+<a href="http://pgjapan.net/2008/10/cakephp-conference-tokyo-at-1025.html">日々是作譜</a> - 2008-10-07 04:54:50</dt>
+<dd><p>10/25にCakePHPカンファレンス東京が開催されます。</p></dd>
+<dt>
+<a href="http://www.actune.jp/cakephp/2008/10/cakephp.html">CakePHPと闘うブログ</a> - 2008-10-07 13:46:33</dt>
+<dd><p>ブログ立ち上げた最初のエントリーがイベント紹介というのも、実効性に疑問ですけれど...</p></dd>
+<dt>
+<a href="http://blog.ne2ma2.com/archives/324">ねねとまつの小部屋</a> - 2008-10-07 14:18:23</dt>
+<dd><p><br />
+CakePHPカンファレンス東京参加申し込み<br />
+ついに、参加申し込みを開始したCakePHPカンファレンス東京ですが、<br />
+第1次申し込みは、10分程度で、70席が埋まる相変わらずの人気ぶりでした。<br />
+第2...</p></dd>
+<dt>
+<a href="http://www.nstyle-jp.com/blog/archives/21">n-style;</a> - 2008-10-08 14:10:06</dt>
+<dd><p>CakePHPのカンファレンスが開催されるようです。<br />
+待ちに待った感がありまして、７日はPCに張り付いて申込しました。<br />
+http://events.php.gr.jp/events/show/55<br />
+楽しみです。久々の東京・・・<br />
+...</p></dd>
+<dt>
+<a href="http://kashioka.net/2008/10/cakephp-4.html">Love Tokyo</a> - 2008-10-08 18:08:58</dt>
+<dd><p>2008年10月25日(土) 10:30 ～ 15:30CakePHPカンファレ...</p></dd>
+<dt>
+<a href="http://chord-fusion.com/life_is_music/2008/10/cakephp.html">Life is Music♪ ～CHORD Fusion：高橋 純平～</a> - 2008-10-08 19:11:14</dt>
+<dd><p> 10/25日に開催されるCakePHPカンファレンスへの参加申し込みに成功しま...</p></dd>
+<dt>
+<a href="http://ecw.seesaa.net/article/107790232.html">ECWorks Blog(仮)</a> - 2008-10-08 19:19:26</dt>
+<dd><p>▼Event Entry::CakePHPカンファレンス東京 http://events.php.gr.jp/events/show/55  参加いたします！  危なかった…昨日はすっかり忘れていました。 でも120人くらいで頭打ちのようなので、まだ申込間に合いますよ(といっても、１時間はもたないと思いますが)。  ちなみに..</p></dd>
+<dt>
+<a href="http://blog.lllnorikolll.com/archives/133">lllnorikolll@WordPressME</a> - 2008-10-09 13:06:48</dt>
+<dd><p>CakePHPカンファレンス東京（http://conference.cakephp.jp/）<br />
+最近もっぱらZendFrameworkを勉強中の私ですが、CakePHPカンファレンス東京に参加申込しました！<br />
+CakePHP開発マネージャ Garrett J. Woodworth氏の...</p></dd>
+<dt>
+<a href="http://www.gloriouslife.sakura.ne.jp/blog/?p=436">Glorious Life</a> - 2008-10-16 12:56:16</dt>
+<dd><p>10月25日の土曜日<br />
+CakePHPカンファレンス東京が開催される。<br />
+URL：http://events.php.gr.jp/events/show/55<br />
+CakePHPのイベントは毎回大盛況で参加募集開始数分でいっぱいになる程・・・！<br />
+ずっと参加した...</p></dd>
+<dt>
+<a href="http://creazy.net/2008/10/entry_cakephp_conference.html">creazy photograph</a> - 2008-10-24 23:07:24</dt>
+<dd><p> 明日は、PHPのフレームワークで注目を集めているCakePHPのカンファレンス...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/cos31/20081025/cake_con">Affirmative Way</a> - 2008-10-25 20:34:56</dt>
+<dd><p> events.php.gr.jp - CakePHPカンファレンス東京 CakePHPカンファレンス東京 CakePHPにXoops Cube,TDD,BDD,GETAなどCakePHPに絡めた色々な濃い話を聞けて面白かったです。 運営者の皆様ありがとうございました。 CakePHPの開発者でありプロダクトマネージャのGarrettのセッシ</p></dd>
+<dt>
+<a href="http://www.sj6.org/cakephp_conference_tokyo2/">適当な日々</a> - 2008-10-25 21:56:40</dt>
+<dd><p>				いやーかなり良かった！<br />
+				特に開発者であるGarrettの話が！<br />
+				http://conference.cakephp.jp/<br />
+				http://events.php.gr.jp/events/show/55<br />
+				聞いてて気になったところをまとめてみる。<br />
+				関数の作り方<br />
+	...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/brtRiver/20081025/1224945605">ぷぎがぽぎ</a> - 2008-10-25 23:40:10</dt>
+<dd><p> 今日、CakePHPカンファレンス東京にスタッフとして参加してきました。 http://events.php.gr.jp/events/show/55 参加された皆さん、運営者の皆さん本当におつかれさまでした。 受付担当でしたので、一番後ろから発表を見させていただきました。 その中で特にGarrettのことを</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yandod/20081025/1224950492">yandodの日記</a> - 2008-10-26 01:01:37</dt>
+<dd><p> events.php.gr.jp - CakePHPカンファレンス東京 スタッフを含めると150人というかつてない規模とアメリカから本家の開発者を招くという大冒険を同時に敢行したカンファレンスが無事に終了しました。 おそらくお越しになった皆さんは貴重な体験をする事が出来たのではと思い</p></dd>
+<dt>
+<a href="http://blog.ne2ma2.com/archives/361">ねねとまつの小部屋</a> - 2008-10-26 04:37:36</dt>
+<dd><p>みなさん、カンファレンスでも、アナウンスがありましたが、SBMの公式タグは、「CakeCon」です。<br />
+CakePHPカンファレンス東京の関連エントリーを見かけたら、情報共有のためにも、ブクマす...</p></dd>
+<dt>
+<a href="http://project-p.jp/halt/anubis/blog_show/1115">/halt/Snapshot</a> - 2008-10-26 11:31:32</dt>
+<dd><p>スタッフの皆さま，発表者の皆さま．本当にお疲れさまでした．<br />
+本当にすばらしいカンファレンスでした．<br />
+<br />
+各セッションで思った事とかを．まとめでもなんでもない個人的感想．<br />
+<br />
+ 基調講演<br />
+日本でのCakePHPの歴史．長いようなあっという間のような．自分がCakePHPを使うようになったのは最近だけど，「10分で作る」の頃から知っていたので「あの頃はまだCakePHPのすごさに気づいてなかったなー」とか思い出した．<br />
+events.php.gr.jpがCakePHPでできてる事をしらない人も結構いたようだ．(トラバ用に追記)<br />
+<br />
+ Agileな開発現場での実践例<br />
+AgileとかXPという言葉は会場の人はどれくらい知っているんだろうかと思ったけど実際の内容はテストの話．<br />
+DB切り替えは設定書くだけで自動でOKらしい．Model側で意図的に設定しないとダメだとおもった．その操作をテスターがやってくれる？<br />
+たくさんのテストがかいてあるシステムとかみたことないので，事例として紹介されてたシステムのコードとテストがみてみたい!<br />
+<br />
+ 昼休憩<br />
+昨日から寝ずにインストール手順がどうとか資料の修正とかコード実装とかやってたので昼ごはんは食べにいかなかった．疲れてる時に食べると絶対寝るので．<br />
+ディスプレイの接続テストにかなり時間がかかってしまった．<br />
+<br />
+ CakePHP and beyond<br />
+数々の名言と最後の軽いdis．名言集としてどこかに残しておくべき，<br />
+<br />
+「バグの残ったバージョンをstableとは呼ばない。そんなものはリリースしない」(by Garrett) <br />
+<br />
+関連: http://d.hatena.ne.jp/brtRiver/20081025/1224938171<br />
+<br />
+ XoopsCubeなのにCakePHPを使う!<br />
+みんなすごくクォリティの高い発表ばかりだったのにこれは本当にはずかしいセッションでしたね!<br />
+<br />
+正直な所，XOOPS Cubeも知らないような人がいるなかでXCにCakeをのせる話をするというのは，普通に発表したら「フーン．あっそ」という雰囲気になってしまうのは目にみえているので，どうやって「やってみようかな．やってもいいかな．楽しそうだな」という気持ちにさせるかという事をずーーーーーーっと考えて資料をつくりました．<br />
+<br />
+XOOPSCubeの事例を始めとするビジネス方面の話をしたのは「XCがツールとして使える」ではなく「技術的な意味以外でのおもしろさ」がある事を伝えて，興味をもってほしかったからです．<br />
+<br />
+で，その上でインストールが簡単だよーとかやりたかったのにミスってしまいましたね．事前テストで作ったテーブルが残っていてインストールエラー．「DBにテーブル残ってる!」とかなんかいろいろ声かけていただいた気がしますがテンパっててあまり聞こえてませんでしたw，mysqlclient開いてdrop tableしたらうまくいったので本当によかった．<br />
+お騒がせてしてすみませんorz<br />
+<br />
+ ＬＴ<br />
+Tplcutter大人気でしたね．ここでGETAがでるとは思いませんでした．LTで5分ぴったりは難しいですよね．でもみんなおもしろい内容でよかった．<br />
+<br />
+ 懇親会<br />
+寝てないので帰る気まんまんだったのですが，sotarokに声をかけてもらって参加．参加してよかったです．sotarokありがとう!<br />
+<br />
+ かんそう<br />
+きっとGarrettは「日本楽しかった!」と思ってくれたんじゃないでしょうか!<br />
+素晴しいイベントにしてくれた運営の皆さん本当にありがとう!</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/satotech/20081026/1224989153">my scratch pad</a> - 2008-10-26 11:46:07</dt>
+<dd><p> 10/25、CakePHPカンファレンス東京に行ってきました。 http://conference.cakephp.jp/ http://events.php.gr.jp/events/show/55 順にメモ、感想を少しずつ。 yandodさんの「国内でのCakePHPの利用状況について」 CakePHPは、「全てのレベルのPHPユーザーが使う高速開発フレ</p></dd>
+<dt>
+<a href="http://my.opera.com/sizuhiko/blog/2008/10/26/cakephp-2008">Technote</a> - 2008-10-26 15:46:03</dt>
+<dd><p>CakePHPカンファレンス東京が10/25(土)に行われました。   私も発表者として、「Agileな開発現場での実践例」というお題で、テスト駆動開発の実例を紹介してきました。</p></dd>
+<dt>
+<a href="http://ecw.seesaa.net/article/108634476.html">ECWorks Blog(仮)</a> - 2008-10-26 16:04:41</dt>
+<dd><p>お待たせしました。 LT中に使いましたスライドを公開します。  なんと、未公開映像付きです(笑)。 というか、後半を表示できなかったんですよね。 それでははじまりはじまり...  &amp;amp;nbsp;  詳細版スライドは、ちょっと調整した後にアップしてみます。  ※言いたいことにそ..</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/slywalker/20081026/1225015383">忍び歩く男 - SLYWALKER</a> - 2008-10-26 20:34:29</dt>
+<dd><p> CakePHPカンファレンス events.php.gr.jp - CakePHPカンファレンス東京 CakePHPカンファレンス 個人的に興味をもったとこ Garrett J Woodworth氏 招待講演 BugTicketがゼロになるまでStableはださないよ！ CakePHP2.0からはPHP4のサポートはなくなる！ CakePHP3.0まで考えて</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/abqar/20081026/1225022289">abqar縺ｮ譌･險</a> - 2008-10-26 21:37:29</dt>
+<dd><p> It is all about numbers. It is all about sequence. It窶冱 the mathematical logic of being alive. If everything kept to its normal progression, we would live with the sadness---cry and then walk---but what really breaks us cleanest are the losses that happe</p></dd>
+<dt>
+<a href="http://www.1x1.jp/blog/2008/10/event_cakephp_conference_tokyo_2008_report.html">Shin x blog</a> - 2008-10-27 02:04:59</dt>
+<dd><p><br />
+CakePHPカンファレンス東京が無事に終了しました。<br />
+参加された皆さん本当にお疲れ様でした。<br />
+<br />
+今回は司会役ということでなかなか貴重な経験ができました。<br />
+カンファレンス自体の詳細な...</p></dd>
+<dt>
+<a href="http://creazy.net/2008/10/cakephp_conference_report.html">creazy photograph</a> - 2008-10-27 12:20:24</dt>
+<dd><p> （書き途中です、随時追記します） CakePHPカンファレンス東京 event...</p></dd>
+<dt>
+<a href="http://www.gusagi.com/modules/blog/details.php?bid=137">ぐさぎ どっと こむ - blog</a> - 2008-10-27 23:24:12</dt>
+<dd><p>フレームワーク勉強を目的に、掲題のCakePHPカンファレンスに参加してきました。実は、体調の問題もあり、直前まで行くか悩んでいたのですが、大変勉強になるカンファレンスでした。詳細は、多くの方が既に書かれているので、前述のURLのトラックバックや、こちらをご参照...</p></dd>
+<dt>
+<a href="http://suzuki.tdiary.net/20081025.html#p01">雑文発散</a> - 2008-10-28 00:38:25</dt>
+<dd><p>かねてより準備してきたCakePHPカンファレンス東京の当日。</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/takagimasahiro/20081028/1225141073">m-takagiの日記</a> - 2008-10-28 05:59:47</dt>
+<dd><p> 10/25に行われたCakePHPカンファレンス東京に参加してきました。 期待通りの本編 CakePHPを本格的に使ったことがない状態で参加させていただきました。内容についてはばっさり省略(え？)しますが、これだけの規模のイベントをスタッフのまとまりに関心させられました*1。 会</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/takagimasahiro/20081028/1225141073">m-takagiの日記</a> - 2008-10-28 06:00:20</dt>
+<dd><p> 10/25に行われたCakePHPカンファレンス東京に参加してきました。 期待通りの本編 CakePHPを本格的に使ったことがない状態で参加させていただきました。内容についてはばっさり省略(え？)しますが、これだけの規模のイベントをスタッフのまとまりに関心させられました*1。 会</p></dd>
+<dt>
+<a href="http://as.blog16.jp/index.php/2008/10/26/p589">WEBで地域活性化～岐阜県中津川市加子母から発信☆WEBシステム屋の日記～</a> - 2008-10-28 12:54:44</dt>
+<dd><p>CakePHPカンファレンス東京に参加してきました。<br />
+ひとことでいうと、かなり収穫ありのイベントでした。<br />
+<br />
+まずは、ざっくりメモです。<br />
+<br />
+◆「国内でのCakePHPの利用状況について」安藤祐...</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/55" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第33回PHP勉強会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/43">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第33回PHP勉強会</h2>
+<dl>
+<dt>イベント内容</dt><dd>第33回PHP勉強会を開催します。今回のテーマは「<strong>モバイル</strong>」です。<br />
+<br />
+<dl><br />
+<dt>日時</dt><br />
+<dd>2008年05月23日(金)19:30 - 21:30 </dd><br />
+<dt>会場</dt><br />
+<dd>株式会社ノッキングオン<a href="http://www.knocking.co.jp/company/map.html">&nbsp;&nbsp;&nbsp;&nbsp;ノッキングオンの地図はこちら</a></dd><br />
+<dt>参加費</dt><br />
+<dd>1000円</dd><br />
+</dl><br />
+<br />
+<h4>テーマの設定と招待者枠について</h4><br />
+<br />
+今回から、新たな試みとしてPHP勉強会の中で中心的に扱うテーマを設定し、発表ではそれに関する話題をメインに取り扱っていきます。<br />
+<br />
+また、設定したテーマに詳しい講演者の方を招待し、発表を行っていただきます。<br />
+<br />
+<br />
+今回のテーマは「<strong>モバイル</strong>」です。<br />
+<br />
+<br />
+なお、今回は講演者として遠方の方をお呼びするため、交通費の補助として参加費名目で1000円のお心付けを頂戴しています。<br />
+ご理解、ご協力のほどお願いいたします。<br />
+<br />
+<h4>招待講演者</h4><br />
+今回は、講演者として<a href="http://ke-tai.org/">ke-tai.org</a>の管理人、matsuiさんをご招待しています。<br />
+<br />
+<h4>発表について</h4><br />
+<br />
+発表は招待者分以外は全て参加者の有志枠となっております。<br />
+発表希望は先着順となりますので、希望者はイベント参加後に本ページのWikiを編集し、発表内容を追記していただくようお願いします。<br />
+<br />
+<h4>Ustream中継</h4><br />
+可能であれば、Ustreamで中継を行う予定です。<br />
+<br />
+<ul><li><a href="http://www.ustream.tv/channel/php-study">http://www.ustream.tv/channel/php-study</a></li><li><a href="http://live.yahoo.com/iogi">live.yahoo.com/iogi</a></li></ul><br />
+<br />
+<span style="color:red">※Ustreamの通信が不安定のため、<a href="http://live.yahoo.com/iogi">live.yahoo.com/iogi</a>で行っています。</span><br />
+※会場で参加中の方はネット帯域の関係上、中継映像は見ずにIRCだけをご利用ください。下の窓か、IRCクライアントでどうぞ。<br />
+<br />
+<embed width="563" height="266" type="application/x-shockwave-flash" flashvars="channel=#php-study&server=chat1.ustream.tv" pluginspage="http://www.adobe.com/go/getflashplayer" src="http://www.ustream.tv/IrcClient.swf" allowfullscreen="true" /><br />
+<br />
+/nick [ニックネーム] と入力すると、使用するニックネームを変更できます。<br />
+<br />
+<br />
+<h4>懇親会について</h4><br />
+<strong>5/21 22時 Update!!</strong><br />
+終了後には懇親会も予定しています。<br />
+<br />
+ノッキングオン様のご厚意により、勉強会終了後、会場にて立食形式の懇親会を行います。<br />
+<br />
+懇親会の参加費は、1人あたり2,000～3,000円となります。<br />
+懇親会の参加者数によって変動するため、若干の幅を持っていますが、ご了承下さい。<br />
+出席をご希望の方で、現時点で表明をされていない方は、お手数ですがコメント欄に出席の旨を記入して頂けますようお願いいたします。<br />
+<br />
+<em>なお、勉強会会場での懇親会のため、懇親会中の発表も可能です。</em><br />
+<br />
+<br />
+立食形式となるため、席数の問題で勉強会には参加できなかった方向けに、若干ですが懇親会のみの枠もご用意できます。<br />
+先着で5名程度になりますが、「<strong>懇親会枠で参加希望</strong>」とコメント欄に記入をお願いいたします。<br />
+<br />
+<br />
+<h4>募集開始日時</h4><br />
+参加募集は、<strong>5月16日(金)17:00</strong>より開始いたします。<br />
+<br />
+<strong>追加募集</strong><br />
+5/17 1:10追記：<br />
+現在、招待者も含め２１名となっていますが、追加枠４名分を募集します。<br />
+追加募集は<strong>5月19日(月)19:00</strong>に行います。<br />
+<br />
+<br />
+４名分の予定が諸事情で９名分、３０名まで増えました。</dd>
+<dt>イベント開催時間</dt><dd>2008-05-23 19:30 〜 21:30</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd></dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2008-05-23 15:00:00</dd>
+</dl>
+</div>
+
+<div>
+<h3> 進行スケジュール</h3>
+<h4>自己紹介 (30分)</h4>
+<p>参加者の皆さんに、順に自己紹介をしていただきます。</p>
+<ul>
+<li> 名前orアカウント , 所属など</li>
+<li> PHP歴</li>
+<li> モバイラー歴</li>
+<li> 最近興味のあること</li>
+</ul>
+<p>などなど、特に縛りはありませんが、簡単に1分ほど話してもらいます。</p>
+
+<h4>運営からの連絡(5分)</h4>
+<ul>
+<li> 発表者：ゆどうふ？他</li>
+<li> 内容：今回からいろいろと新しい試みを開始するにあたり、お願いと連絡事項です。</li>
+</ul>
+
+<h4>発表(30分)</h4>
+<ul>
+<li> 発表者：ke-tai.org matsuiさん</li>
+<li> 内容：モバイル版GoogleMapのちょっと進んだ使い方（仮）</li>
+</ul>
+
+<h4> LT枠</h4>
+
+<h5> XOOPS Cubeの携帯対応をやってみた(10分)</h5>
+<ul>
+<li> 発表者：gusagi (<a href="http://ryus.co.jp/">株式会社RYUS</a>)</li>
+<li> 内容：オープンソースのCMS「XOOPS Cube」で携帯対応をやってみた際の、ハマったところや工夫したところなどを話します。</li>
+</ul>
+
+<h5> モバイルメールに関する雑多な話題（15分）</h5>
+<ul>
+<li> 発表者：すずき</li>
+<li> 内容：モバイルメールに関して思いつきで話してみます。絵文字がどうとかデコメがどうとかは出てこないと思われます。PHP とは全く関係ないかも（笑）</li>
+</ul>
+
+<h5> PHP+swmillでSWFファイルをいじってみた（15分）</h5>
+<ul>
+<li> 発表者：kaz_29</li>
+<li> 内容：最近サイトトップをFlash化するのがはやってるので、swfmillを使ってswf内部の画像などを差し替える方法に付いて話します。</li>
+</ul>
+
+<h4> 発表枠(残り15分)</h4>
+<ul>
+<li> 立候補募集中</li>
+<li> 発表内容をこちらに追記して行ってください。</li>
+<li> 時間は上記枠の時間にとらわれず、発表したい時間分設定してください。</li>
+</ul></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:30</li>
+<li>現在の参加人数:28</li>
+<li>懇親会参加人数:0</li>
+<li>残り:2</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>gusagi</td>
+    <td>参加します。懇親会も参加で！</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:06:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ITEMAN</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:06:57</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>shimooka</td>
+    <td>キター</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:06:57</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>LIND</td>
+    <td>久々に参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:06:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>ゆずほ</td>
+    <td>お願いします！</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:07:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>goto30</td>
+    <td>参加しまっす！</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:07:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ヴぇくたー</td>
+    <td>キター、懇親会もキター</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:07:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ゆどうふ</td>
+    <td>はええｗｗｗｗ１げっとどころではないｗｗｗｗ</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:07:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>ogiharay</td>
+    <td>参加したい。それまでに仕事なんとかしたい</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:07:23</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>tonby</td>
+    <td>お願いします</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:07:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ogi</td>
+    <td>ずさー</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:07:50</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>kaz_29</td>
+    <td>参加します！懇親会も参加で！</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:07:55</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>がる</td>
+    <td>さんかしまふ～</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:08:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>cafistar</td>
+    <td>よろしくおねがいします（・∀・）</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:08:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>すずき</td>
+    <td>参加します。懇親会あればそっちも</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:08:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>UK</td>
+    <td>よろしくおねがいします</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:08:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>matsu_hide</td>
+    <td>よろしくおねがいします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:12:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nnno</td>
+    <td>久々に参加させてください</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:14:09</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>sin</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:15:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Zen</td>
+    <td>初めてですが、是非とも参加させてください。</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 17:16:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ketaiorg</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-05-16 19:47:39</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sotaro</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 00:13:09</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sayjiro</td>
+    <td>初めてですが、よろしくおねがいします！</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 19:03:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>shirako</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 19:04:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>memokami</td>
+    <td>参加します－！</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 19:04:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>萩原崇之</td>
+    <td>さんかします</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 19:04:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>wads</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 19:04:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>komura</td>
+    <td>参加します。懇親会も参加でお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 19:04:17</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hirashi</td>
+    <td>参加します！</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 19:04:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>cocoiti</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 19:04:49</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>maru_cc</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 19:11:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>TypeZERO</td>
+    <td>参加しますー</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 19:13:35</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>puchiban</td>
+    <td>まだ間に合うのかな? 懇親会も。</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-19 19:14:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>hpool</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-21 15:35:25</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>観音寺</td>
+    <td>入れるかな？</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-21 20:26:49</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>twk</td>
+    <td>キャンセル待ちの人がいそうだど良いのかな？</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-23 10:52:00</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>謎のクマしゃん</td>
+    <td> よろしくお願いいたします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-23 12:12:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>のびー</td>
+    <td>参加します！</td>
+    <td style="text-align:center"></td>
+    <td>2008-05-23 14:20:39</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; がる</h4>
+  <p>
+16日 17:02です。参加書き込みが出来る瞬間を待ちわびつつコメントを書いてますｗ  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; ゆずほ</h4>
+  <p>
+同じく！！  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; shimooka</h4>
+  <p>
+ﾌｲﾀ  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; cafistar</h4>
+  <p>
+参加したいです（・∀・）  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; ogiharay</h4>
+  <p>
+F5しまくりんぐ  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; ヴぇくたー</h4>
+  <p>
+こりゃ倍率高そうだ  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; LIND</h4>
+  <p>
+カキコミの準備運動  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; m-takagi</h4>
+  <p>
+既に10人くらい埋まっているかと思いきや、まだ募集人数が0人ｗ  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; gusagi</h4>
+  <p>
+待ってる人、こんなに居るのか・・・ｗ  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; がる</h4>
+  <p>
+む…おいらだけかと思ったのに…どこぞでチケットを買う時のような様相を呈しているのは気のせい？ｗ  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; ヴぇくたー</h4>
+  <p>
+このまま仕事に戻ったら埋まってそうｗ  </p>
+</div>
+<div class="section">
+<h4>
+11 &nbsp; shimooka</h4>
+  <p>
+半ばChat状態ｗｗ  </p>
+</div>
+<div class="section">
+<h4>
+12 &nbsp; ゆずほ</h4>
+  <p>
+まだかなーｗ  </p>
+</div>
+<div class="section">
+<h4>
+13 &nbsp; goto30</h4>
+  <p>
+ちょｗ必死ｗｗ  </p>
+</div>
+<div class="section">
+<h4>
+14 &nbsp; ヴぇくたー</h4>
+  <p>
+ｗｗ &lt;- ATOKだと打ちづらいｗｗ  </p>
+</div>
+<div class="section">
+<h4>
+15 &nbsp; kaz_29</h4>
+  <p>
+同士がたくさん...w  </p>
+</div>
+<div class="section">
+<h4>
+16 &nbsp; ゆどうふ</h4>
+  <p>
+どんだけーｗｗｗｗ  </p>
+</div>
+<div class="section">
+<h4>
+17 &nbsp; gusagi</h4>
+  <p>
+やった！  </p>
+</div>
+<div class="section">
+<h4>
+18 &nbsp; shimooka</h4>
+  <p>
+何だこのペースは  </p>
+</div>
+<div class="section">
+<h4>
+19 &nbsp; ゆずほ</h4>
+  <p>
+１ゲトできなかたー  </p>
+</div>
+<div class="section">
+<h4>
+20 &nbsp; ヴぇくたー</h4>
+  <p>
+shimookaさんの計測に期待  </p>
+</div>
+<div class="section">
+<h4>
+21 &nbsp; がる</h4>
+  <p>
+うわ～すべりこみ。……あわてて書き忘れた orz 懇親会も無論もっぱら参加しまふ。  </p>
+</div>
+<div class="section">
+<h4>
+22 &nbsp; gusagi</h4>
+  <p>
+お、今回1ゲット出来てるｗｗｗ  </p>
+</div>
+<div class="section">
+<h4>
+23 &nbsp; がる</h4>
+  <p>
+っていうか…1分30秒で14人ってどゆこと？ｗ  </p>
+</div>
+<div class="section">
+<h4>
+24 &nbsp; m-takagi</h4>
+  <p>
+さりげなく2getしているITEMAN++  </p>
+</div>
+<div class="section">
+<h4>
+25 &nbsp; ゆずほ</h4>
+  <p>
+発表者及び発表内容が気になる  </p>
+</div>
+<div class="section">
+<h4>
+26 &nbsp; ITEMAN</h4>
+  <p>
+懇親会も参加します  </p>
+</div>
+<div class="section">
+<h4>
+27 &nbsp; matsu_hide</h4>
+  <p>
+懇親会参加します  </p>
+</div>
+<div class="section">
+<h4>
+28 &nbsp; ゆずほ</h4>
+  <p>
+懇親会ー参加したいです  </p>
+</div>
+<div class="section">
+<h4>
+29 &nbsp; sin</h4>
+  <p>
+是非、懇親会も参加でお願いします！  </p>
+</div>
+<div class="section">
+<h4>
+30 &nbsp; kunit</h4>
+  <p>
+しまった。気を抜いていた・・・  </p>
+</div>
+<div class="section">
+<h4>
+31 &nbsp; 観音寺</h4>
+  <p>
+乗り遅れた・・・  </p>
+</div>
+<div class="section">
+<h4>
+32 &nbsp; shimooka</h4>
+  <p>
+懇親会参加予定でっす  </p>
+</div>
+<div class="section">
+<h4>
+33 &nbsp; ヴぇくたー</h4>
+  <p>
+懇親会も参加しまっす  </p>
+</div>
+<div class="section">
+<h4>
+34 &nbsp; saitoooo</h4>
+  <p>
+今まで、参加出来た事がないorz  </p>
+</div>
+<div class="section">
+<h4>
+35 &nbsp; 秋元@Cラボ</h4>
+  <p>
+はやいなあ  </p>
+</div>
+<div class="section">
+<h4>
+36 &nbsp; Zei</h4>
+  <p>
+もともと参加できなかったんですが、この速さはｗ  </p>
+</div>
+<div class="section">
+<h4>
+37 &nbsp; cafistar</h4>
+  <p>
+懇親会の締切はいつだろう？  </p>
+</div>
+<div class="section">
+<h4>
+38 &nbsp; sotaro</h4>
+  <p>
+これはねえよｗｗｗｗｗ　＞　応募開始10分  </p>
+</div>
+<div class="section">
+<h4>
+39 &nbsp; 謎のクマしゃん</h4>
+  <p>
+埋まるの早過ぎ  </p>
+</div>
+<div class="section">
+<h4>
+40 &nbsp; maru_cc</h4>
+  <p>
+ke-tai.orgのmatsuiさんの話聞きたかったー＞＜　Ustお願いします～  </p>
+</div>
+<div class="section">
+<h4>
+41 &nbsp; hirashi</h4>
+  <p>
+ぬお！行きたかった～早いっス・・・orz  </p>
+</div>
+<div class="section">
+<h4>
+42 &nbsp; wozozo</h4>
+  <p>
+枠が小さすぎるよぉ・・・  </p>
+</div>
+<div class="section">
+<h4>
+43 &nbsp; ゆどうふ</h4>
+  <p>
+追加募集の告知出しました。  </p>
+</div>
+<div class="section">
+<h4>
+44 &nbsp; ketaiorg</h4>
+  <p>
+私も懇親会参加でお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+45 &nbsp; LIND</h4>
+  <p>
+懇親会もちろん参加します。必要なら幹事しますよ  </p>
+</div>
+<div class="section">
+<h4>
+46 &nbsp; gusagi</h4>
+  <p>
+懇親会、今回は私が幹事引き受けますよー。決まり次第、情報告知しますね！  </p>
+</div>
+<div class="section">
+<h4>
+47 &nbsp; LIND</h4>
+  <p>
+了解です。よろしくお願いします。 &gt; gusagiさん  </p>
+</div>
+<div class="section">
+<h4>
+48 &nbsp; ゆずほ</h4>
+  <p>
+すみません、仕事がはいりましてキャンセルです＞＜懇親会ならいけそうなんですが…  </p>
+</div>
+<div class="section">
+<h4>
+49 &nbsp; sotaro</h4>
+  <p>
+(｀・ω・´)  </p>
+</div>
+<div class="section">
+<h4>
+50 &nbsp; sotaro</h4>
+  <p>
+あ、今回は多分懇親会参加できそうです！  </p>
+</div>
+<div class="section">
+<h4>
+51 &nbsp; らいあ</h4>
+  <p>
+あれー、もう埋まってるよ・・・(´ー｀;)  </p>
+</div>
+<div class="section">
+<h4>
+52 &nbsp; memokami</h4>
+  <p>
+うわーん、追加募集も乗り遅れた(&gt;_&lt;)  </p>
+</div>
+<div class="section">
+<h4>
+53 &nbsp; gusagi</h4>
+  <p>
+追加募集はまだだから大丈夫ですよー  </p>
+</div>
+<div class="section">
+<h4>
+54 &nbsp; shimooka</h4>
+  <p>
+すんません。キャンセルします  </p>
+</div>
+<div class="section">
+<h4>
+55 &nbsp; memokami</h4>
+  <p>
+gusagiさんどうもです！いけました！  </p>
+</div>
+<div class="section">
+<h4>
+56 &nbsp; m-takagi</h4>
+  <p>
+残り人数がマイナスになってる？  </p>
+</div>
+<div class="section">
+<h4>
+57 &nbsp; memokami</h4>
+  <p>
+shimookaさんマジすか  </p>
+</div>
+<div class="section">
+<h4>
+58 &nbsp; memokami</h4>
+  <p>
+せっかくのモバイルなので何か話そうかなと思ってます  </p>
+</div>
+<div class="section">
+<h4>
+59 &nbsp; m-takagi</h4>
+  <p>
+しかもまだ参加登録可能ってことは、定員のチェックがうまくできていない？  </p>
+</div>
+<div class="section">
+<h4>
+60 &nbsp; sotaro</h4>
+  <p>
+なんか変・・・ざわ・・・ざわ・・  </p>
+</div>
+<div class="section">
+<h4>
+61 &nbsp; m-takagi</h4>
+  <p>
+ソースを追えていないのでアレだけど、とりあえず残り人数がマイナスにならないように定員を増やしてしまえば「まだ登録できちゃう」現象は回避できそうな気がする  </p>
+</div>
+<div class="section">
+<h4>
+62 &nbsp; TypeZERO</h4>
+  <p>
+すいません、キャンセルしました　orz   </p>
+</div>
+<div class="section">
+<h4>
+63 &nbsp; ゆどうふ</h4>
+  <p>
+まさかの追加募集前に埋まっている現象  </p>
+</div>
+<div class="section">
+<h4>
+64 &nbsp; ゆどうふ</h4>
+  <p>
+&gt;TypeZEROさん　今回の件、運営側のミスなので参加希望なのでしたら、キャンセルは解除しておきますが、どうしますか？元々あと１回の追加募集予定で、席は30まであるので。  </p>
+</div>
+<div class="section">
+<h4>
+65 &nbsp; m-takagi</h4>
+  <p>
+定員オーバーの判定条件を修正しておきました http://coderepos.org/share/changeset/11986  </p>
+</div>
+<div class="section">
+<h4>
+66 &nbsp; halt</h4>
+  <p>
+高木さんありがとうございます！認証周りも問題があったので修正しました  </p>
+</div>
+<div class="section">
+<h4>
+67 &nbsp; hirashi</h4>
+  <p>
+懇親会もゼヒ参加させてくださいー。  </p>
+</div>
+<div class="section">
+<h4>
+68 &nbsp; ゆどうふ</h4>
+  <p>
+うぐぅ。TypeZEROさんからお返事が無い。。。仕方ないだろうか。  </p>
+</div>
+<div class="section">
+<h4>
+69 &nbsp; ゆどうふ</h4>
+  <p>
+発表希望の方は上記発表欄の記入お願いいたします＞＜  </p>
+</div>
+<div class="section">
+<h4>
+70 &nbsp; wads</h4>
+  <p>
+キャンセルしました。直前ですいません。  </p>
+</div>
+<div class="section">
+<h4>
+71 &nbsp; ゆずほ</h4>
+  <p>
+懇親会枠で参加希望！！  </p>
+</div>
+<div class="section">
+<h4>
+72 &nbsp; 謎のクマしゃん</h4>
+  <p>
+懇親会枠参加希望です。勉強会は・・・キャンセル待ち  </p>
+</div>
+<div class="section">
+<h4>
+73 &nbsp; ogi</h4>
+  <p>
+書き忘れたけど、懇親会参加しますー  </p>
+</div>
+<div class="section">
+<h4>
+74 &nbsp; memokami</h4>
+  <p>
+うわーいけなさそうな雰囲気になってきた(&gt;_&lt;)  </p>
+</div>
+<div class="section">
+<h4>
+75 &nbsp; 観音寺</h4>
+  <p>
+懇親会について書いてませんでした。参加したいです。  </p>
+</div>
+<div class="section">
+<h4>
+76 &nbsp; twk</h4>
+  <p>
+空いてたので当日だし入れちゃいました。キャンセル待ちだったお許しを。  </p>
+</div>
+<div class="section">
+<h4>
+77 &nbsp; twk</h4>
+  <p>
+あ、懇親会も間に合いそうなら出たいです  </p>
+</div>
+<div class="section">
+<h4>
+78 &nbsp; sin</h4>
+  <p>
+すみません、すごく行きたかったのですが・・・仕事上行けなくなってしまいました。直前で大変申し訳ないですが懇親会もキャンセルでお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+79 &nbsp; nnno</h4>
+  <p>
+ご連絡が遅れました。懇親会参加いたします。  </p>
+</div>
+<div class="section">
+<h4>
+80 &nbsp; tonby</h4>
+  <p>
+懇親会参加したいです  </p>
+</div>
+<div class="section">
+<h4>
+81 &nbsp; Zen</h4>
+  <p>
+懇談会にも参加したいと思っています。遅れてすみません。  </p>
+</div>
+<div class="section">
+<h4>
+82 &nbsp; ogiharay</h4>
+  <p>
+いみじくもモバイルの仕事の所為で無理だった・・・  </p>
+</div>
+<div class="section">
+<h4>
+83 &nbsp; hpool</h4>
+  <p>
+懇親会参加でお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+84 &nbsp; のびー</h4>
+  <p>
+懇親会も参加希望でーす  </p>
+</div>
+<div class="section">
+<h4>
+85 &nbsp; puchiban</h4>
+  <p>
+イベント募集のところにも書きましたが、懇親会も参加希望です。  </p>
+</div>
+<div class="section">
+<h4>
+86 &nbsp; UK</h4>
+  <p>
+ちょっと仕事の都合で参加できそうにないです。ドタキャンですみません。  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form1360018688" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/43"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form1360018688', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/43', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form1360018688'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/43', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_43)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/43"
+  trackback:ping="/trackbacks/receive/43"
+  dc:title=""
+  dc:identifier="/events/show/43" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/Yudoufu/20080515/1210874652">ゆどうふろぐ</a> - 2008-05-16 03:04:15</dt>
+<dd><p> 第３３回PHP勉強会のテーマをモバイルとして開催することになりました。 第33回PHP勉強会を開催します。今回のテーマは「モバイル」です。 日時 2008年05月23日(金)19:30 - 21:30 会場 株式会社ノッキングオン 参加費 1000円 隨ャ33蝗霸HP蜍牙シキ莨? - events.php.gr.jp 今</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20080516/1210897958">Do You PHP はてな</a> - 2008-05-16 09:32:45</dt>
+<dd><p> アナウンスでました。今回からテーマに沿ったものになるのかな？また、今回は有料です。 第33回PHP勉強会を開催します。今回のテーマは「モバイル」です。 日時 2008年05月23日(金)19:30 - 21:30 会場 株式会社ノッキングオン ノッキングオンの地図はこちら 参加費 1000円 </p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/kaz_29/20080516">kaz_29@はてな</a> - 2008-05-16 10:32:10</dt>
+<dd><p> [mobile] [PHP] アナウンスが出ましたね。 今回は「モバイル」がテーマとの事、これは絶対いかねば(^^！ で、誰がくるんだろう？ 第33回PHP勉強会 </p></dd>
+<dt>
+<a href="http://vector.jugem.jp/?eid=102">vectorさんのブログ</a> - 2008-05-16 17:25:18</dt>
+<dd><p>第33回PHP勉強会の開催がアナウンスされました。<br />
+毎度の事ながらすごい競争率です。<br />
+# 受付開始時間の公表が拍車をかけてるような。。。<br />
+<br />
+その内参加するには問題を解かないといけなくなったりして？<br />
+<br />
+[推移]<br />
+開始が遅延(約7分)<br />
+2分後 : 16人参加<br />
+更に7分後 : 試合終了<br />
+<br />
+大体３R KOといったところでしょうか。</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/Yudoufu/20080516/1210955141">ゆどうふろぐ</a> - 2008-05-17 01:28:26</dt>
+<dd><p> まさかの募集開始１０分で満席となった今度のPHP勉強会ですが、やはり追加枠がでます。 あまりの人気っぷりに、なかなか予定がfixしづらい人、もしくは募集時間帯的に申し込みづらい人の事も考慮して２回に分けて追加募集を行うことにしました。 １回目は4名分枠で、5/19(月</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/pcmaster/20080523/p1">理想未来はどうなった？</a> - 2008-05-24 02:45:55</dt>
+<dd><p> 株式会社ノッキングオンさんで行われた、PHP勉強会に参加していますしました。 キャンセル枠ギリギリで申し込みできました。 今回のテーマはモバイルです。 いつもどおり、リアルタイムにメモしていく予定ですみました。 自己紹介 PHP勉強会の運営について テーマの設定 こ</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/sotarok/20080523/1211566173">GRANADA Hatena @ sotarok</a> - 2008-05-24 03:09:37</dt>
+<dd><p> 隨ャ33蝗霸HP蜍牙シキ莨? - events.php.gr.jp というわけで，参加してきましたPHP勉強会． 今回のテーマは「モバイル」ということで，あまり今後も手を出したくないなーと思っている分野ですが（ぉ *1，参加してきました． 毎度会場提供のノッキングオンさん，今回主催のid:</p></dd>
+<dt>
+<a href="http://www.sj6.org/phpstudy33th/">適当な日々</a> - 2008-05-24 12:32:33</dt>
+<dd><p>				5/24 19:30～開催された第33回PHP勉強会に行ってきたよ。<br />
+				今回のテーマは「モバイル」ということで仕事にもがっつり関係あるので張り切って行った。<br />
+				ちなみに会場を提供して下さ...</p></dd>
+<dt>
+<a href="http://nonn-et-twk.net/twk/quizken-mail">twk @ ふらっと</a> - 2008-05-24 12:43:24</dt>
+<dd><p>と言っても、メールですけど。<br />
+携帯から、「qあっとまーくquizken.jp」に空メールを送ると、<br />
+返信でクイズ研からクイズのメールが届きます。会員登録とかは不要です。<br />
+ドメイン指定設定を</p></dd>
+<dt>
+<a href="http://nonn-et-twk.net/twk/php-study-mobile">twk @ ふらっと</a> - 2008-05-24 14:07:14</dt>
+<dd><p>MySQLのセミナーと同日だったのですが、第33回PHP勉強会　モバイルに参加してきました。当日ぎりぎり参加。ノッキングオンで開催。<br />
+簡単に各発表の感想を。内容はかなり省略していますの</p></dd>
+<dt>
+<a href="http://www.gusagi.com/modules/blog/details.php?bid=0">ぐさぎ どっと こむ - blog</a> - 2008-05-24 19:57:46</dt>
+<dd><p>昨日に行われた、第33回PHP勉強会に参加してきました。会場は、株式会社ノッキングオンさん。自分も、LTでグダグダな発表をしてきました。発表資料は、後ほどアップします。勉強会全体の内容については、pcmasterさんや、sotarokさん、twkさんがまとめて下さっています。...</p></dd>
+<dt>
+<a href="http://www.gusagi.com/modules/blog/details.php?bid=104">ぐさぎ どっと こむ - blog</a> - 2008-05-24 19:58:03</dt>
+<dd><p>昨日に行われた、第33回PHP勉強会に参加してきました。会場は、株式会社ノッキングオンさん。自分も、LTでグダグダな発表をしてきました。発表資料は、後ほどアップします。勉強会全体の内容については、pcmasterさんや、sotarokさん、twkさんがまとめて下さっています。...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/i_ogi/20080524/1211651375">おぎろぐはてな</a> - 2008-05-25 02:50:01</dt>
+<dd><p> PHP勉強会に参加してきました。今回のテーマはモバイル。 第33回PHP勉強会 - events.php.gr.jp 会場を提供いただきました、ノッキングオンさまありがとうございました！ 本編終了後、引き続き懇親会も同じ会場で実施、合間にLTも入りつつ、いい感じでした。中継対応とかで、</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/kaz_29/20080525/1211719563">kaz_29@はてな</a> - 2008-05-25 21:50:16</dt>
+<dd><p> 今回、急遽LTやってしまいました(^^;。 一応、資料あげておきます。 発表資料 id:i_ogiさんがあげてくれた動画を見てみると、説明が不足している点が多々あり分かりにくくて申し訳ない感じ(;_; 時間を見てここに追加説明を上げます！ SWFMILL-PHPですが、codoreposのアカウ</p></dd>
+<dt>
+<a href="http://techtalk.jp/2008/05/33php.html">TechTalk.jp</a> - 2008-05-26 23:48:13</dt>
+<dd><p>第33回PHP勉強会の動画が id:i_ogi さんによって公開されています。 ...</p></dd>
+<dt>
+<a href="http://techtalk.jp/2008/05/33php.html">TechTalk.jp</a> - 2008-05-27 00:21:02</dt>
+<dd><p>第33回PHP勉強会の動画が id:i_ogi さんによって公開されています。 ...</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/43" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

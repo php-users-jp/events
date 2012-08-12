@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第34回PHP勉強会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/46">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第34回PHP勉強会</h2>
+<dl>
+<dt>イベント内容</dt><dd>第34回PHP勉強会を開催します。<br />
+<br />
+<br />
+日時:2008年06月28日(土)14:00 - 17:00<br />
+会場:<a href="http://www.tricorn.co.jp/">トライコーン株式会社 1F セミナールーム</a><br />
+<br />
+<a href="http://www.ustream.tv/channel/php-study0806">ustream.tv</a><br />
+<br />
+<a href="http://www.tricorn.co.jp/map.phtml">地図</a><br />
+<br />
+参加費用無料（懇親会は希望者は実費<br />
+<br />
+今回、前日にCake勉強会もあることもあるのですが、テーマを絞らずに、ざっくばらんにPHPについて初心者から～上級者絞らずにお話できればと考えています。<br />
+<br />
+募集ですが、<br />
+初回者専用: 14日土曜日20時～<br />
+通常募集その1: 15日日曜日20時～<br />
+<br />
+<br />
+あと懇親会の参加の有無についても発言いただけると助かります。<br />
+<br />
+となります。</dd>
+<dt>イベント開催時間</dt><dd>2008-06-28 14:00 〜 17:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2008-06-15 20:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2008-06-28 14:00:00</dd>
+</dl>
+</div>
+
+<div>
+<h3> 挨拶(5分）</h3>
+<h3> 出欠(20分)</h3>
+<h3> 発表(40分)</h3>
+<h4> 発表者</h4>
+<p>maru_cc (<a href="http://d.hatena.ne.jp/maru_cc/">http://d.hatena.ne.jp/maru_cc/</a>)</p>
+
+<h4> 内容</h4>
+<p>実際にアプリを作り出すときに、どんなことを考えながら進めていくのかということを、何か題材にして話します。</p>
+
+<p>いろいろなやり方、考え方があると思いますので、私の場合は。という感じで、誰かの参考になればと思います。</p>
+
+<h4>資料</h4>
+<p><a href="http://maru.cc/slide_archives">http://maru.cc/slide_archives</a></p>
+
+<h3> 休憩（10分)</h3>
+<h3> 発表(30分)</h3>
+<h4> 発表者</h4>
+<p>kaz_29(<a href="http://d.hatena.ne.jp/kaz_29/">http://d.hatena.ne.jp/kaz_29/</a>)</p>
+
+<h4> 内容</h4>
+<p>PostgreSQL+textsearch-jaで日本語全文検索を試しているので、設定や簡単な使い方について話そうと思います。</p>
+
+<ul>
+<li>全文検索の基礎</li>
+<li>PostgreSQLでの全文検索</li>
+<li>環境設定について</li>
+<ul>
+<li>mecabのインストール</li>
+<li>textsearch-jaのインストール</li>
+</ul>
+</li>
+<li>サンプルアプリ</li>
+<ul>
+<li>インデックスの方式毎の性能比較</li>
+<li>デモ</li>
+</ul>
+</li>
+</ul>
+
+<h3> 発表30分</h3>
+<h4> 発表者</h4>
+<p>sotarok(<a href="http://d.hatena.ne.jp/sotarok/">http://d.hatena.ne.jp/sotarok/</a>)</p>
+
+<h4> 内容</h4>
+<p>PHP5からバンドルされているXMLに関する機能について色々と。中心はSimpleXMLネタになります。
+実際にコードを見せながら、体験談も語りつつｗ、進めたいと思います。</p>
+
+<ul>
+<li>SimpleXMLの基本的な使い方</li>
+<li>SimpleXMLElement</li>
+<li>SimpleXMLIterator</li>
+<li>実際に使いまわしてみて</li>
+<li>DOM</li>
+<li>（XMLReaderとXMLWriter）</li>
+</ul>
+
+<h3> LT(10分*3)</h3>
+<h4>shin1x1(10分)</h4>
+<pre><code>動かしてコードの流れを追う</code></pre>
+<h4>gusagi(10分)</h4>
+<pre><code>DBによるセッション管理について、何か話そうと思います</code></pre>
+<h4> nemo_kaz (05分)</h4>
+<pre><code>ProjectZeroでPHP</code></pre>
+<p><a href="http://d.hatena.ne.jp/nemo_kaz/20080629"><a href="http://d.hatena.ne.jp/nemo_kaz/20080629">http://d.hatena.ne.jp/nemo_kaz/20080629</a></a></p></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:40</li>
+<li>現在の参加人数:39</li>
+<li>懇親会参加人数:0</li>
+<li>残り:1</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>cocoiti</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2008-06-04 19:02:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>shin1x1</td>
+    <td>参加したいんでLTでしゃべります</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-12 09:57:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>maru_cc</td>
+    <td>話しますー＆懇親会も</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-12 15:37:55</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>gusagi</td>
+    <td>LTで話しますー。懇親会は、未定。。。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-12 15:55:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kaz_29</td>
+    <td>はなします！懇親会は調整中。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-12 16:25:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ねもと</td>
+    <td>「ProjectZeroでPHP」、でLT挑戦します(5分)</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-12 18:29:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>sotaro</td>
+    <td>XMLネタ発表しますー</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-14 19:03:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nanbuwks</td>
+    <td>参加します。よろしく。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-14 20:00:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>nori0620</td>
+    <td>初めて参加させて頂きます。宜しくお願いします。懇親会は未定です。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-14 20:01:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>eins1223</td>
+    <td>参加希望します</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-14 20:01:59</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>baki</td>
+    <td>初めて参加します。よろしくお願いしますー。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-14 20:21:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>みねち</td>
+    <td>参加希望です。よろしく御願いいたします。懇親会は未定です。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-14 20:24:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>komura</td>
+    <td>参加します。懇親会も参加でお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-15 20:01:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>wads</td>
+    <td>参加！懇親会も参加します！</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-15 20:01:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>sotarok_test</td>
+    <td>てすとー本番でてすとー</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-15 21:04:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>hiroshi</td>
+    <td>phpの勉強会はじめてです。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-15 22:38:46</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ゆどうふ</td>
+    <td>空気読まずにずさー。懇親会も行きます。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-15 23:28:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>dev0000</td>
+    <td>参加します。懇親会も参加します</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-15 23:57:39</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Tsukimiya</td>
+    <td>ずさささささ。懇親会も参加。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 00:31:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>puchiban</td>
+    <td>2回目です。懇談会もよろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 01:34:26</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>naoto is</td>
+    <td>よろしくお願いします。懇親会も参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 03:36:27</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>taka0024</td>
+    <td>参加します。今回は空きがあってよかった。w</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 04:28:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>秋元@Cラボ</td>
+    <td>参加。懇親会も参加</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 06:41:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>MugeSo</td>
+    <td>参加します。agaviのXML利用機能について発表したいです(10分）</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 08:03:32</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>たくしゅん</td>
+    <td>参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 08:37:26</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>p4life</td>
+    <td>参加します．よろしくお願いします．</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 09:04:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>Zei</td>
+    <td>参加します。懇親会もできれば。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 09:52:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Yunoka.M</td>
+    <td>参加します。ずさささ</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 09:52:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>rhc99</td>
+    <td>初参加です。よろしくおねがいしま。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 10:25:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>風沙</td>
+    <td>参加します。懇親会も参加希望です。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 10:28:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>すずき</td>
+    <td>参加します。懇親会も参加。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 10:51:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>lllnorikolll</td>
+    <td>参加します。懇親会も参加でよろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 10:55:08</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>shiottu</td>
+    <td>参加します！！</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 11:31:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>docoyama</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 12:02:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>twk</td>
+    <td>参加します。懇親会も希望で。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 13:03:04</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nope</td>
+    <td> 	参加します。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 13:11:28</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>slywalker</td>
+    <td>参加します。懇親会も参加でよろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 13:40:56</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>silver</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 14:04:00</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>mukaken</td>
+    <td>参加します。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 16:28:09</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>yando</td>
+    <td>参加していいのかな。ネタもありますよ。</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 16:37:28</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>らいあ</td>
+    <td>久しぶりに参加してみる</td>
+    <td style="text-align:center"></td>
+    <td>2008-06-16 17:59:57</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; Tsukimiya</h4>
+  <p>
+応募まだー＞＜  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; cocoiti</h4>
+  <p>
+まだー  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; cocoiti</h4>
+  <p>
+すいません、遅れましたが更新しました  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; shin1x1</h4>
+  <p>
+忘れてた。懇親会は新幹線の時間次第だけど、いちおう参加で。  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; sotaro</h4>
+  <p>
+懇親会は多分参加できません＞＜  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; nanbuwks</h4>
+  <p>
+懇親会にも参加します。よろしく。  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; taka0024</h4>
+  <p>
+懇親会も参加の方向でお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; Zei</h4>
+  <p>
+まだあいてるとは思ってなかった。。。  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; rhc99</h4>
+  <p>
+書き忘れましたが、懇親会に参加する予定です。よろしくお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; みねち</h4>
+  <p>
+都合がつきましたので懇親会もぜひ参加させてください。よろしくお願いいたします。  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; mick0124</h4>
+  <p>
+しまった・・・＞＜  </p>
+</div>
+<div class="section">
+<h4>
+11 &nbsp; shiottu</h4>
+  <p>
+書き忘れましたが、懇親会も参加予定です！！宜しくお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+12 &nbsp; silver</h4>
+  <p>
+懇親会も参加します。よろしくお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+13 &nbsp; kaz_29</h4>
+  <p>
+懇親会調整付いたので参加でお願いします！  </p>
+</div>
+<div class="section">
+<h4>
+14 &nbsp; eins1223</h4>
+  <p>
+書き忘れです。懇親会も参加希望です。よろしくお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+15 &nbsp; oku</h4>
+  <p>
+参加してみたかったですｗ  </p>
+</div>
+<div class="section">
+<h4>
+16 &nbsp; Zei</h4>
+  <p>
+すいません、仕事で参加が不可能に。。。すみません。。。  </p>
+</div>
+<div class="section">
+<h4>
+17 &nbsp; MugeSo</h4>
+  <p>
+当日で申し訳ありませんが、私情により参加不可能になりました。本当に申し訳ありません  </p>
+</div>
+<div class="section">
+<h4>
+18 &nbsp; cocoiti</h4>
+  <p>
+了解しました！  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form467563719" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/46"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form467563719', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/46', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form467563719'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/46', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_46)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/46"
+  trackback:ping="/trackbacks/receive/46"
+  dc:title=""
+  dc:identifier="/events/show/46" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20080608/1212936399">Do You PHP はてな</a> - 2008-06-08 23:46:48</dt>
+<dd><p> アナウンスがありました。今回もトライコーンさんのセミナールームをお借りするようです。ありがとうございます。 第34回PHP勉強会を開催します。 日時:2008年06月28日(土)14:00 - 17:00 会場:トライコーン株式会社 1F セミナールーム 参加費用無料（懇親会は希望者は実費 </p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20080615/1213537140">Do You PHP はてな</a> - 2008-06-15 22:39:04</dt>
+<dd><p> CakePHP勉強会の翌日にもかかわらず、大好評のPHP勉強会の参加者募集が始まっています。枠に若干の余裕があります（若干、林家こん平風ｗ）ので、是非参加してみてください。 第34回PHP勉強会を開催します。 日時:2008年06月28日(土)14:00 - 17:00 会場:トライコーン株式会</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/Yudoufu/20080615/1213539994">ゆどうふろぐ</a> - 2008-06-15 23:26:42</dt>
+<dd><p> 第34回PHP勉強会を開催します。 日時:2008年06月28日(土)14:00 - 17:00 会場:トライコーン株式会社 1F セミナールーム 隨ャ34蝗霸HP蜍牙シキ莨? - events.php.gr.jp されましたよ＞＜ </p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/autocross_buff/20080616/1213577808">日々是小人</a> - 2008-06-16 10:18:09</dt>
+<dd><p> まだ、枠が開いてました。。。 土曜日は、親同士の顔合わせ、日曜日はぐったり。 なので、はっと気づいてさっきログインしてみると。。 まだ枠が開いてるう。。。 ということで、さくっと参加しておきました。 今回は、ノートPCもって行きたいけど、家のはドスパラのでかい</p></dd>
+<dt>
+<a href="http://as.blog16.jp/index.php/2008/06/18/p366">WEBで地域活性化～愛知県清須市から発信☆WEBシステム屋の日記～</a> - 2008-06-18 08:34:57</dt>
+<dd><p><br />
+第34回PHP勉強会もかなり人気ですぐに埋まってしまいましたね。<br />
+今回は「初回者専用」枠が用意されたようで、なかなか良いのではないでしょうか。<br />
+<br />
+もう一つ希望をいえば、「遠方...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/MugeSo/20080628/1214649610">MugeSoの日記</a> - 2008-06-28 19:44:26</dt>
+<dd><p> [PHP勉強会:title=http://events.php.gr.jp/event.php/event_show/46にはドタキャンで参加できず申し訳ありませんでした。枠の関係で参加できなかった方本当にすみませんでした。 発表するために作っていた資料をアップしました。 http://mugeso.com/XMLinAgavi.pdf </p></dd>
+<dt>
+<a href="http://nonn-et-twk.net/twk/php-study-34th">twk @ ふらっと</a> - 2008-06-29 01:35:32</dt>
+<dd><p>第34回PHP勉強会に行ってきました。<br />
+会場のトライコーンさんはとても綺麗なセミナールームでした。<br />
+自己紹介で、SymphonyとCakePHPを使っている方は数人ずついたので、ZFを使っている発言が私</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/kaz_29/20080629/1214712389">kaz_29@はてな</a> - 2008-06-29 13:06:41</dt>
+<dd><p> 前回のLTに続き、発表させて頂きました。 発表資料 相変わらずgdgdでしたが(^^;、それでも「面白かったです」とか「参考になりました」とか声を掛けてもらえてとてもうれしかったです。 また何か良いネタがあれば、発表したいと思います。 第３４回PHP勉強会 </p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/maru_cc/20080629/php_study_34">maru.cc@はてな</a> - 2008-06-29 15:01:59</dt>
+<dd><p> 金曜日のCakePHP勉強会に引き続き、第34回PHP勉強会に参加し、発表もしてきました。 Ustreamにて録画した映像が見れます。 http://www.ustream.tv/channel/php-study0806 録画してくださったyandodさんありがとうございます！ アプリを作り出す前に 発表者：id:maru_cc 私で</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/sotarok/20080629/php_study_34">GRANADA Hatena @ sotarok</a> - 2008-06-29 17:33:21</dt>
+<dd><p> 第34回PHP勉強会 発表資料やコードをちょっと修正して *1 出そう〜　と思っていたらなにやら熱が出てヤバいのでもうちょっとお待ちください＞＜ その他のレポートも、レッツノートの電源が切れそうでほとんどメモもとれなかったので、ほかの方にお任せ・・・ということで(´</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/nemo_kaz/20080629">WebとSOA関係</a> - 2008-06-29 23:38:01</dt>
+<dd><p> ProjectZeroでPHP という話を第34回PHP勉強会でLightning Talkしました。 http://events.php.gr.jp/event.php/event_show/46 発表10分　 ProjectZeroでPHPを始めるまでの話。Presentation&amp;#160; Google Docs のプレゼンテーション「ProjectZeroでPHP」 http://docs.google.c</p></dd>
+<dt>
+<a href="http://www.1x1.jp/blog/2008/06/php_event34.html">Shin x blog</a> - 2008-06-30 03:22:01</dt>
+<dd><p>CakePHP勉強会の翌日に行われた第34回PHP勉強会にも参加してきました。<br />
+今回はLTで「動かしてコードの流れを追う」というタイトルで話してきました。PHP勉強会では初発表だったので秘かに...</p></dd>
+<dt>
+<a href="http://nonn-et-twk.net/twk/php-lucene-japanese-search">twk @ ふらっと</a> - 2008-06-30 16:05:40</dt>
+<dd><p>先週末行った第34回PHP勉強会でkaz_29さんがPostgreSQLの日本語全文検索のお話をされていました。<br />
+私はメインでMySQLを使っていますが、MySQLだとまたやり方が違ったり、DBにモジュールを追加す</p></dd>
+<dt>
+<a href="http://www.gusagi.com/modules/blog/details.php?bid=114">ぐさぎ どっと こむ - blog</a> - 2008-07-01 02:26:01</dt>
+<dd><p>6/28に行われた第34回PHP勉強会に参加してきました。詳細は、maru_ccさんが書かれているので、そちらをご参照下さい。私も、LTでDBセッションについて発表させて頂きましたが、相変わらずグダグダだったり、字が小さくてUstで読めなかったりと、反省すべき点が多々ありま...</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/46" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

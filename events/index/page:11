@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>Event - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<div>
+<h2>Recent Event</h2>
+
+<h3><a href="/events/show/60">第17回高蔵寺SE勉強会</a></h3>
+<p>
+愛知県春日井市高蔵寺で、CakePHPの勉強会を行います。今回は、CakePHPの初心者・入門者向けの勉強会です。PHPがやったことない方でも、興味がある方は歓迎です。詳しい内容はこちらをご覧</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td>2008-11-03 01:00:00</td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-11-16 11:00 〜 15:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-11-13 20:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>20人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/60">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/59">第3回PHP懇親会</a></h3>
+<p>
+8ヶ月ぶりに好評を頂いたPHP懇親会をまた開催します。今回も前回同様、参加者全員によるライトニングトークを自己紹介代わりにおこなってもらいます。発表する内容はPHPに関連する事など</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td>2008-11-02 23:59:00</td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-11-09 15:00 〜 20:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-11-09 14:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>30人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/59">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/58">第2回設計勉強会</a></h3>
+<p>
+第2回設計勉強会を開催します。参加費用無料(懇親会参加希望者は実費)日時: 2008年11月5日(水) 19:00～21:00会場: 株式会社ディノ 9Fセミナールーム(〒150-0002 東京都渋谷区渋谷3-13-11 渋谷TKビル9F)</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td>2008-10-29 19:00:00</td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-11-05 19:00 〜 21:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-11-05 19:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>20人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/58">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/57">CakePHPカンファレンス東京 非公式後夜祭</a></h3>
+<p>
+10/25のCakePHPカンファレンス東京終了後に、近所の旅館に集まる会です。そこで何をするかは参加者の自由。 - ただひたすら朝まで眠る - CakePHPについて夜通し熱く語る - 突発的ライトニングト</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td>2008-10-15 21:00:00</td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-10-25 18:00 〜 10-26 10:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-10-23 17:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>15人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/57">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/56">第二回symfony勉強会</a></h3>
+<p>
+第二回symfony勉強会を開催します。参加費用無料(懇親会参加希望者は実費)日時: 2008年10月29日(水) 19:00～21:00会場：株式会社ディノ 9Fセミナールーム(〒150-0002 東京都渋谷区渋谷3-13-11 渋谷TKビル</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td>2008-10-20 19:00:00</td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-10-29 19:00 〜 21:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-10-29 19:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>21人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/56">このイベントに参加する/詳細を見る</a>
+
+<div class="pager">
+  
+<p id='pagination'>
+<a href="/events/index/page:10">&lt;&lt; previous</a> | 
+<span><a href="/events/index/page:7">7</a></span> | <span><a href="/events/index/page:8">8</a></span> | <span><a href="/events/index/page:9">9</a></span> | <span><a href="/events/index/page:10">10</a></span> | <span class="current">11</span> | <span><a href="/events/index/page:12">12</a></span> | <span><a href="/events/index/page:13">13</a></span> | <span><a href="/events/index/page:14">14</a></span> | <span><a href="/events/index/page:15">15</a></span> | <a href="/events/index/page:12" rel="next">next &gt;&gt;</a> 
+</p>
+
+</div>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

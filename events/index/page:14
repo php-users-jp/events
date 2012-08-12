@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>Event - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<div>
+<h2>Recent Event</h2>
+
+<h3><a href="/events/show/44">第1回XOOPSCube勉強会</a></h3>
+<p>
+イベント概要:第1回XOOPSCube勉強会を開催します。第1回XOOPSCube勉強会は「PHPはよくしらなかったり、あまり得意じゃないけどXoopsを使っていろんな事をしてみたい」という人を対象に、技術的</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td>2008-06-27 15:00:00</td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-05-24 14:00 〜 17:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-05-24 13:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>20人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/44">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/43">第33回PHP勉強会</a></h3>
+<p>
+第33回PHP勉強会を開催します。今回のテーマは「モバイル」です。日時2008年05月23日(金)19:30 - 21:30 会場株式会社ノッキングオン&nbsp;&nbsp;&nbsp;&nbsp;ノッキングオンの地図はこちら参加費1000円テ</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td></td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-05-23 19:30 〜 21:30</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-05-23 15:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>30人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/43">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/42">第32回PHP勉強会</a></h3>
+<p>
+第32回PHP勉強会を開催します。日時:2008年04月29日(火)14:00 - 17:00会場:トライコーン株式会社 1F セミナールーム地図参加費用無料（懇親会は希望者は実費募集開始は: 2008年04月18日19時05分くらい</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td></td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-04-29 14:00 〜 17:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-04-29 14:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>36人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/42">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/41">第一回CodeIgniterセミナー</a></h3>
+<p>
+第一回CodeIgniterセミナーを開催します。内容：CodeIgniterで簡単な掲示板アプリを作ります。Codeigniterを使いPHPのコーディングを行うことで開発効率がよくなることを実感していただきます。対</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td></td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-04-20 13:00 〜 17:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-04-20 13:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>0人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/41">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/40">第一回symfony勉強会</a></h3>
+<p>
+イベント概要:第一回symfony勉強会を開催します。募集開始: 2008年3月25日 19:00～日時: 2008年4月11日(金) 18:30～21:00会場: 株式会社ディノ セミナールーム(〒150-0002 東京都渋谷区渋谷3-13-11 渋谷TKビ</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td></td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2008-04-11 18:30 〜 21:01</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2008-04-11 18:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>29人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/40">このイベントに参加する/詳細を見る</a>
+
+<div class="pager">
+  
+<p id='pagination'>
+<a href="/events/index/page:13">&lt;&lt; previous</a> | 
+<span><a href="/events/index/page:10">10</a></span> | <span><a href="/events/index/page:11">11</a></span> | <span><a href="/events/index/page:12">12</a></span> | <span><a href="/events/index/page:13">13</a></span> | <span class="current">14</span> | <span><a href="/events/index/page:15">15</a></span> | <span><a href="/events/index/page:16">16</a></span> | <span><a href="/events/index/page:17">17</a></span> | <span><a href="/events/index/page:18">18</a></span> | <a href="/events/index/page:15" rel="next">next &gt;&gt;</a> 
+</p>
+
+</div>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

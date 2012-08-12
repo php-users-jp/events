@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第二回symfony勉強会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/56">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第二回symfony勉強会</h2>
+<dl>
+<dt>イベント内容</dt><dd>第二回symfony勉強会を開催します。<br />
+<br />
+参加費用無料(懇親会参加希望者は実費)<br />
+<br />
+日時: 2008年10月29日(水) 19:00～21:00<br />
+会場：株式会社ディノ 9Fセミナールーム<br />
+(〒150-0002 東京都渋谷区渋谷3-13-11 渋谷TKビル9F)<br />
+開催者名: 中井 啓紀<br />
+<br />
+<br />
+<object codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,22,0" width="320" height="240"><param name="movie" value="http://slide.alpslab.jp/fslide.swf" /><param name="flashvars" value="pos=35/39/10.181,139/42/34.325&scale=5000&link=base" /><embed src="http://slide.alpslab.jp/fslide.swf" width="320" height="240" type="application/x-shockwave-flash" flashvars="pos=35/39/10.181,139/42/34.325&scale=5000&link=base" /></object><br />
+<br />
+<strong style="color:red;">*参加登録は必ず行ってください</strong></dd>
+<dt>イベント開催時間</dt><dd>2008-10-29 19:00 〜 21:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2008-10-20 19:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2008-10-29 19:00:00</dd>
+</dl>
+</div>
+
+<div>
+<h3> 注意</h3>
+<ul>
+<li> 参加者は会場(9F)へ直接お越しください。</li>
+<li> 20:00を過ぎると、1Fの扉にロックがかかります。扉右手にあるインターフォンから903を呼び出してください。</li>
+</ul>
+
+<h3> 発表内容</h3>
+<h3> はじめに(5分程度)</h3>
+<h4> 挨拶とか注意事項とか</h4>
+<ul>
+<li> 担当</li>
+<ul>
+<li> 月宮紀柳</li>
+</ul>
+</li>
+</ul>
+<h3> 発表</h3>
+<h4> symfony1.2最新動向 - 今後どのバージョンを使うべきか</h4>
+<ul>
+<li> 発表者</li>
+<ul>
+<li> 月宮紀柳</li>
+</ul>
+</li>
+<li> 予定時間</li>
+<ul>
+<li> 19:10-19:35</li>
+</ul>
+</li>
+<li> 概要</li>
+<ul>
+<li> あとで</li>
+</ul>
+</li>
+</ul>
+<h4> Doctrineではじめるsymfony1.2開発</h4>
+<ul>
+<li> 発表者</li>
+<ul>
+<li> katsuhiro</li>
+</ul>
+</li>
+<li> 予定時間</li>
+<ul>
+<li> 19:40-20:05</li>
+</ul>
+</li>
+<li> 概要</li>
+<ul>
+<li> symfony1.2に標準でバンドルされているORMのDoctrineについて紹介します</li>
+</ul>
+</li>
+</ul>
+<h4> symfonyプラグイン活用事例</h4>
+<ul>
+<li> 発表者</li>
+<ul>
+<li> akky</li>
+</ul>
+</li>
+<li> 予定時間</li>
+<ul>
+<li> 20:10-20:35</li>
+</ul>
+</li>
+<li> 概要</li>
+<ul>
+<li> symfonyの豊富なプラグインから1,2個、サイトに簡単に新機能を追加できるものを紹介します</li>
+</ul>
+</li>
+</ul>
+<pre><code></code></pre>
+<h3> LT(5分*3)</h3>
+<p>鋭意募集中です。
+発表したい方はこちらに追記をお願いします。
+発表者が多かったり、5分を超えるような発表は懇親会時にも発表出来るように考えます。</p>
+<ul>
+<li> 発表者</li>
+<ul>
+<li> brtRiver</li>
+</ul>
+</li>
+<li> 概要</li>
+<ul>
+<li> 2行でsymfonyの環境を整える</li>
+</ul>
+</li>
+</ul>
+<h3> 懇親会</h3>
+<ul>
+<li> 概要</li>
+<ul>
+<li> ディノの高性能サーバが稼働予定</li>
+</ul>
+</li>
+<li> 予定時間</li>
+<ul>
+<li> 21:00-22:30くらいまで</li>
+</ul>
+</li>
+</ul></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:21</li>
+<li>現在の参加人数:21</li>
+<li>懇親会参加人数:13</li>
+<li>残り:0</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>Tsukimiya</td>
+    <td>主催者なのでー</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-20 19:00:09</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>Kiske</td>
+    <td>参加！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-20 19:00:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Toc</td>
+    <td>よろしくお願いします！</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-20 19:00:27</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ef</td>
+    <td>是非参加させてくださ～い。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-20 19:01:07</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ogi</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-20 19:01:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sisyou</td>
+    <td>よろしくお願いします～</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-20 19:01:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ジュン</td>
+    <td>参加します～。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-20 19:02:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>doraemondesu</td>
+    <td>宜しくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-20 19:02:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>brtRiver</td>
+    <td>押忍</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-20 19:03:23</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>musaco</td>
+    <td>参加させていただきます</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-20 19:56:23</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ささき-k</td>
+    <td>よろしくお願いしますー</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-20 20:40:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>katsuhiro</td>
+    <td>参加します。発表もします！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-20 20:44:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>MJ</td>
+    <td>よろしくおねがいします。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-20 20:45:32</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>akky</td>
+    <td>本編かLTか、何か発表します。内容はちょっとまって</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-21 00:08:05</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>naoto is</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-21 01:25:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>yukitaka</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-21 03:15:13</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>cocoiti</td>
+    <td>上に駆け上って参加</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-21 08:11:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>alle</td>
+    <td>参加させていただきます～。</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-21 11:40:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tanigami</td>
+    <td>おねがいしまーす</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-21 11:57:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>pen</td>
+    <td>参加させてくださいー</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-21 14:29:04</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>daiikeda</td>
+    <td>参加します。よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2008-10-21 16:11:22</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>たくしゅん</td>
+    <td>最終ゲット。参加します。</td>
+    <td style="text-align:center"></td>
+    <td>2008-10-29 14:15:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; ELF</h4>
+  <p>
+懇親会だけとかできるといいな(何 実際のところまだ未定ですけど  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; Tsukimiya</h4>
+  <p>
+来月、そういう集まりすることも考えております。  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; Tsukimiya</h4>
+  <p>
+発表者も募集中でございます  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; katsuhiro</h4>
+  <p>
+「Doctrineではじめるsymfony1.2開発」というタイトルで発表します。  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; brtRiver</h4>
+  <p>
+LTで何かしゃべります。ネタはこれから考えます。  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; cocoiti</h4>
+  <p>
+諸事情で遅刻します申し訳ありません。  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form412948617" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/56"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form412948617', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/56', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form412948617'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/56', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_56)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/56"
+  trackback:ping="/trackbacks/receive/56"
+  dc:title=""
+  dc:identifier="/events/show/56" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/Kiske/20081029/1225294275">Absolute Playing!</a> - 2008-10-30 00:33:35</dt>
+<dd><p> &amp;#65279;第2回symfony勉強会 感想はまた明日書きます。。今日はメモったところのみ公開します。 ディノさん会場提供ありがとうございました。 はじめに symfony懇親会が11月中旬に開催予定 飲みながらsymfonyについて語る会 symfony1.2最新動向 現状 10/26のリリースは遅れ</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/cos31/20081029/event_symfony2">Affirmative Way</a> - 2008-10-30 01:34:06</dt>
+<dd><p> events.php.gr.jp - 第二回symfony勉強会 今回は会場が自社だったので、後ろでひっそりと参加させてもらいました。 主催の月宮さんお疲れ様でした。 symfony1.2最新動向 - 今後どのバージョンを使うべきか 話した人: id:tsukimiya さん 10/26にsymfony1.2が出る！・・・ハズ</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/56" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

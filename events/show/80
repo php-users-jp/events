@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>Redmine勉強会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/80">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::Redmine勉強会</h2>
+<dl>
+<dt>イベント内容</dt><dd>注目が集まる課題管理システム、Redmineの勉強会を開催します。WEB上の紹介記事では分からない実際の活用事例やノウハウ、利用ポリシーなどについて情報交換を行いましょう！<br />
+<br />
+■テーマ<br />
+「みんなはどう使ってるの？ Redmine」<br />
+<br />
+■参加費用<br />
+無料（別途、懇親会は実費にて行います）<br />
+<br />
+■会場<br />
+トライコーン株式会社<br />
+東京都新宿区大京町24 住友外苑ビル 1F<br />
+http://www.tricorn.co.jp/company.phtml<br />
+※外苑西通りミニストップの隣です<br />
+<br />
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.jp/maps?f=q&amp;source=s_q&amp;hl=ja&amp;geocode=&amp;q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%A4%A7%E4%BA%AC%E7%94%BA24+%E4%BD%8F%E5%8F%8B%E5%A4%96%E8%8B%91%E3%83%93%E3%83%AB&amp;sll=35.685319,139.715941&amp;sspn=0.001281,0.002154&amp;gl=jp&amp;ie=UTF8&amp;cid=1093392927912177894&amp;ll=35.695713,139.720345&amp;spn=0.024397,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.co.jp/maps?f=q&amp;source=embed&amp;hl=ja&amp;geocode=&amp;q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%A4%A7%E4%BA%AC%E7%94%BA24+%E4%BD%8F%E5%8F%8B%E5%A4%96%E8%8B%91%E3%83%93%E3%83%AB&amp;sll=35.685319,139.715941&amp;sspn=0.001281,0.002154&amp;gl=jp&amp;ie=UTF8&amp;cid=1093392927912177894&amp;ll=35.695713,139.720345&amp;spn=0.024397,0.036478&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">大きな地図で見る</a></small><br />
+<br />
+■参加申し込み<br />
+TypeKeyによる認証は動作が不安定なケースがありますので、はてな・mixiからの認証をお勧めします。<br />
+また参加時・参加後のコメントにてRedmineの利用歴やRedmineについて気になる点をお書きください！<br />
+<br />
+■募集開始<br />
+6/4(木) 19:00から募集を開始します<br />
+</dd>
+<dt>イベント開催時間</dt><dd>2009-06-12 19:30 〜 21:30</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2009-06-04 19:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2009-06-12 20:00:00</dd>
+</dl>
+</div>
+
+<div>
+<h3> USTREAM による中継を予定しています</h3>
+<p><a href="http://www.ustream.tv/channel/redmine">http://www.ustream.tv/channel/redmine</a></p>
+
+<h3> 懇親会</h3>
+<p>天福飯店
+<a href="http://www.hotpepper.jp/A_20100/strJ000033996.html">http://www.hotpepper.jp/A_20100/strJ000033996.html</a></p>
+
+<p>※席には余裕がありますので当日の参加も歓迎です</p>
+
+<h3> 参加者向け注意事項</h3>
+<ul>
+<li> 会場内は若干の電源があります</li>
+<li> 運営のレポートなどで写真を撮影する場合があります</li>
+<li> 帰ってブログを書き、トラックバックを打つまでが勉強会です</li>
+<li> Redmineをあまり知らない場合、利用した事がない場合は下記のWEBページなどでの予習をおすすめします</li>
+<ul>
+<li> <a href="http://www.slideshare.net/yandod/20090323-phpstudy">http://www.slideshare.net/yandod/20090323-phpstudy</a></li>
+<li> <a href="http://www.slideshare.net/akipii.oga/redmine-presentation-846109">http://www.slideshare.net/akipii.oga/redmine-presentation-846109</a></li>
+<li> <a href="http://jibun.atmarkit.co.jp/lskill01/rensai/tool10/03/01.html">http://jibun.atmarkit.co.jp/lskill01/rensai/tool10/03/01.html</a></li>
+</ul>
+</li>
+</ul>
+
+<h3> 発表者向け注意事項</h3>
+<ul>
+<li> 発表者の方は外部接続のテストを事前にお願いします</li>
+<li> 会場でのプロジェクタ接続はDSUB15のアナログです。</li>
+<li> 発表資料内のテキストは最低でも20ポイント程度でお願いします</li>
+</ul>
+
+<h3> スケジュール</h3>
+<h4> オープニング (19:30 - 19:40)</h4>
+<ul>
+<li> 会場を提供してくださったトライコーン様へのお礼</li>
+</ul>
+
+<h4> 発表枠 (20分 + 質疑応答5分 枠)</h4>
+
+<p>※各発表内容は仮のものです、直前まで変更の可能性があります。</p>
+
+<h5> 「実践Redmine カテゴリ設計にご用心」id:yandod (19:40 - 19:55)</h5>
+
+<p>現在進行形で悩んでいるチケットの分類について話します</p>
+
+<ul>
+<li> アジェンダ</li>
+<ul>
+<li> Redmineの基本機能のおさらい</li>
+<li> 利用の際に十分に考慮すべき分類と失敗事例</li>
+<li> RedmineのPHP移植版であるcandycaneの紹介</li>
+</ul>
+</li>
+</ul>
+
+<h5> 「タイトル未定」id:kirara397 (19:55 - 20:20)</h5>
+
+<ul>
+<li>アジェンダ</li>
+<ul>
+<li> 実際にどういった形で活用しているか</li>
+<li> 運用時のトラブルになるポイント</li>
+<li> 工夫してみてうまくいったポイント</li>
+</ul>
+</li>
+</ul>
+
+<h5> 「タイトル未定」id:tsuyoshikawa (20:20 - 20:45)</h5>
+
+<ul>
+<li>アジェンダ</li>
+<ul>
+<li>導入時の苦労</li>
+<li>段々定着していった観測</li>
+<li>どの機能を使ったか</li>
+</ul>
+</li>
+</ul>
+
+<h5> 「完璧なRedmineなど存在しない」id:juno (20:45 - 21:10)</h5>
+
+<ul>
+<li> アジェンダ</li>
+<ul>
+<li>  なぜTracをやめたか</li>
+<li>  移行にあたってやったこと</li>
+<li>  Textile記法ないわー</li>
+<li>  CSVで一括インポート</li>
+<li>  楽しく利用してもらうための細工</li>
+<li>  パッチのプラグイン化</li>
+</ul>
+</li>
+</ul>
+
+<h4> クロージング</h4>
+<ul>
+<li> LT 「CSVユーザー一括登録プラグインを作ってみた」id:shrkw</li>
+</ul>
+<p><a href="http://www.slideshare.net/shrkw/redmine-csv">http://www.slideshare.net/shrkw/redmine-csv</a></p>
+
+<ul>
+<li> アンケートのお願い</li>
+</ul>
+
+<h4> 懇親会 (21:30 -)</h4>
+<ul>
+<li> 近隣の飲食店に移動</li>
+<ul>
+<li> <a href="http://www.hotpepper.jp/A_20100/strJ000033996.html">http://www.hotpepper.jp/A_20100/strJ000033996.html</a></li>
+</ul>
+</li>
+</ul></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:35</li>
+<li>現在の参加人数:33</li>
+<li>懇親会参加人数:22</li>
+<li>残り:2</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>yandod</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-02 08:14:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>すずき</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-03 07:41:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kirara_397</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2009-06-03 09:57:17</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>juno</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-03 11:20:11</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tsuyoshikawa</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2009-06-03 18:18:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sanemat</td>
+    <td>よろしくおねがいします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-04 19:00:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>u-ichi</td>
+    <td>よろしくー</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-04 19:01:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>みねち</td>
+    <td>参加希望です。よろしくお願いいたします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-04 19:01:06</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>nog</td>
+    <td>よろしくおねがいします！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-04 19:01:49</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>g_maeda</td>
+    <td>はじめまして。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-04 19:18:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>muraoka17</td>
+    <td>参加希望です。1年半ほど利用者として使いつつ、モンキーパッチしたりしてます</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-04 19:22:34</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>たつさん</td>
+    <td>参加希望です。最近redmineを使い始めました。よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-04 19:27:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>moritan</td>
+    <td>よろしくおねがいします〜〜</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-04 19:57:30</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>shrkw</td>
+    <td>Tracは3年くらい。Redmineは昨日から使い始めました</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-04 20:38:32</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>yoshi-ken</td>
+    <td>社内でBTSを使い始めてまだ半年なので、色々と吸収したいです！</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-04 22:43:27</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>masa</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-04 23:01:42</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tetsunosuke</td>
+    <td>社内のサポートチームで利用し始めました。つかえそうなノウハウを知りたいです</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-04 23:45:23</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>msakamoto-sf</td>
+    <td>Redmineのノウハウを知りたいです。よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-05 00:02:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>けんけん</td>
+    <td>社内向けに導入検討中。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-05 00:20:26</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ELF</td>
+    <td>キタコレ</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-05 01:44:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>nekoget</td>
+    <td>現在Tracを使ってます。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-05 11:17:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>yohei</td>
+    <td>参加希望です。運用方法についてのノウハウをお聞きしたいです。</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-05 12:49:54</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Siya</td>
+    <td>よろしくお願いします！</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-05 14:23:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>taka0024</td>
+    <td>宜しくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-05 15:29:05</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>masato</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-05 15:29:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>kkkw</td>
+    <td>初参加です。redmineは最近使い始めました。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-05 17:16:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>グニャラくん</td>
+    <td>4649</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-05 17:45:48</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>西小倉＠マインディア</td>
+    <td>redmine中毒です</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-05 19:36:37</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>mutty</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-05 21:08:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>masayuki</td>
+    <td>1ヶ月ほど社内で使い始めました。楽しみにしてます！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-05 23:24:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>fumi</td>
+    <td>よろしくお願いします</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-06 00:09:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>oinume</td>
+    <td>影舞を長らく使用していましたが、Redmineに乗り換えようと思っています。よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-06 09:39:31</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>ぜっきー</td>
+    <td>メールとの連携が知りたい</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-06 15:23:57</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>edy</td>
+    <td>是非とも</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-07 00:58:49</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hidecheck</td>
+    <td>参加します</td>
+    <td style="text-align:center"></td>
+    <td>2009-06-07 01:55:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>youhei</td>
+    <td>会社で Redmine の管理してます。社内布教するアイデアが欲しい感じです。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-08 19:43:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>かおるん</td>
+    <td></td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-09 12:37:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>あまるてあ</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2009-06-09 13:53:12</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kaz_29</td>
+    <td>すべりこみー</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-12 11:25:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>matsuu</td>
+    <td>参加します！</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-12 13:21:17</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>うげ</td>
+    <td>よろしくおねがいします</td>
+    <td style="text-align:center">○</td>
+    <td>2009-06-12 18:48:53</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; yandod</h4>
+  <p>
+運営者の方はコメントしてもらえれば管理者側で参加者に追加します  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; yandod</h4>
+  <p>
+発表者の方もコメントをお願いいします。  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; すずき</h4>
+  <p>
+運営者側で参加します！ Redmineはタスク管理ツール的な使い方してます  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; kirara_397</h4>
+  <p>
+発表者として参加します。  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; juno</h4>
+  <p>
+sooey.comの者です。発表させていただきますです。  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; tsuyoshikawa</h4>
+  <p>
+発表者として参加します。宜しくお願いします。  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; sabonya</h4>
+  <p>
+うーん、やはり関東参戦なかなか難しい。可能ならオンライン参加希望。  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; yandod</h4>
+  <p>
+懇親会は中華食べ放題になる可能性が大きいです  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; かおるん</h4>
+  <p>
+空きがあれば参加させていただきたいです  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; yandod</h4>
+  <p>
+対応しました  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; あまるてあ</h4>
+  <p>
+出席したかったのですが、出遅れました。できれば、当日の内容を後日紹介して頂けますと幸いです。  </p>
+</div>
+<div class="section">
+<h4>
+11 &nbsp; かおるん</h4>
+  <p>
+ありがとうございます  </p>
+</div>
+<div class="section">
+<h4>
+12 &nbsp; yandod</h4>
+  <p>
+当日になってキャンセルされる方が出るケースもありますので、まだ猶予があるかと思います。参加されるなら参加者に加えますよ＞あまるてあさん  </p>
+</div>
+<div class="section">
+<h4>
+13 &nbsp; あまるてあ</h4>
+  <p>
+ありがとうございます。参加します！！よろしくお願いします！！  </p>
+</div>
+<div class="section">
+<h4>
+14 &nbsp; yandod</h4>
+  <p>
+対応しました  </p>
+</div>
+<div class="section">
+<h4>
+15 &nbsp; あまるてあ</h4>
+  <p>
+ありがとうございます！！  </p>
+</div>
+<div class="section">
+<h4>
+16 &nbsp; shrkw</h4>
+  <p>
+プラグインを書いたので、LT枠があれば喋りたいです。  </p>
+</div>
+<div class="section">
+<h4>
+17 &nbsp; yandod</h4>
+  <p>
+枠を作ります　shrkwさん  </p>
+</div>
+<div class="section">
+<h4>
+18 &nbsp; taka0024</h4>
+  <p>
+すいません。仕事のスケジュールで当日キャンセルとなってしまいました。  </p>
+</div>
+<div class="section">
+<h4>
+19 &nbsp; shrkw</h4>
+  <p>
+ありがとうございます。準備しておきます。  </p>
+</div>
+<div class="section">
+<h4>
+20 &nbsp; matsuu</h4>
+  <p>
+あーいきたかった！  </p>
+</div>
+<div class="section">
+<h4>
+21 &nbsp; fumi</h4>
+  <p>
+出席したかったのですがすみません  </p>
+</div>
+<div class="section">
+<h4>
+22 &nbsp; yandod</h4>
+  <p>
+発表者の方はwikiを編集してタイトルを埋めて頂けると助かります  </p>
+</div>
+<div class="section">
+<h4>
+23 &nbsp; けんけん</h4>
+  <p>
+すみません、急遽熱が上がったので、参加見合わせます。  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form1943296369" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/80"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form1943296369', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/80', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form1943296369'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/80', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_80)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/80"
+  trackback:ping="/trackbacks/receive/80"
+  dc:title=""
+  dc:identifier="/events/show/80" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/yandod/20090602/1243958055">yandodの日記</a> - 2009-06-03 00:54:18</dt>
+<dd><p> events.php.gr.jp - Redmine勉強会 来週の金曜日に開催するRedmine勉強会の発表者の方と連絡が着きました。 発表タイトルなどはこれから調整になりますが、皆さんある程度固まっているようですので順次出てくると思います。 発表者の方々は下記の通りです。 id:kirara397 id</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yandod/20090611/1244679044">yandodの日記</a> - 2009-06-11 09:10:57</dt>
+<dd><p> events.php.gr.jp - Redmine勉強会 やや忙しかったので更新が途絶えました。 Redmine勉強会は明日です。 懇親会は中華料理の食べ飲み放題で3000円弱です。 ご参加される方はよろしくお願いいたします。 またキャンセル枠への当日応募も歓迎しております。 </p></dd>
+<dt>
+<a href="http://pneskin2.nekoget.com/press/?p=256">ねこげっとぷれす</a> - 2009-06-12 14:40:13</dt>
+<dd><p>今日はRedmine勉強会が開催されます。<br />
+私は普段、Subversion+Tracという環境で開発だったり、コーディングだったりデザインだったりをしてますが、最近はgit+Redmineなんて環境で環境を作って...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/kaorun55/20090611/1244692368">かおるんダイアリー</a> - 2009-06-12 17:11:24</dt>
+<dd><p> 明日の Redmine 勉強会に出席できることになったので、Redmine ネタで（笑） 以前に作った ExcelRedmineAddIn のブコメ（？）で、Redmine へチケットを登録するより、Redmine からチケットを取得できたほうがウケるんじゃない？というコメントがあったのでやり方を模索して</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/kaorun55/20090612/1244809235">かおるんダイアリー</a> - 2009-06-13 00:50:54</dt>
+<dd><p> events.php.gr.jp - Redmine勉強会 Redmine 勉強会に滑り込みで参加しました＾＾ みんな業務で Redmine を使ってる人ばかりで Trac 使いの私は異教徒といったところか(笑) candycane の安藤さんや、入門 Redmine の前田さんにお会いできてとても有意義だった＾＾ 発表もかな</p></dd>
+<dt>
+<a href="http://www.daifukuya.com/photoxp/archives/redmine.html">PhotoXP</a> - 2009-06-13 01:45:53</dt>
+<dd><p>金曜夜にRedmine勉強会に参加してきました。以下メモ。PHP版Redmine...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yandod/20090612/1244824497">yandodの日記</a> - 2009-06-13 01:59:06</dt>
+<dd><p> events.php.gr.jp - Redmine勉強会 思い立って企画し、ゆるく実施までこぎつけたRedmine勉強会ですが、とても盛り上がる面白いべ勉強会になりました。 通常よりも準備にかかわる人間が少なかったので、分かっていてやってしまったポカもあるのですが、おそらく参加して頂い</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/minechi_n/20090612/1244829149">みねちんにっき</a> - 2009-06-13 02:53:55</dt>
+<dd><p> とても楽しみにしていたのに体調が悪くてどうしようかとも思ったのですが、何とか頑張ってRedmine勉強会に行ってきましたのでご報告です。 結果として、とても興味深く、勉強になるお話がたくさん聞けたので、頑張った甲斐がありました＞＜ つーか、……うわー、知らなさす</p></dd>
+<dt>
+<a href="http://pneskin2.nekoget.com/press/?p=262">ねこげっとぷれす</a> - 2009-06-13 03:18:24</dt>
+<dd><p><br />
+Redmine勉強会に参加をしてきました。<br />
+実際に運用をしている話、運用をはじめるために行った事等、具体的な話が多く、大変興味深い話が多かったです。<br />
+プラグインの紹介、プラグイン...</p></dd>
+<dt>
+<a href="http://www.sooey.com/journal/2009/06/13/1126/">Sooey</a> - 2009-06-13 03:37:27</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではあ...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/kaz_29/20090613/1244861893">kaz_29@はてな</a> - 2009-06-13 11:59:17</dt>
+<dd><p> たまたま当日、eventsを見たらキャンセルがあったので滑り込みで参加しました。 http://events.php.gr.jp/events/show/80 以下メモ 実践Redmine カテゴリ設計にご用心 - yandod チケットの分類命 分類方法がたくさんある 分類のレベルで機能の振る舞いが異なる 作業とチケッ</p></dd>
+<dt>
+<a href="http://suzuki.tdiary.net/20090612.html#p01">雑文発散</a> - 2009-06-14 12:12:11</dt>
+<dd><p>Redmine勉強会に ust 担当として参加した。<br />
+<br />
+</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/kirara_397/20090614/1244953856">謀</a> - 2009-06-14 13:36:17</dt>
+<dd><p> 2009年6月12日夜、Redmine勉強会に行ってきました。今回は登壇者です！ドキドキです。でもtsudaれるところはtsudaってやる！ …と思ってましたが、会場の電波状況が思わしくなく、不完全な結果に…期待してた方ごめんなさい＞＜ #RedmineStudy - Twitter Search その代わり</p></dd>
+<dt>
+<a href="http://sane.justblog.jp/blog/2009/06/redmine-5fb7.html">實松アウトプット</a> - 2009-06-15 02:29:46</dt>
+<dd><p>楽しく開発するのにredmineを使おう。Redmine勉強会に参加してきました。</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/kashisan/20090615/1245038625">かたるほどでもない技術系ブログ</a> - 2009-06-15 13:08:27</dt>
+<dd><p> redmine勉強会に参加してきました。 会場を提供してくれたトライコーン株式会社ありがとうございます。 実は、自分の会社から１０分ぐらいというご近所さん。今回はとっても楽でしたー 不謹慎にも、次回のredmine勉強会もトライコーンさんで・・・なんて期待をしてしまいま</p></dd>
+<dt>
+<a href="http://www.sooey.com/journal/2009/06/13/1126/">Sooey</a> - 2009-06-17 02:03:44</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではあ...</p></dd>
+<dt>
+<a href="http://www.sooey.com/journal/2009/06/13/1126/">Sooey</a> - 2009-06-17 02:08:20</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではあ...</p></dd>
+<dt>
+<a href="http://www.sooey.com/journal/2009/06/13/1126/">Sooey</a> - 2009-06-28 23:24:01</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではあ...</p></dd>
+<dt>
+<a href="http://www.sooey.com/journal/2009/06/13/1126/">Sooey</a> - 2009-06-28 23:25:35</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではあ...</p></dd>
+<dt>
+<a href="http://www.sooey.com/journal/2009/06/13/1126/">Sooey</a> - 2009-06-28 23:26:08</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではあ...</p></dd>
+<dt>
+<a href="http://www.sooey.com/journal/2009/06/13/1126/">Sooey</a> - 2009-06-28 23:27:09</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではあ...</p></dd>
+<dt>
+<a href="http://www.sooey.com/journal/2009/06/13/1126/">Sooey</a> - 2009-07-03 11:16:46</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではあ...</p></dd>
+<dt>
+<a href="http://old-journal.sooey.com/2009/06/13/1126/">Sooey</a> - 2009-10-27 23:42:22</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではありますが、ホッテントリメーカーさまさまです。<br />
+<br />
+There are No Perfect RedmineView more Microsoft Word documents from juno.<br />
+<br />
+ある程度の規模のRedmineユーザの集まりとしては、わりと本邦初なものだったと思うのですが、Redmine.JPの中...</p></dd>
+<dt>
+<a href="http://old-journal.sooey.com/2009/06/13/1126/">Sooey</a> - 2009-10-28 10:45:46</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではありますが、ホッテントリメーカーさまさまです。<br />
+<br />
+There are No Perfect RedmineView more Microsoft Word documents from juno.<br />
+<br />
+ある程度の規模のRedmineユーザの集まりとしては、わりと本邦初なものだったと思うのですが、Redmine.JPの中...</p></dd>
+<dt>
+<a href="http://old-journal.sooey.com/2009/06/13/1126/">Sooey</a> - 2009-10-28 10:47:04</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではありますが、ホッテントリメーカーさまさまです。<br />
+<br />
+There are No Perfect RedmineView more Microsoft Word documents from juno.<br />
+<br />
+ある程度の規模のRedmineユーザの集まりとしては、わりと本邦初なものだったと思うのですが、Redmine.JPの中...</p></dd>
+<dt>
+<a href="http://old-journal.sooey.com/2009/06/13/1126/">Sooey</a> - 2009-10-28 10:50:19</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではありますが、ホッテントリメーカーさまさまです。<br />
+<br />
+There are No Perfect RedmineView more Microsoft Word documents from juno.<br />
+<br />
+ある程度の規模のRedmineユーザの集まりとしては、わりと本邦初なものだったと思うのですが、Redmine.JPの中...</p></dd>
+<dt>
+<a href="http://old-journal.sooey.com/2009/06/13/1126/">Sooey</a> - 2009-12-04 17:44:12</dt>
+<dd><p>12日にトライコーン株式会社さんに場所をお借りして開催されたRedmine勉強会にて、「完璧なRedmineなど存在しない」というタイトルで発表してきました。なにやら大げさなタイトルではありますが、ホッテントリメーカーさまさまです。<br />
+<br />
+There are No Perfect RedmineView more Microsoft Word documents from juno.<br />
+<br />
+ある程度の規模のRedmineユーザの集まりとしては、わりと本邦初なものだったと思うのですが、Redmine.JPの中...</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/80" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

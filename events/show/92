@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>CakePHPWorkshop関西 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/92">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::CakePHPWorkshop関西</h2>
+<dl>
+<dt>イベント内容</dt><dd>CakePHPWorkshop関西を開催します<br />
+<br />
+日時: 3月13日土曜日 9:00～17:00<br />
+場所: SOHO LINK 長堀 A会議室<br />
+<a href="http://www.soho-link.com/accessmap/">http://www.soho-link.com/accessmap/<br />
+</a><br />
+募集人数: 25名<br />
+対象: これからCakePHPを始めてみようという方、また始めて間もない方<br />
+参加費用: 1000円（会場費＋お弁当＋お茶、ミネラルウォーター）<br />
+懇親会: 近くの居酒屋にて 17:00～ 3000円程度<br />
+<br />
+事前準備<br />
+Apache+PHP+MySQLの環境を構築してください。<br />
+必要バージョン<br />
+Apache2 以降<br />
+PHP5.2 以降<br />
+MySQL5 以降<br />
+＜参考＞<br />
+CakePHP 初期導入 - PHP 初心者勉強会 | Google グループ<br />
+http://groups.google.co.jp/group/php-beginner/web/cakephp?hl=ja&pli=1<br />
+<br />
+内容（若干の変更の可能性有り）:<br />
+・CakePHPを動かしてみよう！（環境確認）<br />
+・ブログチュートリアルのトレース<br />
+・Validation<br />
+・Pluginを使ってみよう その1 (DebugKit)<br />
+・BakeAllで一発！<br />
+・アソシエーションとは<br />
+    - belongsTo<br />
+    - hasMany<br />
+    - hasAndBelongsToMany<br />
+・AuthComponentを使ってみよう<br />
+・Shellを使ってDBへインポート<br />
+・フォームからの絞り込み検索<br />
+・Pluginを使ってみよう その2 (Media)<br />
+<br />
+<br />
+開催者名: 原田 康生 (slywalker)<br />
+連絡先メールアドレス: slywalker.net@gmail.com<br />
+</dd>
+<dt>イベント開催時間</dt><dd>2010-03-13 09:00 〜 17:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2010-03-01 14:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2010-03-10 15:00:00</dd>
+</dl>
+</div>
+
+<div>
+<h4>キャンセル待ちについて</h4>
+<p>締切後のキャンセル待ちは、コメント欄にキャンセル待ちの旨記載して発言してください。
+キャンセル発生後、権利獲得時には通知されませんので、このページをチェックください。
+（一応Twitter等では登録IDで発言させてもらいます。）</p>
+
+<h4>Ustream中継</h4>
+<p><a href="http://www.ustream.tv/channel/cakephpstudy">http://www.ustream.tv/channel/cakephpstudy</a></p>
+
+<h4>Twitterハッシュタグ</h4>
+<p><a href="http://twitter.com/#search?q=%23cpwk">#cpwk</a></p>
+<h4>予習と本番用wiki</h4>
+<p><a href="http://wiki.github.com/slywalker/CakePHPWorkshopKansai/">GitHub - slywalker/CakePHPWorkshopKansai</a></p>
+
+<p>内容は当日に向けて随時更新されます。</p>
+<h4>注意事項</h4>
+<ul>
+<li>ノートPCを必ずお持ちになってください。</li>
+<li>PCのご用意はしておりません。</li>
+<li>事前に、Apache+PHP+MySQLの環境を構築してください。</li>
+<li>今回は、PHPを使用した開発経験（初心者歓迎）のある方を対象としております。</li>
+</ul>
+<h4>電源・通信関連</h4>
+<ul>
+<li>電源用マルチタップコンセント持参大歓迎です！</li>
+<li>無線LANはご用意できます。</li>
+<li>有線での接続をご希望の方は、ハブまでのケーブルをご持参ください。</li>
+</ul></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:25</li>
+<li>現在の参加人数:25</li>
+<li>懇親会参加人数:21</li>
+<li>残り:0</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>slywalker</td>
+    <td>一番乗り？</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-01 14:00:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>nishimura</td>
+    <td>勉強させていただきます</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-01 14:00:32</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>nano_eight</td>
+    <td>参加します！よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-01 14:04:21</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>H_O_0221</td>
+    <td>参加させて頂きます</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-01 14:04:56</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>tbsmcd</td>
+    <td>参加します</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-01 14:10:45</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>shin1x1</td>
+    <td>お手伝いー</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-01 14:21:58</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>msng</td>
+    <td>おてつだいー</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-01 14:33:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>shimizoo</td>
+    <td>参加します。bakeして「ふむ…」までしかやってないレベルです。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-01 18:54:08</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>YaibaYamana</td>
+    <td>参加します！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-01 21:44:10</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sinner</td>
+    <td>参加します。よろしくです。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-02 12:41:19</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Mackstar</td>
+    <td>参加します、よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-02 13:14:57</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>tanakahisateru</td>
+    <td>参加したいです</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-02 19:30:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kayoko</td>
+    <td>参加させてもらいます！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-02 22:55:48</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>sand</td>
+    <td>参加させて頂きます。よろしくお願い致します</td>
+    <td style="text-align:center"></td>
+    <td>2010-03-03 09:04:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>nakayan</td>
+    <td>参加させてもらいます！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-03 12:43:36</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>ktsujinaka</td>
+    <td>参加します。宜しくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-03 19:59:15</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>mmoo</td>
+    <td>参加させてください！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-04 00:41:43</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>matsumo64</td>
+    <td>参加させていただきます。よろしくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-03-04 09:17:18</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>d-nkt</td>
+    <td>参加します！よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-04 19:43:21</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>fukut</td>
+    <td>参加させてもらいます。よろしくお願いします！</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-04 19:44:03</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>kamiyam</td>
+    <td>よろしくお願いします。</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-04 22:43:14</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>PEPOTA</td>
+    <td>参加いたします。よろしくお願いします！開発系のイベントに初参加・・・</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-05 22:03:33</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>thin-system</td>
+    <td>勉強させてください。宜しくお願いします。</td>
+    <td style="text-align:center"></td>
+    <td>2010-03-06 07:00:35</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>kacchi0516</td>
+    <td>参加させていただきます！PHP初心者ですが・・・</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-08 11:23:16</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>hirofratica</td>
+    <td>参加させていただきますー。よろしくお願いします！</td>
+    <td style="text-align:center"></td>
+    <td>2010-03-08 13:13:20</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>matsuoshi</td>
+    <td>参加希望です、よろしくお願いします</td>
+    <td style="text-align:center">○</td>
+    <td>2010-03-09 23:10:49</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; slywalker</h4>
+  <p>
+よろしくお願いします！  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; decoy</h4>
+  <p>
+行きたいんですがOSCとかぶって行けねぇ～ → http://www.ospn.jp/osc2010-kobe/  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; YaibaYamana</h4>
+  <p>
+仕事の都合で参加できなくなりました。すいません。  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; kamiyam</h4>
+  <p>
+よろしくおねがいします。LANは有線ですー （ケーブル持参）  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; slywalker</h4>
+  <p>
+キャンセル待ち希望の方はこちらに「キャンセル待ち希望」とコメントください  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form261785629" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/92"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form261785629', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/92', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form261785629'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/92', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_92)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/92"
+  trackback:ping="/trackbacks/receive/92"
+  dc:title=""
+  dc:identifier="/events/show/92" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://labo.shimi-zoo.com/post/48">しみ備忘録</a> - 2010-03-14 09:09:13</dt>
+<dd><p>と、いうわけで。 3月13日に開催されたCakePHP関西workshopに参加してきました。 CakePHPの初歩（インストールとか）からプラグイン実装とかまでを実際にコーディングしながらやっていこうという感じです。 「こいつはっ！」と、勇んで参加してきました（・∀・） workshopでは、MySQLのパスワード忘れてたり、MAMP環境だとCakeのdb設定でportにsocketを指定しないとbakeがエラーになるとかで午前中はほとんど追えずに格闘してました。。。 ちなみにMAMPでbake時...</p></dd>
+<dt>
+<a href="http://labo.shimi-zoo.com/post/48">しみ備忘録</a> - 2010-03-14 09:10:45</dt>
+<dd><p>と、いうわけで。 3月13日に開催されたCakePHP関西workshopに参加してきました。 CakePHPの初歩（インストールとか）からプラグイン実装とかまでを実際にコーディングしながらやっていこうという感じです。 「こいつはっ！」と、勇んで参加してきました（・∀・） workshopでは、MySQLのパスワード忘れてたり、MAMP環境だとCakeのdb設定でportにsocketを指定しないとbakeがエラーになるとかで午前中はほとんど追えずに格闘してました。。。 ちなみにMAMPでbake時...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/slywalker/20100315/1268617377">忍び歩く男 - SLYWALKER</a> - 2010-03-15 10:44:03</dt>
+<dd><p> CakePHPWorkshop関西 - events.php.gr.jp 3月13日開催のCakePHPWorkshop関西を無事終えることができました。 感想ブログなど、はてブタグ[cpwk]でこちら タグ「cpwk」を含む新着エントリー - はてなブックマーク に集めたいと思いますのでよろしくお願いします！ Workshop中</p></dd>
+<dt>
+<a href="http://labo.shimi-zoo.com/post/48">しみ備忘録</a> - 2010-03-18 20:05:22</dt>
+<dd><p>と、いうわけで。 3月13日に開催されたCakePHP関西workshopに参加してきました。 CakePHPの初歩（インストールとか）からプラグイン実装とかまでを実際にコーディングしながらやっていこうという感じです。 「こいつはっ！」と、勇んで参加してきました（・∀・） workshopでは、MySQLのパスワード忘れてたり、MAMP環境だとCakeのdb設定でportにsocketを指定しないとbakeがエラーになるとかで午前中はほとんど追えずに格闘してました。。。 ちなみにMAMPでbake時...</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/92" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

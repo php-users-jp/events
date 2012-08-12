@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>Event - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<div>
+<h2>Recent Event</h2>
+
+<h3><a href="/events/show/105">第1回 CodeIgniter 東京勉強会</a></h3>
+<p>
+Webアプリケーションフレームワークの「CodeIgniter」の勉強会です。プレゼンテーションを中心に構成します。現在、参加者はもちろん、プレゼンテーションについても募集中です。開催者名: </p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td>2011-04-23 00:00:00</td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2011-05-14 13:00 〜 17:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2011-05-06 23:59:59</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>60人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/105">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/104">第5回 symfony1.4勉強会</a></h3>
+<p>
+■イベント内容symfonyユーザー会が話し手となりＬＴだらけの会を予定しています。自分として用意できるものは・sfForm攻略・seleniumを使った自動テストの実装・functionalテストの実装・レンタ</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td>2011-04-18 17:00:00</td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2011-05-08 18:00 〜 20:30</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2011-05-02 23:59:59</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>15人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/104">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/103">PHPカンファレンス関西</a></h3>
+<p>
+「PHPカンファレンス」を関西で！関西初のPHP大型イベントです。詳細、参加登録はウェブサイトをご覧ください。PHPカンファレンス関西代表メールアドレス:phpcon.kansai@gmail.com</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td>2011-02-07 21:00:00</td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2011-04-02 10:30 〜 16:40</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td></td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>0人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/103">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/102">第55回PHP勉強会@関東</a></h3>
+<p>
+約半年ぶりとなるPHP勉強会@関東を2/10(木)に開催します。今回は、30名（開催者・会場責任者を除く）の募集となりますが、宜しければご参加下さい。勉強会終了後には参加者同士で交流を深</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td>2011-01-26 14:00:00</td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2011-02-10 19:50 〜 21:30</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2011-02-10 19:50:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>32人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/102">このイベントに参加する/詳細を見る</a>
+
+<h3><a href="/events/show/101">PHPカンファレンス2010</a></h3>
+<p>
+☆このサイトでは、情報の告知のみ行っています。詳しくはウェブサイトをご覧ください。PHPカンファレンス2010</p>
+
+<table>
+<tr>
+  <th>募集開始</th>
+  <td>2010-09-14 10:00:00</td>
+</tr>
+<tr>
+  <th>イベント開催時間</th>
+  <td>2010-09-24 10:00 〜 09-25 21:00</td>
+</tr>
+<tr>
+  <th>イベント申し込み締め切り時間</th>
+  <td>2010-09-25 21:00:00</td>
+</tr>
+<tr>
+  <th>募集人数</th>
+  <td>0人</td>
+</tr>
+</table>
+
+<p><a href="/events/show/101">このイベントに参加する/詳細を見る</a>
+
+<div class="pager">
+  
+<p id='pagination'>
+<a href="/events/index/page:1">&lt;&lt; previous</a> | 
+<span><a href="/events/index/page:1">1</a></span> | <span class="current">2</span> | <span><a href="/events/index/page:3">3</a></span> | <span><a href="/events/index/page:4">4</a></span> | <span><a href="/events/index/page:5">5</a></span> | <span><a href="/events/index/page:6">6</a></span> | <span><a href="/events/index/page:7">7</a></span> | <span><a href="/events/index/page:8">8</a></span> | <span><a href="/events/index/page:9">9</a></span> | <a href="/events/index/page:3" rel="next">next &gt;&gt;</a> 
+</p>
+
+</div>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

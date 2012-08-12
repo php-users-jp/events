@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>CakePHP開発合宿アルファ版 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/74">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::CakePHP開発合宿アルファ版</h2>
+<dl>
+<dt>イベント内容</dt><dd>CakePHP開発合宿を行います！<br />
+今回はすでに参加者などは確定していますが、レポートやトラックバックを集約する場所としてこのエントリを利用できればと思います。<br />
+<br />
+適宜、進行状況などのレポートができればと思います！</dd>
+<dt>イベント開催時間</dt><dd>2009-04-10 14:00 〜 04-12 12:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2009-04-10 14:00:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2009-04-10 14:00:00</dd>
+</dl>
+</div>
+
+<div>
+<ul>
+<li>4/10(金)</li>
+<ul>
+<li>14:00 ～ 15:00 チェックイン・設営</li>
+<li>15:00 ～ 18:00 Hack 1</li>
+<li>18:00 ～ 20:00 報告会・夕食・休憩</li>
+<li>20:00 ～ 23:00 Hack 2</li>
+<li>23:00 ～ 26:00 UnOfficial Hack 2.5</li>
+</ul>
+</li>
+<li>4/11(土)</li>
+<ul>
+<li>07:00 ～ 09:00 起床・朝食・集合</li>
+<li>09:00 ～ 12:00 Hack 3</li>
+<li>12:00 ～ 13:00 昼食</li>
+<li>15:00 ～ 18:00 Hack 4</li>
+<li>18:00 ～ 20:00 報告会・夕食・休憩</li>
+<li>20:00 ～ 23:00 Hack 5</li>
+<li>23:00 ～ 26:00 UnOfficial Hack 5.5</li>
+</ul>
+</li>
+<li>4/12(日)</li>
+<ul>
+<li>07:00 ～ 09:00 起床・朝食・集合</li>
+<li>09:00 ～ 12:00 Hack 6</li>
+<li>12:00 ～ 解散</li>
+</ul>
+</li>
+</ul></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:0</li>
+<li>現在の参加人数:1</li>
+<li>懇親会参加人数:0</li>
+<li>残り:-1</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>yando</td>
+    <td></td>
+    <td style="text-align:center"></td>
+    <td>2009-04-10 14:12:38</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; yando</h4>
+  <p>
+発起人  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form1717299540" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/74"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form1717299540', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/74', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form1717299540'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/74', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_74)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/74"
+  trackback:ping="/trackbacks/receive/74"
+  dc:title=""
+  dc:identifier="/events/show/74" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/yandod/20090410/1239343256">yandodの日記</a> - 2009-04-10 15:02:14</dt>
+<dd><p> events.php.gr.jp - CakePHP開発合宿アルファ版 無事、宿にも到着し環境が整ってきました。 過酷なスケジュールの中ですが、随時レポートができればと思います。 またメインプロジェクトは「candycane」という名前のプロジェクトです。 内容は「redmineをCakePHPに移植する</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yandod/20090410/1239361098">yandodの日記</a> - 2009-04-10 19:58:28</dt>
+<dd><p> events.php.gr.jp - CakePHP開発合宿アルファ版 いろいろと小さなハプニングもありましたが、無事に第1イテレーションが終わりました。 まだみなさんリズムに乗り切れていないといった感じで、エンジンがかかってくるのを待っている感じです。 とはいえやっぱり普段と違う環</p></dd>
+<dt>
+<a href="http://suzuki.tdiary.net/20090410.html#p01">雑文発散</a> - 2009-04-11 01:05:29</dt>
+<dd><p>CakePHP開発合宿アルファ版に参加している。</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yandod/20090410/1239382398">yandodの日記</a> - 2009-04-11 01:53:25</dt>
+<dd><p> events.php.gr.jp - CakePHP開発合宿アルファ版 引き続き開発が進行していますが、わりと難航しています。 それぞれが課題を抱えながら苦しみつつ、少しづつ前進しています。 明日はフルで1日が使えますが、どうなるのでしょうか。。。 </p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yandod/20090411/1239426235">yandodの日記</a> - 2009-04-11 14:04:01</dt>
+<dd><p> events.php.gr.jp - CakePHP開発合宿アルファ版 ちょうど作業時間のうちの半分が終了しました。 タスクの消化状況は20%ほどなので、だいぶ計画からは乖離している状態です。 すこし休憩をとってリフレッシュしたいところです。 </p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/kaz_29/20090411/1239446713">kaz_29@はてな</a> - 2009-04-11 19:45:55</dt>
+<dd><p> 合宿は明日まで続きますが、諸事情により（予定通り）早退しました(;_;。 今回は、CakePHP初心者という事で簡単めな機能を割り振ってもらったのですが、結局半分もこなせませんでした(;_;。 この種の開発合宿自体始めてだったのですが、かなりハードですがなんだかとても楽</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yandod/20090411/1239466715">yandodの日記</a> - 2009-04-12 01:18:41</dt>
+<dd><p> events.php.gr.jp - CakePHP開発合宿アルファ版 瞬く間に2日目が終了しました。 徐々に参加者の疲労の色が濃くなってきてる気がします。 酒もカップラーメンにも手を出さず、もくもくとやっていますが大分作業が進んできたところです。 実際にプロジェクト管理のデータで見</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/sotarok/20090412/1239505482">肉とご飯と甘いもの @ sotarok</a> - 2009-04-12 12:04:55</dt>
+<dd><p> events.php.gr.jp - CakePHP開発合宿アルファ版 これまでもEthnaのコミッタが，「こういう機能ほしいよね」などといろいろ話合う機会はたびたびありましたが，実際にコードを書き始めるとなると，その仕様の詳しいところはどうしようか，とかすりあわせなければいけないとこ</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/yandod/20090412/1239516664">yandodの日記</a> - 2009-04-12 15:11:19</dt>
+<dd><p> events.php.gr.jp - CakePHP開発合宿アルファ版 さまざまなドラマがありましたが、無事にCakePHP開発合宿が終了しました。 参加したみなさん、おつかれさまでした。 今回の作業だけではcandycaneをリリースする所まではたどり着きませんでしたが、かなりの進捗がありました</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/lind/20090412#p1">LINDの喜・＊・＊・楽</a> - 2009-04-13 01:27:23</dt>
+<dd><p> 10日〜12日の二泊三日でCakePHP開発合宿アルファ版に参加してきました。 初めての開発合宿でしたが、今までに無い環境の中で作業ができたのはいい事も悪いこともありました。 以下最後にまとめたKPTと感想です Keep (今回うまくいったこと) redmineを使ってみた 以前から作</p></dd>
+<dt>
+<a href="http://suzuki.tdiary.net/20090413.html#p01">雑文発散</a> - 2009-04-13 23:12:14</dt>
+<dd><p>既に当日のエントリは少し書いたけど、改めてまとめ。4月10〜12日にかけて、CakePHP開発合宿アルファ版へ参加してきた。</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/i_ogi/20090418/1240044386">おぎろぐはてな</a> - 2009-04-18 17:46:35</dt>
+<dd><p> 先週は箱根でCakePHPの開発合宿がありました。 events.php.gr.jp - CakePHP開発合宿アルファ版 Cake組、Ethna工作員組に紛れ込んで、Cakeなんだけども何かを開発するのではなく、先月開催されたCakePHPハンズオンで撮影したムービーをひたすらと編集する作業を1人だけやって</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/74" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>

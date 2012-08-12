@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>第4回PHP懇親会 - events.php.gr.jp</title>
+<link rel="stylesheet" type="text/css" href="/css/phpgrjp.css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://events.php.gr.jp/events/rss" />
+</head>
+<body>
+<div id="header">
+  <h1 class="ja"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">日本 PHP ユーザ会</a></h1>
+  <h1 class="en"><a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">Japan PHP Users Group</a></h1>
+  <div id="phpug-logo">
+    <a href="http://www.php.gr.jp/" title="日本 PHP ユーザ会メインページへ">
+      <img src="http://www.php.gr.jp/images/h1.gif" width="179" height="19" alt="Japan PHP Users Group" />
+
+    </a>
+  </div>
+  <div id="navigation">
+    <ul>
+      <li id="menu-item-www" class="menu-item"><a href="http://www.php.gr.jp/">メイン</a> </li>
+      <li id="menu-item-news" class="menu-item"><a href="http://news.php.gr.jp/">ニュース</a> </li>
+      <li id="menu-item-ml" class="menu-item"><a href="http://ml.php.gr.jp/">メーリングリスト</a> </li>
+
+      <li id="menu-item-bbs" class="menu-item"><a href="http://bbs.php.gr.jp/">掲示板</a> </li>
+      <li id="menu-item-planet" class="menu-item"><a href="http://planet.php.gr.jp/">プラネット</a> </li>
+      <li id="menu-item-docs" class="menu-item"><a href="http://docs.php.gr.jp/">日本語ドキュメント</a> </li>
+      <li id="menu-item-events" class="menu-item menu-point"><a href="http://events.php.gr.jp/">イベント</a> </li>
+    </ul>
+
+  </div>
+  <div class="tail"></div>
+</div>
+<div id="container">
+  <div id="top"><h1>events.php.gr.jp</h1></div>
+  <div id="content">
+  <div id="menu">
+    <ul class="menu">
+      <li><a href="/">Top</a></li>
+                              <li><a href="/users/login">Login</a></li>
+            <li><a href="/events/rss">RSS</a></li>
+    </ul>
+  </div>
+
+<hr />
+<ul class="menu">
+<li><a href="/events/rss/86">このイベントのRSS</a></li>
+</ul>
+
+<div>
+<h2>Event Entry::第4回PHP懇親会</h2>
+<dl>
+<dt>イベント内容</dt><dd>1年ぶりに好評を頂いたPHP懇親会をまた開催します。<br />
+今回も前回同様、参加者全員によるライトニングトークを自己紹介代わりにおこなってもらいます。<br />
+発表する内容はPHPに関連する事などなんでもかまいません。<br />
+他の人に自分を知ってもらうための自己紹介をしてください。<br />
+みなさまの参加お待ちしております。<br />
+<br />
+<h2>開催の目的</h2><br />
+PHPの懇親会では大きく二つの目的があります。<br />
+<br />
+いつもPHP勉強会では発表内容がレベルの高いものだったりして発表する方が限られていますが、<br />
+このPHP懇親会では普段発表されない方が勇気を持って発表できる場を提供したいと思っております。<br />
+なのでプレゼンが下手だったり5分も話せないとしてもかまいません。<br />
+自分が「たいしたことのない」と思っているネタや技術も他の人から見たら実はおもしろかったり、スゴク役に立つ話しだったりすることもあります。<br />
+また普通の自己紹介をするよりも、興味を持つものや聴いてみたい話しなどを伝えください。<br />
+大事なのは人前で発表をしたという実体験をして頂くのが一つ目の目的です。<br />
+<br />
+二つ目の目的は懇親を図ることです。<br />
+懇親会というと知らない人ばかりで話し相手も居なく誰とも話せない経験がある方もいらっしゃるかもしれませんが、<br />
+全員にプレゼンをして頂くことで、お互いを知っていただき話しをするネタを探してみてください。<br />
+<br />
+ということでライトニングトークみたいな軽いのりで<br />
+美味しい料理とお酒を飲みながら新しい何かを探してみたいとこの会を企画します。<br />
+<br />
+<h2>注意</h2><br />
+<div style="color:red;font-weight:bold"><br />
+今回開催場所(お店)が変わります。間違って以前の会場に向かわない様ご注意ください<br />
+</div><br />
+<br />
+<br />
+</dd>
+<dt>イベント開催時間</dt><dd>2009-11-14 17:00 〜 23:00</dd>
+<!-- <dt>イベント終了時間</dt><dd>{$app.event.end_date}</dd> -->
+<dt>募集開始時間</dt><dd>2009-11-04 23:59:00</dd>
+<dt>イベント申し込み締め切り時間</dt>
+  <dd>2009-11-14 17:00:00</dd>
+<dt>地図</dt>
+<dd>
+<script type="text/javascript" src="http://slide.alpslab.jp/scrollmap.js"></script>
+<div class="alpslab-slide">
+35/37/18.908,139/43/56.894</div>
+<p>※会場までの地図です。<br />
+地図は<em>最寄の駅</em>を表示しており、<img src="{$BASE_URL}/../theme/phpgrjp/images/map-play.png" />をクリックすることにより、<em>会場までの順路が表示されます</em>。<br />
+また、地図をドラッグ＆ドロップにて動かすことができます。<br />
+<br />
+操作方法の詳細については<a href="http://www.alpslab.jp/slide_howto.html#4">貼り付けた地図の操作方法</a>を参照してください</p>
+</dd>
+</dl>
+</div>
+
+<div>
+<h3>開催概要</h3>
+<ul>
+<li>日付: 2009/11/14 (土)</li>
+<li>時間: 17時～23時 (22時で中締めの予定)</li>
+<li>場所: <a href="http://r.gnavi.co.jp/g292702/">旬鮮市場 でり坊</a> ※以前と会場が変わります。お間違いの無いようお願いいたします。</li>
+<li>住所: 東京都品川区東五反田2-19-3 (JR山手線・東急池上線 五反田駅より徒歩5分)</li>
+<ul>
+<li><a href="http://rm.gnavi.co.jp/Map/map.php?dbMode=real&amp;gShopID=g292702&amp;gMode=static&amp;dir=g292702#map">地図</a></li>
+</ul>
+</li>
+<li>会費: 今回は3パターンに分かれています。</li>
+<ul>
+<li>一般の方 5000円 (飲み放題+料理)</li>
+<li>お酒を飲まない方 4500円 (ソフトドリンク飲み放題+料理)</li>
+<li>学生 3000円 (飲み放題+料理 学生証を見せてください)</li>
+<li>※学生・お酒を飲まない方は必ず申込み時にその旨を入力下さい。入力忘れた場合はコメント欄でもかまいません。必ずご入力下さい</li>
+</ul>
+</li>
+<li>定員: 30名</li>
+<li>環境: </li>
+<ul>
+<li>プロジェクタを用意し発表ができるようにしております。</li>
+<li>電源が必要なかたは電源タップをお持ちいただけると助かります。</li>
+<li>ネットワークはご用意しておりませんので各自ご用意いただくようお願いいたします。(イーモバイル・WiMAXは入ると思います)</li>
+</ul>
+</li>
+<li>最小実施人数: (変更)</li>
+<ul>
+<li>『2009/11/10 23:00までに15人集まらない時は中止させて頂きます。』と書きましたが、集まらなくても開催いたします。(その際予定していた内容が変更されるかもしれませんがご了承ください)</li>
+</ul>
+</li>
+<li><a href="http://d.hatena.ne.jp/lind/20091106#p1">お店について</a>BLOG書きました。</li>
+</ul>
+
+<h3>発表概要</h3>
+<ul>
+<li>発表時間: 5分以内</li>
+<li>発表方法: みんなが見れれば何でも可です。</li>
+<li>発表内容: PHPに関連する事をメインとして自己紹介など簡単な内容でかまいません。</li>
+<ul>
+<li>普段思っているPHPへの疑問、</li>
+<li>自分が運営しているサイトの宣伝やその裏話など</li>
+<li>やってみたいことなど</li>
+<li>※発表だけがメインな会ではなく、その後の懇親もメインです。なのであとで話しをする為にみんなに知ってもらうネタをご用意下さい。</li>
+</ul>
+</li>
+<li>注意事項: 今回は発表時間短縮のため発表に使用するPCを統一させていただきます。</li>
+<ul>
+<li>その為使用可能アプリ以外のアプリを使用される場合はご相談ください。</li>
+</ul>
+</li>
+<li>使用可能OS: WindowsXP、Mac OS</li>
+<li>使用可能アプリ: </li>
+<ul>
+<li>PowerPoint 2003</li>
+<li>IE 8</li>
+<li>Firefox3.0</li>
+<li>Keynote (不明)</li>
+<li>Acrobat 9</li>
+</ul>
+</li>
+</ul>
+<p>※Keynoteは自分のPCではないのでチョットわかりません。</p>
+
+<p>※上記以外のソフトまたはバージョンで使用される場合はご連絡下さい(連絡先は申込み後にお知らせされます)</p>
+
+<h3>キャンセルについて</h3>
+<p>できるだけキャンセルのないようにお願いしますが、万が一いけなくなった場合はできるだけ早くこのページのコメント欄に連絡をお願いします。 </p>
+
+<h3>申し込み時に関するお願い</h3>
+<p>学生の方、お酒を飲まない方は必ずコメント欄にその旨を入力下さい。</p>
+
+<p>入力忘れた場合はコメント欄でもかまいませんので必ずご入力下さい</p>
+
+<p>懇親を深める会なので、開催後もお互いがわかるように申し込み時のコメント欄にはネットで使用しているID(複数可) を入れてください。
+また懇親会に申し込みはチェックを入れなくてかまいません。
+注: この登録は強制ではありませんご希望される方のみご登録下さい。また全てのアカウントを登録する必要もありません。</p>
+
+<p>例:</p>
+<ul>
+<li>Twitter: LIND</li>
+<li>Wassr: lind</li>
+<li>はてな: id:lind</li>
+<li>mixi: LIND/48870</li>
+<li>BLOGのURL</li>
+<li>など普段ログインしているIDやブロフなどをお知らせ下さい。</li>
+</ul></div>
+
+<h3>参加メンバー一覧</h3>
+<ul>
+<li>募集人数:31</li>
+<li>現在の参加人数:13</li>
+<li>懇親会参加人数:12</li>
+<li>残り:18</li>
+</ul>
+
+<div align="center">
+<table>
+  <tr><th>name</th><th>comment</th><th>party</th><th>timestamp</th><th>action</th></tr>
+  
+          <tr class="odd">
+          <td>LIND</td>
+    <td>幹事です。参加お待ちしております</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-03 21:45:22</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>atcorp</td>
+    <td>よろしくお願いしますむむむ。 atcorp ではてな・twitter・wassrなどやってます。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-06 11:34:41</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ogi</td>
+    <td>家から歩いて行ける</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-06 16:56:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>個々一番</td>
+    <td>30%位の確率でキャンセルする可能性がありますが・・・。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-07 19:45:29</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>crazyup</td>
+    <td>こういう会に参加するのが初めてですがよろしくお願いします。 Twitter/はてなはid:crazyupでやっています。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-09 00:04:12</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>wildwell</td>
+    <td>参加しまーす！日曜プログラマの初心者なので、phpについてあまり話すことはできませんが・・・。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-09 04:44:02</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>たつさん</td>
+    <td>ネタも決まってませんが、参加表明します！お酒は飲みません（飲めません）</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-09 12:39:01</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>しげる</td>
+    <td>初めてでドキドキですが参加したいと思います。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-09 18:18:04</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>cosuke2000</td>
+    <td>宜しくお願いします！PHPで業務アプリを作っています。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-09 20:41:05</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>k-kishida</td>
+    <td>イベント続きで厳しいけど、でり坊なら参加しないわけにはいかない</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-09 22:49:32</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>Kentauros</td>
+    <td>初めまして！ぜひ参加させていただきたいです、よろしくお願いしまーす♪。mixi:Kentauros/5087691</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-10 00:57:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>overdrive596</td>
+    <td>参加します。よろしくお願い致します。</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-10 01:30:44</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>qurataro</td>
+    <td>参加いたします。お酒飲めません。　是非参加させてください</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-10 17:29:17</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+      <tr class="canceled">
+      <td>harvestrain</td>
+    <td>ひとまず、参加にさせてくださいませ。Twitter:USSYamato</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-10 18:33:17</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ntaka</td>
+    <td>参加させていただきます。よろしくお願いします。twitter:ntakaaki</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-12 19:23:04</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="even">
+          <td>yuppyi</td>
+    <td>参加表明が遅くなってすみません。初参加です。小規模な開発が多く、自己流の発表ネタになってしまうと思いますがよろしくお願いいたします。 Twitter:yuppyi</td>
+    <td style="text-align:center">○</td>
+    <td>2009-11-13 18:54:47</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+  
+          <tr class="odd">
+          <td>ようへい</td>
+    <td>参加します。お酒は飲みません。twitter:yo___hei, hateha:brick　よろしくおねがいします</td>
+    <td style="text-align:center"></td>
+    <td>2009-11-14 10:43:40</td>
+    <td style="text-align:center">
+                    </td>
+  </tr>
+    <tr>
+    <td colspan="5">
+          <div class="info">
+      <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+      </div>
+        </td>
+  </tr>
+</table>
+</div>
+
+<div class="section" id="comments">
+<h3>コメント一覧</h3>
+
+<div class="section">
+<h4>
+0 &nbsp; harvestrain</h4>
+  <p>
+日程の調整がつけば参加したいです～  </p>
+</div>
+<div class="section">
+<h4>
+1 &nbsp; atcorp</h4>
+  <p>
+そうでした、「学生です」ってことを記すの忘れてました！よろしくおねがいします～！  </p>
+</div>
+<div class="section">
+<h4>
+2 &nbsp; wildwell</h4>
+  <p>
+すみません。都合がつかず、キャンセルで。  </p>
+</div>
+<div class="section">
+<h4>
+3 &nbsp; harvestrain</h4>
+  <p>
+16:30から少し用事があるのですが、遅刻での参加は問題ありますか？  </p>
+</div>
+<div class="section">
+<h4>
+4 &nbsp; LIND</h4>
+  <p>
+&gt;harvestrainさん だらだらやっていると思うので大丈夫ですよ。何時ごろになるかわかれば教えてください  </p>
+</div>
+<div class="section">
+<h4>
+5 &nbsp; harvestrain</h4>
+  <p>
+＞LINDさん　ありがとうございます。プライベートオファーの面談なので多分1時間もかからないとは思いますが、目処がつき次第またお知らせします。  </p>
+</div>
+<div class="section">
+<h4>
+6 &nbsp; 個々一番</h4>
+  <p>
+ごめんなさい。うごけない  </p>
+</div>
+<div class="section">
+<h4>
+7 &nbsp; LIND</h4>
+  <p>
+了解です。終ったら連絡してみてください &gt; 個々一番さん  </p>
+</div>
+<div class="section">
+<h4>
+8 &nbsp; harvestrain</h4>
+  <p>
+すみません、ちょっと時間の調整がつかなさそうなので今回は見送ります。急きょで申し訳ありません。次回、機会があればまた参加させて頂きたいと思います。  </p>
+</div>
+<div class="section">
+<h4>
+9 &nbsp; overdrive596</h4>
+  <p>
+1・2時間ほど遅れます。すいません。  </p>
+</div>
+<div class="section">
+<h4>
+10 &nbsp; LIND</h4>
+  <p>
+&gt;overdrive596さん 了解です。お待ちしています  </p>
+</div>
+
+</div>
+
+  <div class="info">
+    <p>イベントに参加したりコメントする場合は<a href="/users/login">ログイン</a>してください。</p>
+  </div>
+<div class="twitter">
+<script type="text/javascript" src="/js/prototype.js"></script><form id="form122530378" onsubmit="event.returnValue = false; return false;" method="post" action="/events/tweets/86"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><script type="text/javascript">
+//<![CDATA[
+Event.observe('form122530378', 'submit', function(event) { new Ajax.Updater('ajax_responce','/events/tweets/86', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.show('ajax_responce'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.hide('ajax_responce'); Element.show('ajax_loading');}, parameters:Form.serialize('form122530378'), requestHeaders:['X-Update', 'ajax_responce']}) }, false);
+//]]>
+</script><script>
+Event.observe(window, 'load', new Ajax.Updater('ajax_responce','/events/tweets/86', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.show('twitter_controll'); Element.hide('ajax_loading');}, onLoading:function(request) {Element.hide('twitter_controll'); Element.show('ajax_loading');}, requestHeaders:['X-Update', 'ajax_responce']}), false);
+</script>
+<h3>Twitterコメント一覧(ハッシュタグ:&nbsp;#phpstudy,#phpstudy_86)</h3>
+<div class="twitter_controll" id="twitter_controll"><input type="submit" value="リロード" id="ajax_button"></div>
+<div id="ajax_loading" class="ajax_loading" style="display:none;">
+<img src="/img/ajax-loader.gif" alt="" /><br />
+ロード中...
+</div>
+<div id="ajax_responce">
+</div>
+
+</div>
+
+<div id="trackback">
+<h3>Trackback</h3>
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+  rdf:about="/events/show/86"
+  trackback:ping="/trackbacks/receive/86"
+  dc:title=""
+  dc:identifier="/events/show/86" />
+</rdf:RDF>
+-->
+<dl>
+<dt>
+<a href="http://d.hatena.ne.jp/shimooka/20091105/1257411502">Do You PHP はてな</a> - 2009-11-05 18:00:30</dt>
+<dd><p> アナウンス出て募集始まってます。1年ぶりですか。幹事のLINDさん(id:lind)、毎度ありがとうございます;-) ちなみに、こんな感じのイベントです。 PHP懇親会 ダイジェスト - Do You PHP はてな 第2回PHP懇親会に行ってきた - Do You PHP はてな 今回は新宿のファンデリさん</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/gusagi/20091105/1257434737">gusagiの日記</a> - 2009-11-06 00:25:43</dt>
+<dd><p> こちらで募集が始まっていました！ 1年ぶりに好評を頂いたPHP懇親会をまた開催します。 今回も前回同様、参加者全員によるライトニングトークを自己紹介代わりにおこなってもらいます。 発表する内容はPHPに関連する事などなんでもかまいません。 他の人に自分を知ってもら</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/lind/20091106#p1">LINDの喜・＊・＊・楽</a> - 2009-11-06 22:48:28</dt>
+<dd><p> ということで1年ぶりになりましたがPHP懇親会を開催します が、既に一昨日から募集を開始しているけどとにかく参加申込みがない……(ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ 他のイベントと競合が多かったのかなぁ… 申し込みページで目的だとか難しいことタラタラと書きすぎたかなぁ… 2</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/lind/20091109#p1">LINDの喜・＊・＊・楽</a> - 2009-11-10 01:21:11</dt>
+<dd><p> 人が集まらないとジタバタしてTwitterとかに書きまくっているPHP懇親会ですが最小実施人数募集の期限がいよいよ明日と迫りました。 どうして集まらないのか 何がいけないのか 敷居を上げるようなこと書いたのかな？ など原因について考えたり、どうしたらいいか人が集まって</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/crazyup/20091114/phpstudy86">crazyuplog</a> - 2009-11-14 23:21:20</dt>
+<dd><p> http://events.php.gr.jp/events/show/86 よかったこと 敷居が低くて初めての自分でも参加しやすかったこと 料理と酒がうまかったこと（でり坊++） 今度やること 内容のある内容を発表する。 リベンジしたいです＞＜ できるだけの人間になってきます。 とにかくはじめの一歩</p></dd>
+<dt>
+<a href="http://blog.yuppyi.com/?p=59">yuppyi blog</a> - 2009-11-15 13:44:55</dt>
+<dd><p>第4回PHP懇親会に参加しました。<br />
+勉強会は初参加でしたので、参加しようか非常に迷いましたが<br />
+参加してよかったと思います。<br />
+まずは、OSCなど大きなイベントに参加して<br />
+セッションを聞く側でしたので、吸収することは多かったのですが<br />
+自分から発信するには敷居が高い気がしていました。<br />
+今回参加する決め手になったのは、<br />
+全員発表すること、ということで、自分の開発のスタイルと<br />
+気になっていることの質問形式で進めました。<br />
+皆さんから多くの意見をいただいたので、<br />
+さらに勉強して、フィードバックできればと思います。...</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/lind/20091115#p1">LINDの喜・＊・＊・楽</a> - 2009-11-17 00:50:06</dt>
+<dd><p> 色々考えさせられるところがありましたが、無事第4回PHP懇親会を開催しました。 ■ 11人と少なくまとまった会 11人と少人数の開催になりましたが、勉強会や懇親会に初参加の人が半分以上居てとてもうれしかったです。 ちなみに自分が知っている人は3人しか居なくてチョット</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/atcorp/20091121/p1">学内IT勉強会のススメ - atcorp</a> - 2009-11-22 15:08:31</dt>
+<dd><p> 行ってきました。 場所は五反田のでり坊というステキなお店。 PHP懇親会 id:LINDさんが主催している、居酒屋プレゼン的な懇親会。 ほんとに懇親会。LTあり。今回のアナウンスページはこちら。 第4回 PHP懇親会 http://events.php.gr.jp/events/show/86 料理おいしかった･･</p></dd>
+<dt>
+<a href="http://d.hatena.ne.jp/i_ogi/20091128/array_funcs">おぎろぐはてな</a> - 2009-11-28 19:37:43</dt>
+<dd><p> 先日、五反田でり坊で開催されたPHP懇親会に参加しました。 第4回PHP懇親会 - events.php.gr.jp PHP懇親会は、参加者全員が5分程度のLTをやることになっていて、発表の敷居も低く、また発表後には、発表の内容を肴に酒を呑みながら議論できるという感じになっています。 品</p></dd>
+</dl>
+
+<p>
+TrackBackPingURL:<input onfocus="this.select()"
+   readonly="readonly"
+   value="http://events.php.gr.jp/trackbacks/receive/86" size="45" id="ping-uri" name="ping-uri" type="text" />
+</p>
+
+<p class="notice">
+本文にこのサイトへのリンクが含まれているTrackbackのみ受け付ける仕様になっています
+</p>
+
+</div>
+
+<br />
+<hr />
+</div>
+<div id="footer">
+&copy;&nbsp;EventSystem&nbsp;version&nbsp;2.0.6</div>
+</div>
+</body>
+</html>
